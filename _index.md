@@ -1,0 +1,22 @@
+---
+date: 2018-06-26T11:19:07+02:00
+draft: false
+authors: ["FCoulombeau"]
+slug: accueil
+tags: ["Maths","Info"]
+---
+
+# Que trouve-t-on ici ?
+
+Ce site a essentiellement deux vocations :
+
+- présenter les divers projets que je mets à disposition sur FramaGit. Cette présentation se trouve [ici](/git/);
+- centraliser les divers liens et documents utiles pour mes élèves, en informatique ou en mathématiques : voir [là](/enseignement/).
+
+On trouvera aussi dans la partie [divers](/divers/), des notes en vrac sur tout ce qui pourrait, momentanément ou pas, m'intéresser.
+
+# À propos des commentaires
+
+Certaines pages sont fermées aux commentaires, d'autres au contraire peuvent accueillir des commentaires - qui sont alors les bienvenus !
+
+Avant de commenter, vous pouvez consulter [cette page](/commentpolicy/) pour la mise en forme des commentaires, l'introduction de formules de maths, les smileys, etc...
