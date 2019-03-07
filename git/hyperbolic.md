@@ -14,7 +14,7 @@ comments: true
 tags: ["Maths", "Info", "Complexes", "Transformations"]
 categories: ["ConfMap", "Git"]
 ---
-L'article sur [transformations conformes](/git/transconf/) explique comment installer le module [confmap](https://framagit.org/FCoulombeau/confmap) et comment l'utiliser pour faire des transformations conformes.
+L'article sur [transformations conformes](/git/) explique comment installer le module [confmap](https://framagit.org/FCoulombeau/confmap) et comment l'utiliser pour faire des transformations conformes.
 
 Je détaille ici comment l'utiliser pour obtenir des pavages du plan hyperbolique.
 
