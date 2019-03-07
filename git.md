@@ -47,7 +47,7 @@ J'ai donc décidé d'écrire un code Python permettant de visualiser les transfo
 - on applique au plan ainsi recouvert une transformation conforme;
 - on regarde le résultat en créant une nouvelle image à partir d'une zone rectangulaire du plan transformé.
 
-<img src=/img/oim-1.png style="vertical-align:middle"> $\overset{\exp}{\longrightarrow}$ <img src=/img/oim-2.png style="vertical-align:middle">
+![avant](/img/oim-1.png) $\overset{\exp}{\longrightarrow}$ ![après](/img/oim-2.png)
 
 # Les pages explicatives
 
