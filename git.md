@@ -16,7 +16,6 @@ gh-badge: [star, fork, follow]
 comments: true
 slug:git
 ---
-{% include mathjax.html %}
 
 Cette page regroupe une présentation des diverses pages, posts et documents détaillant le fonctionnement du module Python [ConfMap](https://pypi.org/project/confmap/).
 
@@ -57,6 +56,3 @@ J'ai donc décidé d'écrire un code Python permettant de visualiser les transfo
 
 <li><span>Introduction</span> &nbsp; <a href="/git/confmap/">Utilisation de ConfMap pour les transformations conformes</a></li>
 <li><span>Introduction</span> &nbsp; <a href="/git/hyperbolic/">Utilisation de ConfMap pour les pavages hyperboliques</a></li>
-{% for post in site.categories.Personal %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
