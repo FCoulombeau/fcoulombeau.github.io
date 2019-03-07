@@ -47,9 +47,9 @@ J'ai donc décidé d'écrire un code Python permettant de visualiser les transfo
 - on applique au plan ainsi recouvert une transformation conforme;
 - on regarde le résultat en créant une nouvelle image à partir d'une zone rectangulaire du plan transformé.
 
-<p align="center"><img src=/img/oim-1.png style="vertical-align:middle"> $\overset{\exp}{\longrightarrow}$ <img src=/img/oim-2.png style="vertical-align:middle"></p>
+<img src=/img/oim-1.png style="vertical-align:middle"> $\overset{\exp}{\longrightarrow}$ <img src=/img/oim-2.png style="vertical-align:middle">
 
 # Les pages explicatives
 
-<li><span>Introduction</span> &nbsp; <a href="/git/confmap/">Utilisation de ConfMap pour les transformations conformes</a></li>
-<li><span>Introduction</span> &nbsp; <a href="/git/hyperbolic/">Utilisation de ConfMap pour les pavages hyperboliques</a></li>
+- Introduction : [Utilisation de ConfMap pour les transformations conformes](/git/confmap/)
+- Introduction : [Utilisation de ConfMap pour les pavages hyperboliques](/git/hyperbolic/)
