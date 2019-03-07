@@ -1,19 +1,15 @@
 ---
 layout: page
-
-gh-repo: FCoulombeau/confmap
-gh-badge: [star, fork, follow]
-
 title: "ConfMap"
 subtitle: "Transformations conformes du plan complexe (Conformal mappings)"
-mathjax: true
 date: 2018-06-26T11:19:07+02:00
+mathjax: true
 authors: ["FCoulombeau"]
+slug: git
+comments: true
 tags: [ Maths ,  Info ,  Complexes ,  Transformations ]
 categories: [ ConfMap ,  Git ]
 bigimg: /img/bandeau.png
-comments: true
-slug:git
 ---
 
 Cette page regroupe une présentation des diverses pages, posts et documents détaillant le fonctionnement du module Python [ConfMap](https://pypi.org/project/confmap/).
@@ -49,7 +45,7 @@ J'ai donc décidé d'écrire un code Python permettant de visualiser les transfo
 - on applique au plan ainsi recouvert une transformation conforme;
 - on regarde le résultat en créant une nouvelle image à partir d'une zone rectangulaire du plan transformé.
 
-![avant](/img/oim-1.png) ---> ![après](/img/oim-2.png)
+![avant](/img/oim-1.png) ---$\exp$---> ![après](/img/oim-2.png)
 
 # Les pages explicatives
 
