@@ -1,12 +1,18 @@
 ---
+layout: page
+
+gh-repo: FCoulombeau/confmap
+gh-badge: [star, fork, follow]
+
 title: "Transformations conformes"
-date: 2018-06-28T12:13:07+02:00
+subtitle: "Introduction à ConfMap"
+date: 2019-02-28T10:52:00+02:00
 mathjax: true
 authors: ["FCoulombeau"]
-linkTitle: confmap
 slug: transconf
 comments: true
 tags: ["Maths", "Info", "Complexes", "Transformations"]
+categories: ["ConfMap", "Git"]
 ---
 La page du projet : [https://framagit.org/FCoulombeau/confmap](https://framagit.org/FCoulombeau/confmap)
 

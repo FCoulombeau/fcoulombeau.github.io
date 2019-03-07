@@ -1,11 +1,18 @@
 ---
+layout: page
+
+gh-repo: FCoulombeau/confmap
+gh-badge: [star, fork, follow]
+
 title: "Pavages hyperboliques"
+subtitle: "Introduction à ConfMap"
 date: 2019-02-28T10:52:00+02:00
 mathjax: true
 authors: ["FCoulombeau"]
 slug: hyperb
 comments: true
 tags: ["Maths", "Info", "Complexes", "Transformations"]
+categories: ["ConfMap", "Git"]
 ---
 L'article sur [transformations conformes](/git/transconf/) explique comment installer le module [confmap](https://framagit.org/FCoulombeau/confmap) et comment l'utiliser pour faire des transformations conformes.
 
