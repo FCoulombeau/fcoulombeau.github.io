@@ -5,7 +5,7 @@ title: "Gestion des commentaires"
 comments: true
 layout: page
 mathjax: true
-subtitle: "De l'usage du Markdown, du Latex et des smileys dans les commentaires"
+subtitle: "De l'usage de Markdown, de Latex et des smileys dans les commentaires"
 tags: [markdown, latex, smileys, commentaires]
 slug: cd
 ---

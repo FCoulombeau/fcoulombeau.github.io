@@ -7,12 +7,7 @@ date: 2018-06-26T11:19:07+02:00
 authors: ["FCoulombeau"]
 tags: ["Maths", "Info", "Complexes", "Transformations"]
 categories: ["ConfMap", "Git"]
-
 bigimg: /img/bandeau.png
-
-gh-repo: FCoulombeau/confmap
-gh-badge: [star, fork, follow]
-
 comments: true
 slug:git
 ---
@@ -56,3 +51,6 @@ J'ai donc décidé d'écrire un code Python permettant de visualiser les transfo
 
 <li><span>Introduction</span> &nbsp; <a href="/git/confmap/">Utilisation de ConfMap pour les transformations conformes</a></li>
 <li><span>Introduction</span> &nbsp; <a href="/git/hyperbolic/">Utilisation de ConfMap pour les pavages hyperboliques</a></li>
+{% for post in site.categories.Personal %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
