@@ -1,6 +1,6 @@
 ---
 date: 2019-02-28T11:18:24+02:00
-authors: ["FCoulombeau"]
+authors: [ "FCoulombeau" ]
 title: "Gestion des commentaires"
 comments: true
 layout: page

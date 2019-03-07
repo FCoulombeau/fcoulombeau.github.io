@@ -9,8 +9,8 @@ subtitle: "Transformations conformes du plan complexe (Conformal mappings)"
 mathjax: true
 date: 2018-06-26T11:19:07+02:00
 authors: ["FCoulombeau"]
-tags: ["Maths", "Info", "Complexes", "Transformations"]
-categories: ["ConfMap", "Git"]
+tags: [ Maths ,  Info ,  Complexes ,  Transformations ]
+categories: [ ConfMap ,  Git ]
 bigimg: /img/bandeau.png
 comments: true
 slug:git
