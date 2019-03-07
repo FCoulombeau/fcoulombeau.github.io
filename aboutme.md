@@ -6,7 +6,7 @@ layout: page
 subtitle: "Qui, pourquoi, comment, etc..."
 ---
 
-<img src=/img/oim.png style="float:left;width:200px;margin-right:30px;">
+<img src="https://github.com/FCoulombeau/fcoulombeau.github.io/blob/master/img/oim.png" style="float:left;width:200px;margin-right:30px;">
 François Coulombeau, actuellement professeur de maths et d'informatique en PCSI au [lycée La Fayette](http://lycee-lafayette-clermont.fr/), mais aussi :
 
 - Père de 5 enfants, par ordre décroissant des âges : Rachel, Marc, Anaïs, Bastien et Soline.
