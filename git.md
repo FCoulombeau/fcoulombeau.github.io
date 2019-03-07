@@ -16,8 +16,9 @@ gh-badge: [star, fork, follow]
 comments: true
 slug:git
 ---
+{% include mathjax.html %}
 
-Cette page regroupe une présentation des diverses pages, posts et documents détaillant le fonctionnement du module Python [confmap](https://pypi.org/project/confmap/)
+Cette page regroupe une présentation des diverses pages, posts et documents détaillant le fonctionnement du module Python [ConfMap](https://pypi.org/project/confmap/).
 
 La page du projet : [https://github.com/FCoulombeau/confmap](https://github.com/FCoulombeau/confmap)
 
