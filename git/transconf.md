@@ -1,12 +1,7 @@
 ---
 title: "Transformations conformes"
 date: 2018-06-28T12:13:07+02:00
-draft: false
 mathjax: true
-menu: 
-  main:
-    name: Transformations
-    parent: git
 authors: ["FCoulombeau"]
 linkTitle: confmap
 slug: transconf

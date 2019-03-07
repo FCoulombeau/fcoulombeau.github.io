@@ -1,12 +1,7 @@
 ---
 title: "Pavages hyperboliques"
 date: 2019-02-28T10:52:00+02:00
-draft: false
 mathjax: true
-menu: 
-  main:
-    name: Pavages
-    parent: git
 authors: ["FCoulombeau"]
 slug: hyperb
 comments: true
