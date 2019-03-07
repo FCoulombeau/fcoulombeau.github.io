@@ -1,16 +1,19 @@
 ---
+date: 2019-03-07T11:19:07+02:00
+authors: ["FCoulombeau"]
+title: "À propos" 
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: "Qui, pourquoi, comment, etc..."
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<img src=/images/oim.png style="float:left;width:200px;margin-right:30px;">
+François Coulombeau, actuellement professeur de maths et d'informatique en PCSI au [lycée La Fayette](http://lycee-lafayette-clermont.fr/), mais aussi :
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Père de 5 enfants, par ordre décroissant des âges : Rachel, Marc, Anaïs, Bastien et Soline.
+- L'essentiel de mon travail tourne autour de l'aspect graphique des maths et de l'informatique : fractals, transformations du plan, pavages réguliers...
+- En dehors du travail, amateur de champignons, d'Auvergne, de séries télévisées, de parapente, de fiestas...
 
-What else do you need?
+Pour en savoir plus, vous pouvez visiter ma [chaîne YouTube](https://www.youtube.com/channel/UCaGpoPXJzHyqvTP14cHPoUg). Il y avait aussi mon compte Google+, mais Google+ ferme et je ne vois pas encore vers quoi je vais pouvoir me rabattre.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+> Le savant n'étudie pas la nature parce que cela est utile ; il l'étudie parce qu'il y prend plaisir et il y prend plaisir parce qu'elle est belle.  
+(_Poincaré_)
