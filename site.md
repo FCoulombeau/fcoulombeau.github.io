@@ -1,12 +1,11 @@
 ---
+layout: page
+title: Que trouve-t-on ici ?
+subtitle: Repli stratégique après la fermeture de Google+...
 date: 2018-06-26T11:19:07+02:00
-draft: false
 authors: ["FCoulombeau"]
-slug: accueil
-tags: ["Maths","Info"]
+tags: ["Maths","Info","Blogging"]
 ---
-
-# Que trouve-t-on ici ?
 
 Ce site a essentiellement trois vocations :
 
