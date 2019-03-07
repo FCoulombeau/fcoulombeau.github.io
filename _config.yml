@@ -24,6 +24,7 @@ description: Site Web professionnel
 
 # List of links in the navigation bar
 navbar-links:
+  Derniers posts: "index.html"
   À propos: "aboutme"
   Commentaires: "commentpolicy"
   Tags/Catégories:
