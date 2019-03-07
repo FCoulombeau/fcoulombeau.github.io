@@ -10,8 +10,6 @@ tags: [markdown, latex, smileys, commentaires]
 slug: cd
 ---
 
-Page slug : {{page.slug}}
-
 Tous les commentaires sont les bienvenus... ou presque ! Seront automatiquement effacés :
 
 - tous les commentaires agressifs, discourtois, hargneux, etc...
