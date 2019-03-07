@@ -25,9 +25,10 @@ description: Site Web professionnel
 # List of links in the navigation bar
 navbar-links:
   À propos: "aboutme"
-  Ressources:
-    - Comment policy: "http://fcoulombeau.github.io/commentpolicy/"
-    - Blog: "http://fcoulombeau.github.io/_posts/"
+  Commentaires: "commentpolicy"
+  Tags/Catégories:
+    - Tags: "tags"
+    - Catégories: "categories"
 #    - GitHub Pages: "https://pages.github.com/"
   ConfMap: "https://github.com/FCoulombeau/confmap"
 
