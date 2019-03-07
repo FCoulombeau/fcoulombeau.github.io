@@ -13,7 +13,7 @@ slug: transconf
 comments: true
 tags: ["Maths", "Info", "Complexes", "Transformations"]
 categories: ["ConfMap", "Git"]
-bigimg: /img/bandeau.png
+bigimg: /img/bandeau.jpg
 ---
 
 # Utilisation et syntaxe

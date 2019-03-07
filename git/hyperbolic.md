@@ -13,7 +13,7 @@ slug: hyperb
 comments: true
 tags: ["Maths", "Info", "Complexes", "Transformations"]
 categories: ["ConfMap", "Git"]
-bigimg: /img/bandeau.png
+bigimg: /img/bandeau.jpg
 ---
 L'article sur les [transformations conformes](/git/confmap/) explique comment utiliser le module [confmap](https://framagit.org/FCoulombeau/confmap) pour faire des transformations conformes.
 

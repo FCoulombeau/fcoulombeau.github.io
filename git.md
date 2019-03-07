@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ConfMap"
-subtitle: "Transformations conformes du plan complexe (Conformal mappings)"
+subtitle: "Transformations conformes (Conformal mappings)"
 date: 2018-06-26T11:19:07+02:00
 mathjax: true
 authors: ["FCoulombeau"]
@@ -9,7 +9,7 @@ slug: git
 comments: true
 tags: [ Maths ,  Info ,  Complexes ,  Transformations ]
 categories: [ ConfMap ,  Git ]
-bigimg: /img/bandeau.png
+bigimg: /img/bandeau.jpg
 ---
 
 Cette page regroupe une présentation des diverses pages, posts et documents détaillant le fonctionnement du module Python [ConfMap](https://pypi.org/project/confmap/).
