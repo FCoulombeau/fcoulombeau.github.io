@@ -4,6 +4,7 @@ authors: ["FCoulombeau"]
 title: "Commentaires"
 comments: true
 layout: page
+mathjax: true
 subtitle: "Sur l'usage du Markdown, du Latex, des smileys dans les commentaires"
 ---
 
