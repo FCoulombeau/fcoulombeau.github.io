@@ -17,7 +17,7 @@ emoji:
   format: emojione-svg # default html
   ascii: true # default false
   shortname: true # default true
-  src: "/assets/imgs/emojis" # defaults to "https://cdn.jsdelivr.net/emojione/assets/#{ext}"
+#  src: "/assets/imgs/emojis" # defaults to "https://cdn.jsdelivr.net/emojione/assets/#{ext}"
 # Name of website
 title: Le Git du Geek
 
