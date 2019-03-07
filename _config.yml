@@ -12,7 +12,7 @@ baseurl: ""
 #baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
-
+emoji_dir: ./img/emoji
 # Name of website
 title: Le Git du Geek
 
