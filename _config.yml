@@ -12,11 +12,7 @@ baseurl: ""
 #baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
-gems: ['jekyll-emoji']
-emoji:
-  format: emojione-svg # default html
-  ascii: true # default false
-  shortname: true # default true
+
 #  src: "/assets/imgs/emojis" # defaults to "https://cdn.jsdelivr.net/emojione/assets/#{ext}"
 # Name of website
 title: Le Git du Geek
@@ -256,6 +252,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
