@@ -8,8 +8,6 @@ authors: ["FCoulombeau"]
 tags: ["Maths", "Info", "Complexes", "Transformations"]
 categories: ["ConfMap", "Git"]
 bigimg: /img/bandeau.png
-gh-repo: FCoulombeau/confmap
-gh-badge: [star, fork, follow]
 comments: true
 slug:git
 ---
