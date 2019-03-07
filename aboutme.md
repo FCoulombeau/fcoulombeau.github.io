@@ -4,6 +4,7 @@ authors: ["FCoulombeau"]
 title: "À propos" 
 layout: page
 subtitle: "Qui, pourquoi, comment, etc..."
+tags: [moi, apropos, liens]
 ---
 
 <img src="https://fcoulombeau.github.io/img/oim.png" style="float:left;width:200px;margin-right:30px;">
