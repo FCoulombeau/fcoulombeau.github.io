@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Que trouve-t-on ici ?
+title: Origine et usage de ce site
 subtitle: Repli stratégique après la fermeture de Google+...
 date: 2018-06-26T11:19:07+02:00
 authors: ["FCoulombeau"]

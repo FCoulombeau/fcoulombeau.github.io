@@ -13,17 +13,8 @@ slug: transconf
 comments: true
 tags: ["Maths", "Info", "Complexes", "Transformations"]
 categories: ["ConfMap", "Git"]
+bigimg: /img/bandeau.png
 ---
-La page du projet : [https://framagit.org/FCoulombeau/confmap](https://framagit.org/FCoulombeau/confmap)
-
-ou sur GitHub     : [https://github.com/FCoulombeau/confmap](https://github.com/FCoulombeau/confmap)
-
-Pour installer le module :
-
-- **à la main** depuis l'une des deux pages ci-dessus :  
-`(bash) python setup.py install`
-- **avec pip** s'il est installé sur votre machine :  
-`(bash) pip install confmap`
 
 # Qu'est-ce qu'une transformation conforme ?
 

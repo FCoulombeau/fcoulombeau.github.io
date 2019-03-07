@@ -1,11 +1,11 @@
 ---
 date: 2019-02-28T11:18:24+02:00
 authors: ["FCoulombeau"]
-title: "Commentaires"
+title: "Gestion des commentaires"
 comments: true
 layout: page
 mathjax: true
-subtitle: "Sur l'usage du Markdown, du Latex, des smileys dans les commentaires"
+subtitle: "De l'usage du Markdown, du Latex et des smileys dans les commentaires"
 tags: [markdown, latex, smileys, commentaires]
 slug: cd
 ---

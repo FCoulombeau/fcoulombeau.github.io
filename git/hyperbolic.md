@@ -13,10 +13,11 @@ slug: hyperb
 comments: true
 tags: ["Maths", "Info", "Complexes", "Transformations"]
 categories: ["ConfMap", "Git"]
+bigimg: /img/bandeau.png
 ---
-L'article sur [transformations conformes](/git/) explique comment installer le module [confmap](https://framagit.org/FCoulombeau/confmap) et comment l'utiliser pour faire des transformations conformes.
+L'article sur les [transformations conformes](/git/confmap/) explique comment utiliser le module [confmap](https://framagit.org/FCoulombeau/confmap) pour faire des transformations conformes.
 
-Je détaille ici comment l'utiliser pour obtenir des pavages du plan hyperbolique.
+Je présente ici comment l'utiliser pour obtenir des pavages du plan hyperbolique.
 
 # Utilisation et syntaxe
 
