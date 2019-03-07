@@ -1,5 +1,5 @@
 _id: c652f480-40be-11e9-a3bd-9375bb1e01c5
-message: "Essai : $n!\\unserset{+\\infty}{\\sim}\\left(\\frac{n}{e}\\right)^n\\sqrt{2\\pi n}$\r\n\r\n**Ça marche ?**\r\n\r\n:smile:"
+message: "Essai : $n!\\underset{+\\infty}{\\sim}\\left(\\frac{n}{e}\\right)^n\\sqrt{2\\pi n}$\r\n\r\n**Ça marche ?**\r\n\r\n:smile:"
 name: François Coulombeau
 email: 137743b032171d66c4caa2be6b0884c3
 url: ''
