@@ -1,7 +1,11 @@
 ---
 layout: page
-title: ConfMap
-subtitle: Transformations conformes du plan complexe (Conformal mappings)
+
+gh-repo: FCoulombeau/confmap
+gh-badge: [star, fork, follow]
+
+title: "ConfMap"
+subtitle: "Transformations conformes du plan complexe (Conformal mappings)"
 mathjax: true
 date: 2018-06-26T11:19:07+02:00
 authors: ["FCoulombeau"]
