@@ -7,8 +7,9 @@ layout: page
 mathjax: true
 subtitle: "Sur l'usage du Markdown, du Latex, des smileys dans les commentaires"
 tags: [markdown, latex, smileys, commentaires]
-slug: cp
 ---
+
+Page slug : {{page.slug}}
 
 Tous les commentaires sont les bienvenus... ou presque ! Seront automatiquement effacés :
 
