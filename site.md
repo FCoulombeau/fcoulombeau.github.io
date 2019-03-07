@@ -7,7 +7,7 @@ authors: ["FCoulombeau"]
 tags: ["Maths","Info","Blogging"]
 ---
 
-Ce site est né de la fermeture (prochaine) de Google+. Il a essentiellement trois vocations :
+Ce site est né de la fermeture de Google+. Il a essentiellement trois vocations :
 
 - présenter les divers projets que je mets à disposition sur FramaGit. Cette présentation se trouve [ici](/git/);
 - centraliser les divers liens et documents utiles pour mes élèves, en informatique ou en mathématiques : voir [là](/enseignement/).
