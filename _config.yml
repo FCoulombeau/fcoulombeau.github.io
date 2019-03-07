@@ -23,11 +23,14 @@ description: Site Web professionnel
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  Ce site: "site"
-  À propos: "aboutme"
-  Commentaires: "commentpolicy"
-  Tags/Catégories:
+navbar-links: 
+  À propos: 
+    - Site: "site"
+    - Auteur: "aboutme"
+    - Commentaires: "commentpolicy"
+  Thèmes:
+    - Git: "git"
+    - Enseignement : "enseignement"
     - Tags: "tags"
     - Catégories: "categories"
 #    - GitHub Pages: "https://pages.github.com/"
