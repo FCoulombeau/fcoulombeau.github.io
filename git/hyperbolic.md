@@ -48,5 +48,6 @@ im.transform(sommets=(np.inf,6,4,6),nbit=20,
 
 Ce qui donne les images suivantes :
 
-<div align="center">![Reflets 1](/img/Reflets-1.jpg)</div>
-<div align="center">![Reflets 2](/img/Reflets-0.jpg)</div>
+![Reflets 1](/img/Reflets-1.jpg)
+
+![Reflets 2](/img/Reflets-0.jpg)
