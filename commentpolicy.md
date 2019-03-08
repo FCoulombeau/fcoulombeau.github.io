@@ -16,7 +16,7 @@ Tous les commentaires sont les bienvenus... ou presque ! Seront automatiquement 
 - tous les commentaires hors-sujet ou autres messages publicitaires, spam, etc...
 - les trolls :laughing:
 
-Le Markdown peut-être utilisé pour la mise en forme du texte dans les commentaires - ainsi que sur beaucoup de sites Web contemporains. [Prenez 5 minutes pour apprendre le Markdown](http://markdowntutorial.com/) (tutoriel en anglais) ou consultez ce [post](2019-08-03-Markdown) avec les principales syntaxes expliquées.
+Le Markdown peut-être utilisé pour la mise en forme du texte dans les commentaires - ainsi que sur beaucoup de sites Web contemporains. [Prenez 5 minutes pour apprendre le Markdown](http://markdowntutorial.com/) (tutoriel en anglais) ou consultez ce [post](/2019-08-03-Markdown/) avec les principales syntaxes expliquées.
 
 Des smileys sont aussi disponibles. L'ensemble des smileys supportés se trouve [là](https://www.webpagefx.com/tools/emoji-cheat-sheet/). On peut aussi (avec certains navigateurs) les obtenir avec un simple clic droit. Parmi les plus courants :
 
