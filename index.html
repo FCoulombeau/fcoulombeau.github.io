@@ -57,6 +57,19 @@ use-site-title: true
       </div>
     </div>
 
+    {% if post.categories.size > 0 %}
+    <div class="blog-categories">
+      Catégorie :
+      {% if site.link-tags %}
+      {% for categorie in post.categories %}
+      <a href="{{ site.baseurl }}/categories#{{- categorie -}}">{{- categorie -}}</a>
+      {% endfor %}
+      {% else %}
+        {{ post.categories | join: ", " }}
+      {% endif %}
+    </div>
+    {% endif %}
+    
     {% if post.tags.size > 0 %}
     <div class="blog-tags">
       Tags:
