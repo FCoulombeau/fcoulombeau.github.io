@@ -16,6 +16,18 @@ categories: ["ConfMap", "Git"]
 bigimg: /img/bandeau.jpg
 ---
 
+# Le projet
+
+Ce projet est né d'une difficile journée d'enseignant de mathématiques, où il m'est venu l'idée étrange de tenter de montrer à mes élèves l'effet de la fonction $\exp$ sur le plan complexe. Après quelques vagues dessins au tableau et beaucoup de gesticulations, il m'a fallu admettre que c'était un échec cuisant : non seulement les élèves n'avaient rien compris à ce que j'avais dit, mais encore ils paraissaient être complètement perdus par mes explications.
+
+J'ai donc décidé d'écrire un code Python permettant de visualiser les transformations conformes du plan complexe. L'idée est simple :
+
+- on part d'une image dont on recouvre le plan;
+- on applique au plan ainsi recouvert une transformation conforme;
+- on regarde le résultat en créant une nouvelle image à partir d'une zone rectangulaire du plan transformé.
+
+![avant](/img/oim-1.png) $\overset{\exp}{\longrightarrow}$ ![après](/img/oim-2.png)
+
 # Utilisation et syntaxe
 
 Je complèterai éventuellement plus tard cette section. Pour l'heure, voici un exemple minimal vous permettant d'obtenir les deux images ci-dessus :
@@ -35,8 +47,8 @@ im0.transform()
 Pour la seconde image, taper le code suivant :
 
 ```python
-import trans as conf
-im0=conf.ImageTransform('monimage.jpg',1,
+import confmap as cm
+im0=cm.ImageTransform('monimage.jpg',1,
                 r=1.*(1.+0.j),c=0.5*(1.+0.j),
                 d=0.-0.5j,output_width=300,
                 output_height=200,blur=False)
