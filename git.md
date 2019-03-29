@@ -39,5 +39,9 @@ Par exemple, $\exp$ peut être vue comme une transformation conforme du plan com
 
 # Les pages explicatives
 
+{% for post in site.categories["Git"] %}
+- [{{post.title}}]({{ site.baseurl }}{{ post.url }})
+{% endfor %}
+
 - Introduction : [Utilisation de ConfMap pour les transformations conformes](/2019-02-28-Confmap/)
 - Introduction : [Utilisation de ConfMap pour les pavages hyperboliques](/2019-02-28-Hyperbolic/)
