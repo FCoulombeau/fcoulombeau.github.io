@@ -13,6 +13,7 @@ comments: true
 tags: ["Maths", "Info", "Complexes", "Transformations"]
 categories: ["ConfMap", "Git"]
 niveau : Introduction
+image: /img/Reflets-1.jpg
 bigimg: /img/bandeau.jpg
 ---
 L'article sur les [transformations conformes](/2019-28-02-Confmap/) explique comment utiliser le module [confmap](https://github.com/FCoulombeau/confmap) pour faire des transformations conformes.
