@@ -15,7 +15,7 @@ tags: ["Maths", "Info", "Complexes", "Transformations"]
 categories: ["ConfMap", "Git"]
 bigimg: /img/bandeau.jpg
 ---
-L'article sur les [transformations conformes](/git/confmap/) explique comment utiliser le module [confmap](https://github.com/FCoulombeau/confmap) pour faire des transformations conformes.
+L'article sur les [transformations conformes](/2019-28-02-Confmap/) explique comment utiliser le module [confmap](https://github.com/FCoulombeau/confmap) pour faire des transformations conformes.
 
 Je présente ici comment l'utiliser pour obtenir des pavages du plan hyperbolique.
 
