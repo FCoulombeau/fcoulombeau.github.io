@@ -4,8 +4,6 @@ title: Origine et raison d'être de ce site
 subtitle: Repli stratégique après la fermeture de Google+...
 date: 2018-06-26T11:19:07+02:00
 authors: ["FCoulombeau"]
-tags: ["Maths","Info","Blogging"]
-categories: [Divers]
 ---
 
 Ce site est né de la fermeture de Google+. Il a essentiellement trois vocations :
