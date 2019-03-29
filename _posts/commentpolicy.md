@@ -7,6 +7,7 @@ layout: page
 mathjax: true
 subtitle: "De l'usage de Markdown, de Latex et des smileys dans les commentaires"
 tags: [markdown, latex, smileys, commentaires]
+categories: [Divers]
 slug: cd
 ---
 

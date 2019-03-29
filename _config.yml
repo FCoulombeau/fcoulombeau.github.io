@@ -25,12 +25,12 @@ description: Site Web professionnel
 # List of links in the navigation bar
 navbar-links: 
   À propos: 
-    - Site: "site"
-    - Auteur: "aboutme"
-    - Commentaires: "commentpolicy"
+    - Site: "_posts/site"
+    - Auteur: "_posts/aboutme"
+    - Commentaires: "_posts/commentpolicy"
   Thèmes:
-    - Git: "git"
-    - Enseignement : "enseignement"
+    - Git: "_posts/git"
+    - Enseignement : "_posts/enseignement"
     - Tags: "tags"
     - Catégories: "categories"
 #    - GitHub Pages: "https://pages.github.com/"
