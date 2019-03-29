@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 
 gh-repo: FCoulombeau/confmap
 gh-badge: [star, fork, follow]
