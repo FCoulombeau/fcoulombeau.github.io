@@ -8,4 +8,9 @@ authors: ["FCoulombeau"]
 comments: true
 ---
 
-Dans un futur plus ou moins proche, je compte regrouper ici mes documents de cours, quelques tutoriels, Jupyter notebooks et autres.
+Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
+
+# Posts publiés dans la catégorie Enseignement
+
+{% for post in site.categories["Enseignement"] %} - {% if post.niveau != "" %}{{post.niveau}} : {% endif %}[{{post.title}}]({{ site.baseurl }}{{ post.url }})
+{% endfor %}
