@@ -33,7 +33,9 @@ Ce qui nous intéresse ici, c'est plus particulièrement les **transformations c
 
 Par exemple, $\exp$ peut être vue comme une transformation conforme du plan complexe, ou encore n'importe quel polynôme de la variable $z$.
 
-# Les pages explicatives
+---
+
+# Posts publiés
 
 {% for post in site.categories["Git"] %} - {% if post.niveau != "" %}{{post.niveau}} : {% endif %}[{{post.title}}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}

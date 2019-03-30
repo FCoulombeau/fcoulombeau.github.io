@@ -10,6 +10,8 @@ comments: true
 
 Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
 
+---
+
 # Posts publiés
 
 {% for post in site.categories["Enseignement"] %} - {% if post.niveau != "" %}{{post.niveau}} : {% endif %}[{{post.title}}]({{ site.baseurl }}{{ post.url }})
