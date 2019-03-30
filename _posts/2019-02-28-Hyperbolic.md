@@ -10,8 +10,8 @@ date: 2019-02-28T10:52:00+02:00
 mathjax: true
 authors: ["FCoulombeau"]
 comments: true
-tags: ["Maths", "Info", "Complexes", "Transformations"]
-categories: ["ConfMap", "Git"]
+tags: ["Maths", "Info", "Pavages hyperboliques"]
+categories: ["Git"]
 niveau : Introduction
 image: /img/Reflets-1.jpg
 bigimg: /img/bandeau.jpg
