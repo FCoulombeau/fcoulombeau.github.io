@@ -12,7 +12,7 @@ authors: ["FCoulombeau"]
 comments: true
 tags: ["Maths", "Info", "Pavages hyperboliques"]
 categories: ["Git"]
-niveau : Introduction
+niveau : Introduction à ConfMap
 image: /img/Reflets-1.jpg
 bigimg: /img/bandeau.jpg
 ---

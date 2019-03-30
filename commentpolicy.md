@@ -1,7 +1,7 @@
 ---
 date: 2019-02-28T11:18:24+02:00
 authors: [ "FCoulombeau" ]
-title: "Gestion des commentaires"
+title: "Commentaires"
 comments: true
 layout: page
 mathjax: true

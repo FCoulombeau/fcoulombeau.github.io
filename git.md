@@ -1,9 +1,5 @@
 ---
 layout: page
-
-gh-repo: FCoulombeau/confmap
-gh-badge: [star, fork, follow]
-
 title: "ConfMap"
 subtitle: "Transformations conformes (Conformal mappings)"
 date: 2018-06-26T11:19:07+02:00
