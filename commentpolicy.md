@@ -6,7 +6,6 @@ comments: true
 layout: page
 mathjax: true
 subtitle: "De l'usage de Markdown, de Latex et des smileys dans les commentaires"
-slug: cd
 ---
 
 Tous les commentaires sont les bienvenus... ou presque ! Seront automatiquement effacés :
