@@ -6,7 +6,7 @@ date: 2018-06-26T11:19:07+02:00
 mathjax: true
 authors: ["FCoulombeau"]
 comments: true
-
+slug: git
 bigimg: /img/bandeau.jpg
 ---
 

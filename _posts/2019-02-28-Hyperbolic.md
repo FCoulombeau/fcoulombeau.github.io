@@ -10,6 +10,7 @@ date: 2019-02-28T10:52:00+02:00
 mathjax: true
 authors: ["FCoulombeau"]
 comments: true
+slug: hyperb
 tags: ["Maths", "Info", "Pavages hyperboliques"]
 categories: ["Git"]
 niveau : Introduction à ConfMap
