@@ -11,7 +11,7 @@ mathjax: true
 authors: ["FCoulombeau"]
 comments: true
 slug: hyperb
-tags: ["Maths", "Info", "Pavages hyperboliques"]
+tags: ["Maths", "Info", "Pavages hyperboliques", "ConfMap"]
 categories: ["Git"]
 niveau : Introduction à ConfMap
 image: /img/Reflets-1.jpg
