@@ -113,7 +113,7 @@ url-pretty: "https://fcoulombeau.github.io"  # eg. "deanattali.com/beautiful-jek
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-138680380-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -258,6 +258,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
