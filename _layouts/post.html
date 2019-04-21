@@ -30,6 +30,8 @@ layout: base
           {% endif %}
         </div>
       {% endif %}
+      {{- site.categories[page.categories[0]] -}}
+      {{- page.categories[0] -}}
       {% if site.categories[page.categories[0]].size > 1 %}
           <div id="samecat">
           Dans la même catégorie :
