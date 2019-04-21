@@ -35,7 +35,7 @@ layout: base
       {% if category[1].size>1 %}      
           <div id="samecat">
           Dans la catégorie {{- category -}} :  
-          {% for post in site.categories[page.categories[0]] %} - {% if post.niveau != "" %}{{post.niveau}} : {% endif %}[{{post.title}}]({{ site.baseurl }}{{ post.url }})
+          {% for post in category[1] %} - {% if post.niveau != "" %}{{post.niveau}} : {% endif %}[{{post.title}}]({{ site.baseurl }}{{ post.url }})
           {% endfor %}
           </div>
       {% endif %}
