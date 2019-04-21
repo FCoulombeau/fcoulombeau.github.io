@@ -35,6 +35,20 @@ layout: base
         {{ content }}
       </article>
       
+      {% for category in site.categories %}
+      {% if page.categories contains category[0] %}
+      {% if category[1].size>1 %}      
+          <div id="samecat">
+          Dans la même catégorie :
+          <ul>
+          {% for post in category[1] %} <li> {% if post.niveau != "" %}{{post.niveau}} : {% endif %}<a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+          {% endfor %}
+          </ul>
+          </div>
+      {% endif %}
+      {% endif %}
+      {% endfor %}      
+      
       {% if page.categories.size > 0 %}
       <div class="post-categories">
         Catégorie :
@@ -63,20 +77,6 @@ layout: base
       {% if page.social-share %}
         {% include social-share.html %}
       {% endif %}
-
-      {% for category in site.categories %}
-      {% if page.categories contains category[0] %}
-      {% if category[1].size>1 %}      
-          <div id="samecat">
-          Dans la même catégorie&nbsp;({{- category[0] -}}) :
-          <ul>
-          {% for post in category[1] %} <li> {% if post.niveau != "" %}{{post.niveau}} : {% endif %}<a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
-          {% endfor %}
-          </ul>
-          </div>
-      {% endif %}
-      {% endif %}
-      {% endfor %}
 
       <ul class="pager blog-pager">
         {% if page.previous.url %}
