@@ -17,9 +17,7 @@ niveau : Introduction à ConfMap
 image: /img/Reflets-1.jpg
 bigimg: /img/bandeau.jpg
 ---
-L'article sur les [transformations conformes](/2019-28-02-Confmap/) explique comment utiliser le module [confmap](https://github.com/FCoulombeau/confmap) pour faire des transformations conformes.
-
-Je présente ici comment l'utiliser pour obtenir des pavages du plan hyperbolique.
+Je présente ici une introduction très simple à la façon d'utiliser le module [confmap](https://github.com/FCoulombeau/confmap) pour obtenir des pavages du plan hyperbolique.
 
 # Utilisation et syntaxe
 
