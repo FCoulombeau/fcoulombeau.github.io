@@ -30,9 +30,9 @@ layout: base
           {% endif %}
         </div>
       {% endif %}
+      {% if site.categories[page.categories[0]].size > 1 %}
           <div id="samecat">
           Dans la même catégorie :
-          {% if site.categories[page.categories[0]].size > 1 %}
           {% for post in site.categories[page.categories[0]] %} - {% if post.niveau != "" %}{{post.niveau}} : {% endif %}[{{post.title}}]({{ site.baseurl }}{{ post.url }})
           {% endfor %}
           </div>
