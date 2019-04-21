@@ -37,5 +37,5 @@ Par exemple, $\exp$ peut être vue comme une transformation conforme du plan com
 
 # Posts publiés
 
-{% for post in site.categories["Git"] %} - {% if post.niveau != "" %}{{post.niveau}} : {% endif %}[{{post.title}}]({{ site.baseurl }}{{ post.url }})
+{% for post in {{site.categories["Git"] | reverse}} %} - {% if post.niveau != "" %}{{post.niveau}} : {% endif %}[{{post.title}}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}

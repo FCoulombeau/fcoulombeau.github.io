@@ -41,7 +41,7 @@ layout: base
           <div id="samecat">
           Dans la même catégorie :
           <ul>
-          {% for post in category[1] %} <li> {% if post.niveau != "" %}{{post.niveau}} : {% endif %}<a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+          {% for post in {{category[1] | reverse}} %} <li> {% if post.niveau != "" %}{{post.niveau}} : {% endif %}<a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
           {% endfor %}
           </ul>
           </div>
