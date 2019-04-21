@@ -587,6 +587,10 @@ footer .theme-by {
 #header-gh-btns {
   margin-bottom: 15px;
 }
+#samecat{
+  margin-left: 20px;
+}
+
 @media only screen and (max-width: 500px) {
   #header-gh-btns > iframe {
     display: block;
