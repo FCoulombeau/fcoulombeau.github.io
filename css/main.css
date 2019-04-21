@@ -588,7 +588,7 @@ footer .theme-by {
   margin-bottom: 15px;
 }
 #samecat{
-  margin-left: 20px;
+  padding-left: 20px;
 }
 
 @media only screen and (max-width: 500px) {
