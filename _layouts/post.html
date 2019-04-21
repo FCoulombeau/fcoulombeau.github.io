@@ -34,7 +34,7 @@ layout: base
       {% if page.categories contains category[0] %}
       {% if category[1].size>1 %}      
           <div id="samecat">
-          Dans la catégorie {{- category -}} :  
+          Dans la catégorie  {{- category -}} :  
           {% for post in category[1] %} - {% if post.niveau != "" %}{{post.niveau}} : {% endif %}[{{post.title}}]({{ site.baseurl }}{{ post.url }})
           {% endfor %}
           </div>
