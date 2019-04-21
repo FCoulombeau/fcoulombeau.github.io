@@ -30,7 +30,7 @@ layout: base
           {% endif %}
         </div>
       {% endif %}
-      {{- site.categories -}}
+      {{- site.categories[page.categories] -}}
       {{- page.categories[0] -}}
       {{- page.categories -}}
       {% if site.categories[page.categories[0]].size > 1 %}
