@@ -4,7 +4,7 @@ layout: post
 gh-repo: FCoulombeau/confmap
 gh-badge: [star, fork, follow]
 
-title: "La fonction $\exp$"
+title: "La fonction **_exp_**"
 subtitle: "Un exemple de transformation conforme"
 date: 2019-04-22T11:03:00+02:00
 mathjax: true
@@ -35,7 +35,15 @@ Pour en savoir plus sur les similitudes, notamment pour comprendre que l'on peut
 
 # Similitudes directes du plan complexe
 
-Intéressons plus précisément aux similitudes directes de $\mathds{C}$, c'est-à-dire aux fonctions du plan complexe dans lui-même multipliant les longueurs par un réel strictement positif et préservant les angles orientés. Par théorème de classification, on peut affirmer que
+Intéressons plus précisément aux similitudes directes de $\mathbf{C}$, c'est-à-dire aux fonctions du plan complexe dans lui-même multipliant les longueurs par un réel strictement positif et préservant les angles orientés. Par théorème de classification, on peut affirmer que
 
 - du point de vue géométrique, ce sont _exactement_ les **translations**, les **rotations** ou les composées d'une rotation et d'un homothétie de même centre;
 - du point de vue numérique, ce sont _exactement_ les fonctions du type $f:z\mapsto az+b$ où $a\neq0$ et $b$ sont deux nombres complexes.
+
+Plus précisément, montrons que ces deux ensembles sont les mêmes :
+
+- les translations, rotations et homothéties du plan complexe s'écrivent
+   - translation : $t_{vec{U}}:z\mapsto z+u$ où $u$ est l'affixe du vecteur $\vec{U}$;
+   - rotation : $r_{C,\theta}:z\mapsto e^{i\theta}(z-c)+c$ où $c$ est l'affixe du point $C$, centre de la rotation;
+   - homothétie : $h_{C,r}:z\mapsto r(z-c)+c$ où $r>0$ est le rapport d'homothétie et $c$ l'affixe de son centre $C$.
+   
