@@ -59,5 +59,13 @@ simplifier les produits et sommes entrant en jeu dans leur définition.
 
 # De l'utilité des isométries dans l'étude des transformations complexes
 
+Considérons maintenant une fonction $f:\mathbf{C}\rightarrow\mathbf{C}$, **_dérivable_** en un sens que je ne précise pas - voir l'article [sur les fonctions holomorphes](https://fr.wikipedia.org/wiki/Fonction_holomorphe) pour plus de détail.
+
+En utilisant la formule de Taylor, on a alors $f(z)=f(z_0)+f'(z_0)\left(z-z_0\right)+\underset{z_0}{o}\left(z-z_0\right)$.  
+Autrement dit, en posant $a=f'(z_0)$ et $b=f(z_0)-z_0f'(z_0)$, **_localement, si $f'(z_0)\neq0$_**, cette application se comporte comme une similitude directe : donc elle conserve, **_localement_**, les angles orientés.
+
+Les fonctions dérivables de la variable complexe sont donc, en tout point où leur dérivée ne s'annule pas, des transformations conformes. Cela a notamment pour conséquence que ces fonctions **_envoient un réseau de droites orthogonales sur un réseau de courbes orthogonales_**.
+
+# Exemple de la fonction exponentielle
 
    
