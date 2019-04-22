@@ -63,10 +63,22 @@ Plus précisément, montrons que ces deux ensembles sont les mêmes :
 Considérons maintenant une fonction $f:\mathbf{C}\rightarrow\mathbf{C}$, **_dérivable_** en un sens que je ne précise pas - voir l'article [sur les fonctions holomorphes](https://fr.wikipedia.org/wiki/Fonction_holomorphe) pour plus de détail.
 
 En utilisant la formule de Taylor, on a alors $f(z)=f(z_0)+f'(z_0)\left(z-z_0\right)+\underset{z_0}{o}\left(z-z_0\right)$.  
-Autrement dit, en posant $a=f'(z_0)$ et $b=f(z_0)-z_0f'(z_0)$, **_localement, si $f'(z_0)\neq0$_**, cette application se comporte comme une similitude directe : donc elle conserve, **_localement_**, les angles orientés.
+Autrement dit, en posant $a=f'(z_0)$ et $b=f(z_0)-z_0f'(z_0)$, **_localement, si $f'(z_0)\neq0$_**, cette application se comporte comme la similitude directe $z\mapsto az+b$ : donc elle conserve, **_localement_**, les angles orientés.
 
 Les fonctions dérivables de la variable complexe sont donc, en tout point où leur dérivée ne s'annule pas, des transformations conformes. Cela a notamment pour conséquence que ces fonctions **_envoient un réseau de droites orthogonales sur un réseau de courbes orthogonales_**.
 
 # Exemple de la fonction exponentielle
 
-   
+La fonction $\exp$ est dérivable, de dérivée $\exp'=\exp$. De plus sa dérivée ne s'annule jamais ! Elle est donc conforme en tout point.
+
+En revanche, vue comme une fonction de $\mathbf{C}$ dans $\mathbf{C}$, elle n'est pas bijective : ce n'est pas une transformation du plan complexe dans son ensemble.
+
+Plus précisément : 
+-  $e^{z+2ik\pi}=e^z$, il faut donc restreindre l'ensemble de départ à une bande comprenant des points du plan complexe dont la partie imaginaire se trouve dans un intervalle d'amplitude $2\pi$. Par exemple,  
+$B=\left\{x+iy, y\in]-\pi;\pi]\right\}$
+-  l'équation $e^z=c$ admet des solutions pour tout **_complexe_** $c\neq0$. Il faut donc restreindre l'ensemble d'arrivée aux complexes non nuls, $\mathbf{C}^*$.
+
+$\exp : B\rightarrow\mathbf{C}^*$ est une transformation conforme de la bande $B$ sur l'ensemble des nombres complexes non nuls ! Pour comprendre comment on peut envoyer une bande horizontale infinie sur l'ensemble du plan complexe sauf un point... le mieux est de faire des dessins !
+
+# ConfMap : représenter graphiquement les transformations conformes
+
