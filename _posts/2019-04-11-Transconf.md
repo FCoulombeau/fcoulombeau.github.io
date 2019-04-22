@@ -75,10 +75,10 @@ En revanche, vue comme une fonction de $\mathbf{C}$ dans $\mathbf{C}$, elle n'es
 
 Plus précisément : 
 -  $e^{z+2ik\pi}=e^z$ pour tout entier $k$, il faut donc restreindre l'ensemble de départ à une bande comprenant des points du plan complexe dont la partie imaginaire se trouve dans un intervalle d'amplitude $2\pi$. Par exemple,  
-$$B=\{x+iy, y\in]-\pi;\pi]\}$$
+$$B=\{x+iy, x\in\mathbf{R},y\in]-\pi;\pi]\}$$
 -  l'équation $e^z=c$ admet des solutions pour tout **_complexe_** $c\neq0$. Il faut donc restreindre l'ensemble d'arrivée aux complexes non nuls, $\mathbf{C}^*$.
 
 $\exp : B\rightarrow\mathbf{C}^*$ est une transformation conforme de la bande $B$ sur l'ensemble des nombres complexes non nuls ! Pour comprendre comment on peut envoyer une bande horizontale infinie sur l'ensemble du plan complexe sauf un point... le mieux est de faire des dessins !
 
-# ConfMap : représenter graphiquement les transformations conformes
+# Représentations graphiques
 
