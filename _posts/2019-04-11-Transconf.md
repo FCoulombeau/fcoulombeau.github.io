@@ -74,8 +74,8 @@ La fonction $\exp$ est dérivable, de dérivée $\exp'=\exp$. De plus sa dériv�
 En revanche, vue comme une fonction de $\mathbf{C}$ dans $\mathbf{C}$, elle n'est pas bijective : ce n'est pas une transformation du plan complexe dans son ensemble.
 
 Plus précisément : 
--  $e^{z+2ik\pi}=e^z$, il faut donc restreindre l'ensemble de départ à une bande comprenant des points du plan complexe dont la partie imaginaire se trouve dans un intervalle d'amplitude $2\pi$. Par exemple,  
-$B=\left\{x+iy, y\in]-\pi;\pi]\right\}$
+-  $e^{z+2ik\pi}=e^z$ pour tout entier $k$, il faut donc restreindre l'ensemble de départ à une bande comprenant des points du plan complexe dont la partie imaginaire se trouve dans un intervalle d'amplitude $2\pi$. Par exemple,  
+$$B=\{x+iy, y\in]-\pi;\pi]\}$$
 -  l'équation $e^z=c$ admet des solutions pour tout **_complexe_** $c\neq0$. Il faut donc restreindre l'ensemble d'arrivée aux complexes non nuls, $\mathbf{C}^*$.
 
 $\exp : B\rightarrow\mathbf{C}^*$ est une transformation conforme de la bande $B$ sur l'ensemble des nombres complexes non nuls ! Pour comprendre comment on peut envoyer une bande horizontale infinie sur l'ensemble du plan complexe sauf un point... le mieux est de faire des dessins !
