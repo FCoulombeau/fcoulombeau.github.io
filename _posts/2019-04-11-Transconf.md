@@ -43,9 +43,9 @@ Intéressons plus précisément aux similitudes directes de $\mathbf{C}$, c'est-
 Plus précisément, montrons que ces deux ensembles sont les mêmes :
 
 - les translations, rotations et homothéties du plan complexe s'écrivent
-   - translation : $t_{vec{U}}:z\mapsto z+u$ où $u$ est l'affixe du vecteur $\vec{U}$;
+   - translation : $t_{\vec{U}}:z\mapsto z+u$ où $u$ est l'affixe du vecteur $\vec{U}$;
    - rotation : $r_{C,\theta}:z\mapsto e^{i\theta}(z-c)+c$ où $c$ est l'affixe du point $C$, centre de la rotation;
-   - homothétie : $h_{C,r}:z\mapsto r(z-c)+c$ où $r>0$ est le rapport d'homothétie et $c$ l'affixe de son centre $C$.  
+   - homothétie : $h_{C,r}:z\mapsto r(z-c)+c$ où $r>0$ est le rapport d'homothétie et $c$ l'affixe de son centre $C$.
   Dire que ces transformations ou leur composées s'écrivent sous la forme $f:z\mapsto az+b$ revient donc simplement à développer et 
   simplifier les produits et sommes entrant en jeu dans leur définition.
 - Réciproquement, soit $f:z\mapsto az+b$.  
