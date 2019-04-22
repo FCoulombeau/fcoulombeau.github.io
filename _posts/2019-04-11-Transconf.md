@@ -43,11 +43,11 @@ Intéressons plus précisément aux similitudes directes de $\mathbf{C}$, c'est-
 Plus précisément, montrons que ces deux ensembles sont les mêmes :
 
 - les translations, rotations et homothéties du plan complexe s'écrivent
-   - translation : $t_{\vec{U}}:z\mapsto z+u$ où $u$ est l'affixe du vecteur $\vec{U}$;
-   - rotation : $r_{C,\theta}:z\mapsto e^{i\theta}(z-c)+c$ où $c$ est l'affixe du point $C$, centre de la rotation;
-   - homothétie : $h_{C,r}:z\mapsto r(z-c)+c$ où $r>0$ est le rapport d'homothétie et $c$ l'affixe de son centre $C$.
-  Dire que ces transformations ou leur composées s'écrivent sous la forme $f:z\mapsto az+b$ revient donc simplement à développer et 
-  simplifier les produits et sommes entrant en jeu dans leur définition.
+   - translation : $T_{\vec{U}}:z\mapsto z+u$ où $u$ est l'affixe du vecteur $\vec{U}$;
+   - rotation : $R_{C,\theta}:z\mapsto e^{i\theta}(z-c)+c$ où $c$ est l'affixe du point $C$, centre de la rotation;
+   - homothétie : $H_{C,r}:z\mapsto r(z-c)+c$ où $r>0$ est le rapport d'homothétie et $c$ l'affixe de son centre $C$.  
+Dire que ces transformations ou leur composées s'écrivent sous la forme $f:z\mapsto az+b$ revient donc simplement à développer et 
+simplifier les produits et sommes entrant en jeu dans leur définition.
 - Réciproquement, soit $f:z\mapsto az+b$.  
   Si $a=1$, alors il s'agit d'une translation.  
   Sinon, son centre est obtenu **_comme l'unique point fixe de la transformation_**. Autrement dit, il suffit de résoudre l'équation
@@ -56,6 +56,8 @@ Plus précisément, montrons que ces deux ensembles sont les mêmes :
   Ceci étant fait, il suffit alors de remarquer que
   $$f(z)=az+\dfrac{b(1-a)}{1-a}=a(z-c)+c$$
   et décrire $a=re^{i\theta}$ pour montrer que cette transformation est bien la composée de la rotation de centre $c$ et d'angle $\theta$ et de l'homothétie de même centre et rapport $r$.
+
+# De l'utilité des isométries dans l'étude des transformations complexes
 
 
    
