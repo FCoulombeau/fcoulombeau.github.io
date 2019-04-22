@@ -18,7 +18,7 @@ image: /img/Pluie.jpg
 bigimg: /img/bandeau.jpg
 ---
 
-Cet article a pour but de détailler, en se concentrant sur l'exemple de la fonction **_exponentielle_** complexe, les propriétés des **_transformations conformes_**.
+Cet article a pour but de détailler, en se concentrant sur l'exemple de la fonction **_exponentielle_** complexe, les propriétés des **_transformations conformes_**. Le début est peut-être un peu indigeste et manque d'illustrations... mais il y a de belles images et exemples de codes Python pour les faire soi-même [à la fin](#repr%C3%A9sentations-graphiques).
 
 # Un peu de vocabulaire
 
