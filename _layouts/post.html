@@ -35,20 +35,6 @@ layout: base
         {{ content }}
       </article>
       
-      {% for category in site.categories %}
-      {% if page.categories contains category[0] %}
-      {% if category[1].size>1 %}      
-          <div id="samecat">
-          Dans la même catégorie :
-          <ul>
-          {% for post in {{category[1] | reverse}} %} <li> {% if post.niveau != "" %}{{post.niveau}} : {% endif %}<a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
-          {% endfor %}
-          </ul>
-          </div>
-      {% endif %}
-      {% endif %}
-      {% endfor %}      
-      
       {% if page.categories.size > 0 %}
       <div class="post-categories">
         Catégorie :
@@ -61,6 +47,21 @@ layout: base
         {% endif %}
       </div>
       {% endif %}
+      
+      {% for category in site.categories %}
+      {% if page.categories contains category[0] %}
+      {% if category[1].size>1 %}      
+          <div id="samecat">
+          Dans la même catégorie :
+          <ul>
+          {% for post in {{category[1] | reverse}} %} {% if post.title!=page.title %} <li> {% if post.niveau != "" %}{{post.niveau}} : {% endif %}<a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>{% endif %}
+          {% endfor %}
+          </ul>
+          </div>
+      {% endif %}
+      {% endif %}
+      {% endfor %}      
+      
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           Tags:
