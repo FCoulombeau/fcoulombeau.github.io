@@ -50,5 +50,12 @@ Plus précisément, montrons que ces deux ensembles sont les mêmes :
   simplifier les produits et sommes entrant en jeu dans leur définition.
 - Réciproquement, soit $f:z\mapsto az+b$.  
   Si $a=1$, alors il s'agit d'une translation.  
-  Sinon, 
+  Sinon, son centre est obtenu **_comme l'unique point fixe de la transformation_**. Autrement dit, il suffit de résoudre l'équation
+  $$f(c)=c\Leftrightarrow c=\dfrac{b}{1-a}$$
+  pour obtenir son affixe.  
+  Ceci étant fait, il suffit alors de remarquer que
+  $$f(z)=az+\dfrac{b(1-a)}{1-a}=a(z-c)+c$$
+  et décrire $a=re^{i\theta}$ pour montrer que cette transformation est bien la composée de la rotation de centre $c$ et d'angle $\theta$ et de l'homothétie de même centre et rapport $r$.
+
+
    
