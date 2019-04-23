@@ -128,3 +128,71 @@ Image du motif dans l'espace d'arrivée :
 Ce qui permet de **voir** finalement la fonction $\exp$ comme la transformation suivante :
 
 [motif](\img\exp-1.jpg)$\overset{\exp}{\longrightarrow}$[immotif](\img\exp-2.jpg)
+
+En changeant légèrement le motif :
+```python
+import confmap as cm
+import numpy as np
+
+motif = 255*np.ones((200,200,3),dtype=np.uint8)
+motif[:,:10,1:]=0
+motif[:,50:60,1:]=0
+motif[:,100:110,1:]=0
+motif[:,150:160,1:]=0
+motif[95:105,:,:2]=0
+
+motif[195:,:,[0,2]]=motif[:5,:,[0,2]]=0
+
+im = cm.ImageTransform('./exp.jpg',4,'./Exports/',600,600,c=1,d=0,
+                       data=motif)
+im.exp(auto=False,angle=False,c=np.pi)
+im.transform()
+```
+
+[motif](\img\exp-3.jpg)$\overset{\exp}{\longrightarrow}$[immotif](\img\exp-4.jpg)
+
+Amusons nous un peu : opérons une similitude (pas n'importe laquelle !) avant l'image par $\exp$
+```python
+import confmap as cm
+import numpy as np
+
+motif = 255*np.ones((200,200,3),dtype=np.uint8)
+motif[:,:10,1:]=0
+motif[:,50:60,1:]=0
+motif[:,100:110,1:]=0
+motif[:,150:160,1:]=0
+motif[95:105,:,:2]=0
+
+motif[195:,:,[0,2]]=motif[:5,:,[0,2]]=0
+
+im = cm.ImageTransform('./exp.jpg',6,'./Exports/',600,600,c=1,d=0,
+                       data=motif)
+im.similitude(c=np.exp(1j*np.pi/4)/2**0.5)
+im.exp(auto=False,angle=False,c=np.pi)
+im.transform()
+```
+
+[motif](\img\exp-5.jpg)$\overset{\exp}{\longrightarrow}$[immotif](\img\exp-6.jpg)
+
+Et une autre similitude (toujours pas n'importe laquelle !) :
+```python
+import confmap as cm
+import numpy as np
+
+motif = 255*np.ones((200,200,3),dtype=np.uint8)
+motif[:,:10,1:]=0
+motif[:,50:60,1:]=0
+motif[:,100:110,1:]=0
+motif[:,150:160,1:]=0
+motif[95:105,:,:2]=0
+
+motif[195:,:,[0,2]]=motif[:5,:,[0,2]]=0
+
+im = cm.ImageTransform('./exp.jpg',8,'./Exports/',600,600,c=1,d=0,
+                       data=motif)
+im.similitude(c=np.exp(1j*np.arctan(2))/5**0.5)
+im.exp(auto=False,angle=False,c=np.pi)
+im.transform()
+```
+
+[motif](\img\exp-7.jpg)$\overset{\exp}{\longrightarrow}$[immotif](\img\exp-8.jpg)
