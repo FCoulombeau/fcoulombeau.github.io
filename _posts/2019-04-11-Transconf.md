@@ -102,7 +102,7 @@ im.transform()
 ```
 Voici le motif dans l'espace de départ :
 
-[motif](\img\exp1.jpg)
+[motif](\img\exp-1.jpg)
 
 Puis, son image par la fonction exponentielle :
 ```python
@@ -123,8 +123,8 @@ im.transform()
 ```
 Image du motif dans l'espace d'arrivée :
 
-[immotif](\img\exp2.jpg)
+[immotif](\img\exp-2.jpg)
 
 Ce qui permet de **voir** finalement la fonction $\exp$ comme la transformation suivante :
 
-[motif](\img\exp1.jpg)$\overset{\exp}{\longrightarrow}$[immotif](\img\exp2.jpg)
+[motif](\img\exp-1.jpg)$\overset{\exp}{\longrightarrow}$[immotif](\img\exp-2.jpg)
