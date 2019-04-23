@@ -37,7 +37,7 @@ Pour en savoir plus sur les similitudes, notamment pour comprendre que l'on peut
 
 Intéressons plus précisément aux similitudes directes de $\mathbf{C}$, c'est-à-dire aux fonctions du plan complexe dans lui-même multipliant les longueurs par un réel strictement positif et préservant les angles orientés. Par théorème de classification, on peut affirmer que
 
-- du point de vue géométrique, ce sont _exactement_ les **translations**, les **rotations** ou les composées d'une rotation et d'un homothétie de même centre;
+- du point de vue géométrique, ce sont _exactement_ les **translations**, les **rotations** ou les composées d'une rotation et d'une homothétie de même centre;
 - du point de vue numérique, ce sont _exactement_ les fonctions du type $f:z\mapsto az+b$ où $a\neq0$ et $b$ sont deux nombres complexes.
 
 Plus précisément, montrons que ces deux ensembles sont les mêmes :
@@ -56,7 +56,7 @@ Plus précisément, montrons que ces deux ensembles sont les mêmes :
   pour obtenir son affixe.  
   Ceci étant fait, il suffit alors de remarquer que
   $$f(z)=az+\dfrac{b(1-a)}{1-a}=a(z-c)+c$$
-  et décrire $a=re^{i\theta}$ pour montrer que cette transformation est bien la composée de la rotation de centre $c$ et d'angle $\theta$ et de l'homothétie de même centre et rapport $r$.
+  et d'écrire $a=re^{i\theta}$ pour montrer que cette transformation est bien la composée de la rotation de centre $c$ et d'angle $\theta$ et de l'homothétie de même centre et rapport $r$.
 
 # De l'utilité des isométries dans l'étude des transformations complexes
 
@@ -192,4 +192,4 @@ im.transform()
 
 **Bonus** : **_Bernhard Riemann_** fut le premier à s'intéresser à cette interprétation géométrique des fonctions complexes d'une variable complexe. En hommage, une vidéo permettant de visualiser la transformation : on déforme progressivement l'espace de départ pour arriver à son image par la fonction $\exp$.
 
-Cliquer ici >>> [![Une de mes vidéos Youtube](https://i9.ytimg.com/vi/W6ypV-G42z0/mq1.jpg?sqp=COTw--UF&rs=AOn4CLCtaGsE2swtliNPHUAt2J7L5bCVBg)](https://youtu.be/W6ypV-G42z0)
+Cliquer ici `>>>` [![Une de mes vidéos Youtube](https://i9.ytimg.com/vi/W6ypV-G42z0/mq1.jpg?sqp=COTw--UF&rs=AOn4CLCtaGsE2swtliNPHUAt2J7L5bCVBg)](https://youtu.be/W6ypV-G42z0)
