@@ -82,3 +82,45 @@ $\exp : B\rightarrow\mathbf{C}^*$ est une transformation conforme de la bande $B
 
 # Représentations graphiques
 
+Le principe des représentations graphiques de fonctions de $\mathcal{U}\subset\mathbf{C}$ dans $\mathcal{V}\subset\mathbf{C}$ est de recouvrir l'espace de départ d'un motif puis d'observer sa déformation dans l'espace d'arrivée après transformation.
+
+Partons d'un exemple ou ne motif est constitué de droites verticales et horizontales :
+```python
+import confmap as cm
+import numpy as np
+
+motif = 255*np.ones((200,200,3),dtype=np.uint8)
+motif[:,:10,1:]=0
+motif[:,50:60,1:]=0
+motif[:,100:110,1:]=0
+motif[:,150:160,1:]=0
+motif[95:105,:,:2]=0
+
+im = cm.ImageTransform('./exp.jpg',1,'./Exports/',600,600,c=1,d=0,
+                       data=motif)
+im.transform()
+```
+Voici le motif dans l'espace de départ :
+
+[motif](\img\exp1.jpg)
+
+Puis, son image par la fonction exponentielle :
+```python
+import confmap as cm
+import numpy as np
+
+motif = 255*np.ones((200,200,3),dtype=np.uint8)
+motif[:,:10,1:]=0
+motif[:,50:60,1:]=0
+motif[:,100:110,1:]=0
+motif[:,150:160,1:]=0
+motif[95:105,:,:2]=0
+
+im = cm.ImageTransform('./exp.jpg',2,'./Exports/',600,600,c=1,d=0,
+                       data=motif)
+im.exp(auto=False,angle=False,c=np.pi)
+im.transform()
+```
+Image du motif dans l'espace d'arrivée :
+
+[immotif](\img\exp2.jpg)
