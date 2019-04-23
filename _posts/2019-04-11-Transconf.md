@@ -149,6 +149,7 @@ im = ...
 
 Amusons nous un peu : opérons une similitude (pas n'importe laquelle !) avant l'image par $\exp$
 ```python
+...
 im = cm.ImageTransform('./exp.jpg',6,'./Exports/',600,600,c=1,d=0,
                        data=motif)
 im.similitude(c=np.exp(1j*np.pi/4)/2**0.5)
@@ -160,13 +161,16 @@ im.transform()
 
 Et une autre similitude (toujours pas n'importe laquelle !) :
 ```python
+...
 im.similitude(c=np.exp(1j*np.arctan(2))/5**0.5)
+...
 ```
 
 ![motif1](\img\exp-7.jpg)$\overset{\exp}{\longrightarrow}$![immotif1](\img\exp-8.jpg)
 
 [ConfMap](https://github.com/FCoulombeau/confmap) est conçu pour faire automatiquement ces similitudes particulières...
 ```python
+...
 im = cm.ImageTransform('./exp.jpg',10,'./Exports/',600,600,c=1,d=0,
                        data=motif)
 im.exp(N=5,P=3)
@@ -185,3 +189,9 @@ im.transform()
 ```
 
 [Et voilà le résultat !](\img\exp-11.jpg)
+
+**Bonus** : **_Bernhard Riemann_** fut le premier à s'intéresser à cette interprétation géométrique des fonctions complexes d'une variable complexe. En hommage, une vidéo permettant de visualiser la transformation : on déforme progressivement l'espace de départ pour arriver à son image par la fonction $\exp$.
+
+<div>
+<iframe allowfullscreen="" frameborder="0" src="https://youtu.be/embed/W6ypV-G42z0"></iframe>
+</div>
