@@ -104,7 +104,9 @@ Voici le motif dans l'espace de départ :
 
 ![motif](\img\exp-1.jpg)
 
-Puis, son image par la fonction exponentielle :
+$0$ est au centre de l'image, le coin supérieur droit a pour affixe $\pi(1+i)$ et le coin inférieur gauche $-\pi(1+i)$.
+
+On effectue alors l'image de ce motif par la fonction exponentielle :
 ```python
 import confmap as cm
 import numpy as np
