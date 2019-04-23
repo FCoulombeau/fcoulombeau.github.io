@@ -124,3 +124,7 @@ im.transform()
 Image du motif dans l'espace d'arrivée :
 
 [immotif](\img\exp2.jpg)
+
+Ce qui permet de **voir** finalement la fonction $\exp$ comme la transformation suivante :
+
+[motif](\img\exp1.jpg)$\overset{\exp}{\longrightarrow}$[immotif](\img\exp2.jpg)
