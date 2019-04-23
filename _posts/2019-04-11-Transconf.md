@@ -102,7 +102,7 @@ im.transform()
 ```
 Voici le motif dans l'espace de départ :
 
-[motif](\img\exp-1.jpg)
+![motif](\img\exp-1.jpg)
 
 Puis, son image par la fonction exponentielle :
 ```python
@@ -123,11 +123,11 @@ im.transform()
 ```
 Image du motif dans l'espace d'arrivée :
 
-[immotif](\img\exp-2.jpg)
+![immotif](\img\exp-2.jpg)
 
 Ce qui permet de **voir** finalement la fonction $\exp$ comme la transformation suivante :
 
-[motif](\img\exp-1.jpg)$\overset{\exp}{\longrightarrow}$[immotif](\img\exp-2.jpg)
+![motif](\img\exp-1.jpg)$\overset{\exp}{\longrightarrow}$![immotif](\img\exp-2.jpg)
 
 En changeant légèrement le motif :
 ```python
@@ -149,7 +149,7 @@ im.exp(auto=False,angle=False,c=np.pi)
 im.transform()
 ```
 
-[motif](\img\exp-3.jpg)$\overset{\exp}{\longrightarrow}$[immotif](\img\exp-4.jpg)
+![motif](\img\exp-3.jpg)$\overset{\exp}{\longrightarrow}$![immotif](\img\exp-4.jpg)
 
 Amusons nous un peu : opérons une similitude (pas n'importe laquelle !) avant l'image par $\exp$
 ```python
@@ -172,7 +172,7 @@ im.exp(auto=False,angle=False,c=np.pi)
 im.transform()
 ```
 
-[motif](\img\exp-5.jpg)$\overset{\exp}{\longrightarrow}$[immotif](\img\exp-6.jpg)
+![motif](\img\exp-5.jpg)$\overset{\exp}{\longrightarrow}$![immotif](\img\exp-6.jpg)
 
 Et une autre similitude (toujours pas n'importe laquelle !) :
 ```python
@@ -195,4 +195,4 @@ im.exp(auto=False,angle=False,c=np.pi)
 im.transform()
 ```
 
-[motif](\img\exp-7.jpg)$\overset{\exp}{\longrightarrow}$[immotif](\img\exp-8.jpg)
+![motif](\img\exp-7.jpg)$\overset{\exp}{\longrightarrow}$![immotif](\img\exp-8.jpg)
