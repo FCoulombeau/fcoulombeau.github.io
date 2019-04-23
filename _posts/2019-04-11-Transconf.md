@@ -192,4 +192,4 @@ im.transform()
 
 **Bonus** : **_Bernhard Riemann_** fut le premier à s'intéresser à cette interprétation géométrique des fonctions complexes d'une variable complexe. En hommage, une vidéo permettant de visualiser la transformation : on déforme progressivement l'espace de départ pour arriver à son image par la fonction $\exp$.
 
-[![Une de mes vidéos Youtube](https://i9.ytimg.com/vi/W6ypV-G42z0/mq1.jpg?sqp=COTw--UF&rs=AOn4CLCtaGsE2swtliNPHUAt2J7L5bCVBg)](https://youtu.be/W6ypV-G42z0)
+Cliquer ici >>> [![Une de mes vidéos Youtube](https://i9.ytimg.com/vi/W6ypV-G42z0/mq1.jpg?sqp=COTw--UF&rs=AOn4CLCtaGsE2swtliNPHUAt2J7L5bCVBg)](https://youtu.be/W6ypV-G42z0)
