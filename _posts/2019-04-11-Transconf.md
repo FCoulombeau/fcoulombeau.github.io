@@ -84,7 +84,7 @@ $\exp : B\rightarrow\mathbf{C}^*$ est une transformation conforme de la bande $B
 
 Le principe des représentations graphiques de fonctions de $\mathcal{U}\subset\mathbf{C}$ dans $\mathcal{V}\subset\mathbf{C}$ est de recouvrir l'espace de départ d'un motif puis d'observer sa déformation dans l'espace d'arrivée après transformation.
 
-Partons d'un exemple ou ne motif est constitué de droites verticales et horizontales :
+Partons d'un exemple où le motif est constitué de droites verticales et horizontales :
 ```python
 import confmap as cm
 import numpy as np
@@ -104,9 +104,9 @@ Voici le motif dans l'espace de départ :
 
 ![motif](\img\exp-1.jpg)
 
-$0$ est au centre de l'image, le coin supérieur droit a pour affixe $\pi(1+i)$ et le coin inférieur gauche $-\pi(1+i)$.
+$0$ est au centre de l'image, le coin supérieur droit a pour affixe $1+i$ et le coin inférieur gauche $-1-i$.
 
-On effectue alors l'image de ce motif par la fonction exponentielle :
+On effectue alors l'image de ce motif par la fonction exponentielle (en effectuant une homothétie de rapport $c=\pi$ d'abord - voir paramètre $c$ de la fonction $\exp$):
 ```python
 import confmap as cm
 import numpy as np
