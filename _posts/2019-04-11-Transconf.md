@@ -178,7 +178,7 @@ im.transform()
 ... et pour pouvoir remplacer le motif par n'importe quelle image !
 ```python
 import confmap as cm
-im = cm.ImageTransform('./MarsB/panorama.jpg',10,'./Exports/',1600,900,c=1,d=0.5j)
+im = cm.ImageTransform('./MONIMAGE.jpg',10,'./Exports/',1600,900,c=1,d=0.5j)
 im.mirror()
 im.exp(N=1,P=1)
 im.transform()
