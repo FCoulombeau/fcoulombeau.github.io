@@ -133,9 +133,6 @@ Ce qui permet de **voir** finalement la fonction $\exp$ comme la transformation 
 
 En changeant légèrement le motif :
 ```python
-import confmap as cm
-import numpy as np
-
 motif = 255*np.ones((200,200,3),dtype=np.uint8)
 motif[:,:10,1:]=0
 motif[:,50:60,1:]=0
@@ -145,28 +142,13 @@ motif[95:105,:,:2]=0
 
 motif[195:,:,[0,2]]=motif[:5,:,[0,2]]=0
 
-im = cm.ImageTransform('./exp.jpg',4,'./Exports/',600,600,c=1,d=0,
-                       data=motif)
-im.exp(auto=False,angle=False,c=np.pi)
-im.transform()
+im = ...
 ```
 
 ![motif1](\img\exp-3.jpg)$\overset{\exp}{\longrightarrow}$![immotif1](\img\exp-4.jpg)
 
 Amusons nous un peu : opérons une similitude (pas n'importe laquelle !) avant l'image par $\exp$
 ```python
-import confmap as cm
-import numpy as np
-
-motif = 255*np.ones((200,200,3),dtype=np.uint8)
-motif[:,:10,1:]=0
-motif[:,50:60,1:]=0
-motif[:,100:110,1:]=0
-motif[:,150:160,1:]=0
-motif[95:105,:,:2]=0
-
-motif[195:,:,[0,2]]=motif[:5,:,[0,2]]=0
-
 im = cm.ImageTransform('./exp.jpg',6,'./Exports/',600,600,c=1,d=0,
                        data=motif)
 im.similitude(c=np.exp(1j*np.pi/4)/2**0.5)
@@ -178,23 +160,28 @@ im.transform()
 
 Et une autre similitude (toujours pas n'importe laquelle !) :
 ```python
-import confmap as cm
-import numpy as np
-
-motif = 255*np.ones((200,200,3),dtype=np.uint8)
-motif[:,:10,1:]=0
-motif[:,50:60,1:]=0
-motif[:,100:110,1:]=0
-motif[:,150:160,1:]=0
-motif[95:105,:,:2]=0
-
-motif[195:,:,[0,2]]=motif[:5,:,[0,2]]=0
-
-im = cm.ImageTransform('./exp.jpg',8,'./Exports/',600,600,c=1,d=0,
-                       data=motif)
 im.similitude(c=np.exp(1j*np.arctan(2))/5**0.5)
-im.exp(auto=False,angle=False,c=np.pi)
-im.transform()
 ```
 
 ![motif1](\img\exp-7.jpg)$\overset{\exp}{\longrightarrow}$![immotif1](\img\exp-8.jpg)
+
+[ConfMap](https://github.com/FCoulombeau/confmap) est conçu pour faire automatiquement ces similitudes particulières...
+```python
+im = cm.ImageTransform('./exp.jpg',10,'./Exports/',600,600,c=1,d=0,
+                       data=motif)
+im.exp(N=5,P=3)
+im.transform()
+```
+
+![motif](\img\exp-10.jpg)
+
+... et pour pouvoir remplacer le motif par n'importe quelle image !
+```python
+import confmap as cm
+im = cm.ImageTransform('./MarsB/panorama.jpg',10,'./Exports/',1600,900,c=1,d=0.5j)
+im.mirror()
+im.exp(N=1,P=1)
+im.transform()
+```
+
+[Et voilà le résultat !](\img\exp-11.jpg)
