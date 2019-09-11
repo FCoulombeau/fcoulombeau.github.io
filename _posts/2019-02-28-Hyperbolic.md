@@ -21,7 +21,7 @@ Je présente ici une introduction très simple à la façon d'utiliser le module
 
 # Utilisation et syntaxe
 
-Je complèterai éventuellement plus tard cette section. Pour l'heure, voici un exemple minimal vous permettant d'obtenir les deux images ci-dessus :
+Je complèterai éventuellement plus tard cette section. Pour l'heure, voici un exemple minimal vous permettant d'obtenir les deux images ci-dessous :
 
 1. Installer le module, par exemple à l'aide de `pip install confmap`.
 2. Créer un fichier Python dans le même répertoire que l'image (`monimage.jpg` par exemple) que vous souhaitez utiliser.
