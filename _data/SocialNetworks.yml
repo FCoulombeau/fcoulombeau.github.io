@@ -21,10 +21,10 @@ twitter:
   baseURL: "https://twitter.com/"
   icon: "fa-twitter"
   
-mastodon:
-  name: "Mastodon"
-  baseURL: "https://mamot.fr/@"
-  icon: "fa-mastodon"
+#mastodon:
+#  name: "Mastodon"
+#  baseURL: "https://mamot.fr/@"
+#  icon: "fa-mastodon"
 
 reddit:
   name: "Reddit"

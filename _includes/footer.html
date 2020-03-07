@@ -16,11 +16,7 @@
             {%- endif -%}
                 <span class="fa-stack fa-lg" aria-hidden="true">
                   <i class="fa fa-circle fa-stack-2x"></i>
-                  {%- if curkey == 'mastodon' -%}
-					<i class="fa fa-mastodon fa-1x fa-w-14"></i>
-				  {%- else -%}
-					<i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
-                  {%- endif -%}
+				  <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
                 </span>
                 <span class="sr-only">{{ element.name }}</span>
               </a>
