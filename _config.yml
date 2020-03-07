@@ -81,7 +81,8 @@ social-network-links:
   email: "coulombeau@gmail.com"
 #  facebook: daattali
   github: fcoulombeau
-#  twitter: daattali
+  twitter: FrCoulb
+  mstodon: coulombeau
 #  reddit: yourname
 #  google-plus: +FrançoisCoulombeau
   linkedin: fcoulombeau
@@ -99,7 +100,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+#  facebook: true
 #  google: true
   linkedin: true
 
