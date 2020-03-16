@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cours de maths du 16 mars
+title: Cours de maths du 16 mars 2020
 subtitle: Applications linéaires en dimension finie
 mathjax: true
 comments: true
