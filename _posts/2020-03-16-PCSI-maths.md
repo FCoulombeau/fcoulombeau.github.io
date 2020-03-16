@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cours de maths du 16 mars 2020
-subtitle: Applications linéaires en dimension finie
+title: Cours de maths du 16-3-2020
+subtitle: Applications linéaires en dimension finie (et en espace confiné :laughing:)
 mathjax: true
 comments: true
 date: 2020-03-16T04:22:51+02:00
