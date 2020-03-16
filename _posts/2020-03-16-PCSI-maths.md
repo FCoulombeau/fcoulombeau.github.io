@@ -12,6 +12,13 @@ slug: pcsi-m1
 niveau: PCSI
 ---
 
+**_REMARQUE IMPORTANTE_** : des élèves ont créé (merci !) un salon [Discord](https://discordapp.com/channels/689077122823618571/689077123398631501)
+C'est super pour pouvoir communiquer en direct. D'autant que je peux aussi écrire des maths dessus.
+
+Rendez-vous là-bas si vous souhaitez parler avec moi et les autres élèves :smiley:
+
+Pour ma part, j'y serai pas toute la journée mais un petit SMS et je rapplique. On va le dominer ce :angry: virus !
+
 # Travail à effectuer
 
 - Lire, comprendre et apprendre la [partie du cours prévue pour aujourd'hui](https://fcoulombeau.github.io/PCSI-Cours-16032020.pdf).
