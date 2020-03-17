@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cours de maths du 17-3-2020
-subtitle: Utilisation des EV de dimension finie pour les suites récurrentes **_linéaires_** d'ordre 2
+subtitle: Utilisation des EV de dimension finie pour les suites récurrentes *linéaires* d'ordre 2
 mathjax: true
 comments: true
 date: 2020-03-17T06:22:51+02:00
