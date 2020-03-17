@@ -23,11 +23,11 @@ Pour ma part, j'y serai pas toute la journée mais un petit SMS et je rapplique.
 
 # Travail à effectuer
 
-- Lire, comprendre et apprendre la [partie du cours prévue pour aujourd'hui](https://fcoulombeau.github.io/PCSI-Cours-16032020.pdf).
+- Lire, comprendre et apprendre la [partie du cours prévue pour aujourd'hui](https://fcoulombeau.github.io/cours/PCSI-Cours-16032020.pdf).
 - Faire les exercices 15.16 et 15.17 du cours, les prendre en photo et me les envoyer.  
-  Pour l'exercice 15.17, je l'ai un peu modifié pour qu'il soit plus simple : [ici](https://fcoulombeau.github.io/PCSI-Exo-16032020.pdf).  
+  Pour l'exercice 15.17, je l'ai un peu modifié pour qu'il soit plus simple : [ici](https://fcoulombeau.github.io/cours/PCSI-Exo-16032020.pdf).  
   Voir les indications sur Discord.
-- Voici ce que je considèrerai comme fait aujourd'hui : [Cahier de texte du 16 mars](https://fcoulombeau.github.io/CT-16032020.pdf).
+- Voici ce que je considèrerai comme fait aujourd'hui : [Cahier de texte du 16 mars](https://fcoulombeau.github.io/cours/CT-16032020.pdf).
 
 # Quelques explications et rappels
 

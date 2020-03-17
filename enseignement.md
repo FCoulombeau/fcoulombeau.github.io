@@ -15,12 +15,15 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
 
 # PCSI
 
-- [Cours, exercices et TD de maths de l'année scolaire 2018/2019](https://fcoulombeau.github.io/PCSI-2018.pdf)
-- [Cours du 16 mars 2020 à distance](https://fcoulombeau.github.io/PCSI-Cours-16032020.pdf)
+- [Cours, exercices et TD de maths de l'année scolaire 2018/2019](https://fcoulombeau.github.io/cours/PCSI-2018.pdf)
+- [Cours du 16 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-16032020.pdf)
+- [Correction des exercices du cours du 16 mars 2020](https://fcoulombeau.github.io/cours/PCSI-Cor-16032020.pdf)
+- [Cours du 17 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-17032020.pdf)
+- [TD du 17 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-TD-17032020.pdf)
 
 # MP
 
-- [X 2015 PSI-PT](https://fcoulombeau.github.io/X2015-PT-PSI.pdf)
+- [X 2015 PSI-PT](https://fcoulombeau.github.io/cours/X2015-PT-PSI.pdf)
 
 ---
 
