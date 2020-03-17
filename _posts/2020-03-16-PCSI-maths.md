@@ -14,7 +14,7 @@ niveau: PCSI
 
 # **_REMARQUE IMPORTANTE_** 
 
-Des élèves ont créé (merci !) un salon Discord pour les PCSI.
+Des élèves ont créé (merci !) un serveur Discord pour les PCSI.
 C'est super pour pouvoir communiquer en direct. D'autant que je peux aussi écrire des maths dessus.
 
 Rendez-vous là-bas si vous souhaitez parler avec moi et les autres élèves :smiley:
