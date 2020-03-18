@@ -16,7 +16,7 @@ niveau: PCSI
 
 - Télécharger la [partie du cours de maths prévue pour aujourd'hui](https://fcoulombeau.github.io/cours/PCSI-Cours-18032020.pdf).  
   Nous la traiterons ensemble de 8h à 10h sur le serveur Discord.  
-  Je mettrai à jour cette page avec les démonstrations du cours et la correction des exercices du cours une fois que nous l'aurons vu ensemble.
+  [Cours avec démo et correction des exos](https://fcoulombeau.github.io/cours/PCSI-Cours-18032020.pdf). 
 - Pour vendredi prochain, préparer autant d'exercices que possible de la feuille d'exercices sur les espaces vectoriels que je vous ai déjà distribuée.  
   Voici aussi la [feuille d'exercices sur le dénombrement](https://fcoulombeau.github.io/cours/PCSI-Exo-18032020.pdf), à télécharger. Vous pouvez commencer à préparer quelques exercices de cette feuille pour vendredi aussi.
 - Télécharger la [partie du cours d'informatique prévue pour aujourd'hui](https://fcoulombeau.github.io/cours/PCSI-Info-18032020.pdf).  
