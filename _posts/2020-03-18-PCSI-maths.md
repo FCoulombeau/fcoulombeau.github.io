@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Cours de maths du 18-3-2020
-subtitle: Dénombrement : introduction, opérations sur les ensembles
+subtitle: Dénombrement (introduction, opérations sur les ensembles)
 mathjax: true
 comments: true
 date: 2020-03-18T04:22:51+02:00
 authors: ["FCoulombeau"]
-tags: [ Maths, Cours, Algèbre linéaire ]
+tags: [ Maths, Cours, Info ]
 categories: [ Enseignement ]
 slug: pcsi-m3
 niveau: PCSI
