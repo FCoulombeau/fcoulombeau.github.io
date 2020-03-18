@@ -37,3 +37,4 @@ Une autre possibilité sur le serveur Discord est d'écrire un message commença
      C'est une notion nouvelle qui peut prêter à confusion : **_attention_**, l'image réciproque d'une partie $A$ de $F$ par $f\in\mathcal{F}(E,F)$, notée $f^{-1}(A)$ est **_toujours définie_**, mais $f^{-1}$ - bijection réciproque de $f$ - n'est définie **_que lorsque $f$ est bijective_**.
    - Définition d'une **_partition_** d'un ensemble, que nous retrouverons plus tard dans l'année sous un autre nom.
    - Les différentes propositions du paragraphe concernant les opérations sur les cardinaux.
+
