@@ -22,11 +22,11 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
 - [TD du 17 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-TD-17032020.pdf)
 - [Cours de maths du 18 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-CoursCor-18032020.pdf)
 - [Cours d'info du 18 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Info-18032020.pdf)
-- [Colle de maths MP du 18 mars 2020 à distance](https://fcoulombeau.github.io/cours/MP-Colle-18032020.pdf)
 
 # MP
 
 - [X 2015 PSI-PT](https://fcoulombeau.github.io/cours/X2015-PT-PSI.pdf)
+- [Colle de maths MP du 18 mars 2020 à distance](https://fcoulombeau.github.io/cours/MP-Colle-18032020.pdf)
 
 ---
 
