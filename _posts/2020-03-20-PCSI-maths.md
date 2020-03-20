@@ -21,7 +21,8 @@ niveau: PCSI
   [Télécharger le fichier Notebook correspondant](https://fcoulombeau.github.io/cours/Cours-Maths-20032020.ipynb)
 - Télécharger le [TD d'informatique prévu pour aujourd'hui](https://fcoulombeau.github.io/cours/PCSI-Info-20032020.pdf).  
   [Correction du TD d'info du 20 mars 2020](https://fcoulombeau.github.io/cours/PCSI-InfoCor-20032020.pdf)
-- Voici ce que je considèrerai comme fait à la fin de la journée du 20 mars : [Cahier de texte du 18 mars](https://fcoulombeau.github.io/cours/CT-20032020.pdf).
+- Voici ce que je considèrerai comme fait à la fin de la journée du 20 mars :  
+  [Cahier de texte du 20 mars](https://fcoulombeau.github.io/cours/CT-20032020.pdf).
 
 # Quelques explications et rappels
 
