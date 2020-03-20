@@ -16,8 +16,9 @@ niveau: PCSI
 
 - [Programme de colles pour la semaine à venir](https://fcoulombeau.github.io/cours/PC-23032020.pdf).  
   Il n'y aura pas de colles. Mais cela vous fournit un programme de révision du cours.
+- [Correction de quelques exos de maths (20 mars)](https://fcoulombeau.github.io/cours/PCSI-CoursCor-20032020.pdf)
 - Télécharger le [TD d'informatique prévu pour aujourd'hui](https://fcoulombeau.github.io/cours/PCSI-Info-20032020.pdf).  
-  Nous le traiterons ensemble de 10h à 12h sur le serveur Discord.
+  [Correction du TD d'info du 20 mars 2020](https://fcoulombeau.github.io/cours/PCSI-InfoCor-20032020.pdf)
 - Voici ce que je considèrerai comme fait à la fin de la journée du 20 mars : [Cahier de texte du 18 mars](https://fcoulombeau.github.io/cours/CT-20032020.pdf).
 
 # Quelques explications et rappels
