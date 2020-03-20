@@ -32,6 +32,8 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
 
 - [X 2015 PSI-PT](https://fcoulombeau.github.io/cours/X2015-PT-PSI.pdf)
 - [Colle de maths MP du 18 mars 2020 à distance](https://fcoulombeau.github.io/cours/MP-Colle-18032020.pdf)
+- [X 2015 PSI-PT - correction](https://fcoulombeau.github.io/cours/X2015-PT-PSIc.pdf).
+- [X 2015 PSI-PT - fichier Python](https://fcoulombeau.github.io/cours/X2015-PT-PSI.py).
 
 ---
 
