@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cours de maths du 23-3-2020
-subtitle: Dénombrement et Dérivabilité (?)
+subtitle: Dénombrement (fin)
 mathjax: true
 comments: true
 date: 2020-03-23T08:22:51+02:00
@@ -15,11 +15,12 @@ niveau: PCSI
 # Travail à effectuer
 
 - [Cours du jour](https://fcoulombeau.github.io/cours/PCSI-Cours-23032020.pdf).  
-  Nous ferons la fin du chapitre sur le Dénombrement, et éventuellement nous commencerons le chapitre sur la Dérivation.
-- Je mettrai le cahier de texte en fin de cours, suivant ce que nous avons pu faire.
+  Fin du chapitre sur le Dénombrement. **_À terminer pour demain : 16.10 et 16.11 du cours_**.
+- [Cahier de texte](https://fcoulombeau.github.io/cours/CT-23032020.pdf).
 - Vous pouvez trouver [ici](https://fcoulombeau.github.io/2020-03-22-copies/) l'avancement des différents paquets de copies que je dois corriger : ça y est ! j'ai terminé la correction des concours blancs de MP, je me mets donc à la correction de vos deux paquets de copies que vous aurez probablement avant la fin de semaine.
 - Concernant la feuille d'exercices sur la Dérivabilité, je vous la donner demain.  
   Je vous demande de préparer **_essentiellement_** la feuille d'exercices sur le dénombrement pour vendredi prochain.
+- À la demande de M.Barouri : lien vers la chaîne [Youtube Exo7Math](https://www.youtube.com/results?search_query=exo7math+denombrement) concernant le dénombrement.
 
 # Quelques explications et rappels
 
