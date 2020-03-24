@@ -28,6 +28,8 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
   [Télécharger le fichier Notebook correspondant](https://fcoulombeau.github.io/cours/Cours-Maths-20032020.ipynb)
 - [Correction du TD d'info du 20 mars 2020](https://fcoulombeau.github.io/cours/PCSI-InfoCor-20032020.pdf)
 - [Cours de maths du 23 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-23032020.pdf)
+- [Cours de maths du 23 mars 2020 avec exos corrigés](https://fcoulombeau.github.io/cours/PCSI-CoursCor-23032020.pdf)
+- [Cours de maths du 24 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-24032020.pdf)
 
 # MP
 
