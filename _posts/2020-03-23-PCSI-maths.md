@@ -15,7 +15,8 @@ niveau: PCSI
 # Travail à effectuer
 
 - [Cours du jour](https://fcoulombeau.github.io/cours/PCSI-Cours-23032020.pdf).  
-  Fin du chapitre sur le Dénombrement. **_À terminer pour demain : 16.10 et 16.11 du cours_**.
+  Fin du chapitre sur le Dénombrement.  
+  [Cours avec corrigés des exos](https://fcoulombeau.github.io/cours/PCSI-CoursCor-23032020.pdf).
 - [Cahier de texte](https://fcoulombeau.github.io/cours/CT-23032020.pdf).
 - Vous pouvez trouver [ici](https://fcoulombeau.github.io/2020-03-22-copies/) l'avancement des différents paquets de copies que je dois corriger : ça y est ! j'ai terminé la correction des concours blancs de MP, je me mets donc à la correction de vos deux paquets de copies que vous aurez probablement avant la fin de semaine.
 - Concernant la feuille d'exercices sur la Dérivabilité, je vous la donner demain.  
