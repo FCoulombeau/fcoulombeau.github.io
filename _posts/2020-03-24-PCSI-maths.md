@@ -14,7 +14,8 @@ niveau: PCSI
 
 # Travail à effectuer
 
-- Début du chapitre sur la [dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Cours-24032020.pdf).
+- Début du chapitre sur la [dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Cours-24032020.pdf).  
+  [Cours avec exercices corrigés](https://fcoulombeau.github.io/cours/PCSI-CoursCor-24032020.pdf).
 - [Feuille d'exercices sur la dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Exo-24032020.pdf).
 - [Cahier de texte](https://fcoulombeau.github.io/cours/CT-24032020.pdf).
 - Vous pouvez trouver [ici](https://fcoulombeau.github.io/2020-03-22-copies/) l'avancement des différents paquets de copies que je dois corriger : ça y est ! j'ai terminé la correction des concours blancs de MP, je me mets donc à la correction de vos deux paquets de copies que vous aurez probablement avant la fin de semaine.
