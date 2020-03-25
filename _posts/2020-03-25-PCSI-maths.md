@@ -15,7 +15,7 @@ niveau: PCSI
 # Travail à effectuer
 
 - Suite du chapitre sur la [dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Cours-25032020.pdf).
-- [TD sur les suites récurrentes](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf), **à terminer pour le lundi 30 mars** si on n'a pas le temps de la terminer en cours.
+- [TD sur les suites récurrentes](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf). **Pour le lundi 30 mars : 6.2, question 1)**.
 - [Feuille d'exercices sur la continuité](https://fcoulombeau.github.io/cours/PCSI-Exo-25032020.pdf) : **préparer l'exercice 14.22 pour lundi 30 mars**.
 - [Cahier de texte](https://fcoulombeau.github.io/cours/CT-25032020.pdf).
 - Lien vers la chaîne [Youtube Exo7Math](https://www.youtube.com/results?search_query=exo7math+derivation) concernant la dérivabilité.
