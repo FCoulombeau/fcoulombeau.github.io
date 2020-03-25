@@ -1,0 +1,7 @@
+_id: df7ac060-6e34-11ea-89b0-e9e2a1163aed
+message: "Effectivement, mais attention ! Jusqu'au 22 mars, j'interpolais le nombre de cas testés positifs.\r\nLe changement de la politique de tests du gouvernement - dont on peut se féliciter même s'il arrive très tard... - rendait les nouvelles données incohérentes avec l'évolution des précédentes et incompatibles avec une poursuite de mes mises-à-jour quotidiennes.\r\n\r\nA partir du 24 mars, je me mets donc à interpoler le nombre de morts - c'est un peu macabre mais bon, ça fournit des informations sur l'évolution de l'épidémie.\r\n\r\nOr il y a un décalage naturel entre l'évolution des décès et l'évolution des tests positifs : je n'ai pas les données exactes, mais ce que j'ai pu lire me pousse à penser que la durée de guérison se situe aux environs de 8 jours (voir cet [article](https://www.liberation.fr/checknews/2020/03/21/au-bout-de-combien-de-temps-guerit-on-du-covid-19_1782071) par exemple).\r\n\r\nDu coup on peut s'attendre à un même décalage entre l'inflexion du nombre de cas testés positifs - qui était peut-être aux environs du 21 mars même si j'aurais aimé poursuivre l'observation - et l'inflexion du nombre de morts - pour l'instant prévue aux alentours du 29 mars ce qui est cohérent.\r\n\r\nDeuxième chose : mon modèle est **rudimentaire**, il ne faut pas lui accorder trop de foi. Je suis moi-même assez sceptique sur sa capacité à prédire l'inflexion longtemps à l'avance."
+name: François Coulombeau
+email: 137743b032171d66c4caa2be6b0884c3
+url: ''
+hidden: ''
+date: '2020-03-25T01:06:35.770Z'
