@@ -45,6 +45,7 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
 - [X 2015 PSI-PT - fichier Python](https://fcoulombeau.github.io/cours/X2015-PT-PSI.py)
 - [Cours sur la complexité](https://nbviewer.jupyter.org/urls/fcoulombeau.github.io/cours/Cours-Info-23032020.ipynb)  
   Ce fichier Jupyter Notebook peut être téléchargé [ici](https://fcoulombeau.github.io/cours/Cours-Info-23032020.ipynb)
+- [Colle de maths MP du 26 mars 2020 à distance](https://fcoulombeau.github.io/cours/MP-Colle-25032020.pdf)
 
 ---
 
