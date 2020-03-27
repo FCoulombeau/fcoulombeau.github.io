@@ -40,6 +40,8 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
   [Résumé de ce qui a été fait en TD le 27 mars](https://nbviewer.jupyter.org/urls/fcoulombeau.github.io/cours/Cours-Maths-27032020.ipynb?flush_cache=true)  
   [Télécharger le fichier Notebook correspondant](https://fcoulombeau.github.io/cours/Cours-Maths-27032020.ipynb)
 - [TD d'info du 27 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Info-27032020.pdf)  
+  [Correction du TD d'info du 27 mars 2020](https://fcoulombeau.github.io/cours/PCSI-InfoCor-27032020.pdf)  
+  [Correction du TD d'info du 27 mars 2020 : fichier Python](https://fcoulombeau.github.io/cours/PCSI-InfoCor-27032020.py)
 
 # MP
 
