@@ -15,12 +15,7 @@ niveau: PCSI
 # Travail à effectuer
 
 - [Programme de colles pour la semaine à venir](https://fcoulombeau.github.io/cours/PC-30032020.pdf).
-- [Correction de quelques exos de maths (20 mars)](https://fcoulombeau.github.io/cours/PCSI-ExoCor-27032020.pdf).  
-  [Résumé de ce qui a été fait en TD](https://nbviewer.jupyter.org/urls/fcoulombeau.github.io/cours/Cours-Maths-27032020.ipynb).  
-  [Télécharger le fichier Notebook correspondant](https://fcoulombeau.github.io/cours/Cours-Maths-27032020.ipynb).
 - Télécharger le [TD d'informatique prévu pour aujourd'hui](https://fcoulombeau.github.io/cours/PCSI-Info-27032020.pdf).  
-  [Correction du TD d'info du 20 mars 2020](https://fcoulombeau.github.io/cours/PCSI-InfoCor-27032020.pdf).  
-  [Correction du TD d'info du 20 mars 2020 : fichier Python](https://fcoulombeau.github.io/cours/PCSI-InfoCor-27032020.py).
 - Voici ce que je considèrerai comme fait à la fin de la journée du 27 mars :  
   [Cahier de texte du 27 mars](https://fcoulombeau.github.io/cours/CT-27032020.pdf).
 
