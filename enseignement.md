@@ -36,6 +36,7 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
 - [Cours de maths du 25 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-25032020.pdf)  
   [Cours de maths du 25 mars 2020 avec exos corrigés](https://fcoulombeau.github.io/cours/PCSI-CoursCor-25032020.pdf)
 - [TD sur les suites récurrentes](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf)
+- [Correction de quelques exos de maths (27 mars)](https://fcoulombeau.github.io/cours/PCSI-ExoCor-27032020.pdf)
 - [TD d'info du 27 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Info-27032020.pdf)  
 
 # MP
