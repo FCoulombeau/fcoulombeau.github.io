@@ -16,18 +16,18 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
 # PCSI
 
 - [Cours, exercices et TD de maths de l'année scolaire 2018/2019](https://fcoulombeau.github.io/cours/PCSI-2018.pdf)
-- [Cours du 16 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-16032020.pdf)
-- [Correction des exercices du cours du 16 mars 2020](https://fcoulombeau.github.io/cours/PCSI-Cor-16032020.pdf)
+- [Cours du 16 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-16032020.pdf)  
+  [Correction des exercices du cours du 16 mars 2020](https://fcoulombeau.github.io/cours/PCSI-Cor-16032020.pdf)
 - [Cours du 17 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-17032020.pdf)
 - [TD du 17 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-TD-17032020.pdf)
 - [Cours de maths du 18 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-CoursCor-18032020.pdf)
 - [Feuille d'exercices du chapitre sur le dénombrement](https://fcoulombeau.github.io/cours/PCSI-Exo-18032020.pdf)
 - [Cours d'info du 18 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Info-18032020.pdf)
-- [TD d'info du 20 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Info-20032020.pdf)
-- [Correction de quelques exos de maths (20 mars)](https://fcoulombeau.github.io/cours/PCSI-CoursCor-20032020.pdf)
-- [Résumé de ce qui a été fait en TD le 20 mars](https://nbviewer.jupyter.org/urls/fcoulombeau.github.io/cours/Cours-Maths-20032020.ipynb)  
+- [Correction de quelques exos de maths (20 mars)](https://fcoulombeau.github.io/cours/PCSI-CoursCor-20032020.pdf)  
+  [Résumé de ce qui a été fait en TD le 20 mars](https://nbviewer.jupyter.org/urls/fcoulombeau.github.io/cours/Cours-Maths-20032020.ipynb)  
   [Télécharger le fichier Notebook correspondant](https://fcoulombeau.github.io/cours/Cours-Maths-20032020.ipynb)
-- [Correction du TD d'info du 20 mars 2020](https://fcoulombeau.github.io/cours/PCSI-InfoCor-20032020.pdf)
+- [TD d'info du 20 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Info-20032020.pdf)  
+  [Correction du TD d'info du 20 mars 2020](https://fcoulombeau.github.io/cours/PCSI-InfoCor-20032020.pdf)
 - [Cours de maths du 23 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-23032020.pdf)  
   [Cours de maths du 23 mars 2020 avec exos corrigés](https://fcoulombeau.github.io/cours/PCSI-CoursCor-23032020.pdf)
 - [Cours de maths du 24 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-24032020.pdf)  
@@ -36,7 +36,12 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
 - [Cours de maths du 25 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-25032020.pdf)  
   [Cours de maths du 25 mars 2020 avec exos corrigés](https://fcoulombeau.github.io/cours/PCSI-CoursCor-25032020.pdf)
 - [TD sur les suites récurrentes](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf)
-- [TD d'info du 27 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Info-27032020.pdf)
+- [Correction de quelques exos de maths (27 mars)](https://fcoulombeau.github.io/cours/PCSI-ExoCor-27032020.pdf)  
+  [Résumé de ce qui a été fait en TD le 27 mars](https://nbviewer.jupyter.org/urls/fcoulombeau.github.io/cours/Cours-Maths-27032020.ipynb)  
+  [Télécharger le fichier Notebook correspondant](https://fcoulombeau.github.io/cours/Cours-Maths-27032020.ipynb)
+- [TD d'info du 27 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Info-27032020.pdf)  
+  [Correction du TD d'info du 27 mars 2020](https://fcoulombeau.github.io/cours/PCSI-InfoCor-27032020.pdf)  
+  [Correction du TD d'info du 27 mars 2020 : fichier Python](https://fcoulombeau.github.io/cours/PCSI-InfoCor-27032020.py)
 
 # MP
 
