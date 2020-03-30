@@ -47,3 +47,4 @@ L'emploi du temps a été réorganisé. Je vous donne à l'avance le travail à 
 
 - Cahier de texte de la semaine : à venir.
 - Programme de colles pour la semaine suivante : à venir.
+- Copies terminées.
