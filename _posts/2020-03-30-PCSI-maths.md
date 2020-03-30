@@ -40,7 +40,8 @@ L'emploi du temps a été réorganisé. Je vous donne à l'avance le travail à 
 # Vendredi 3 avril 10h-12h : 
 ### Exercices
 
-- Préparer la feuille d'exercices sur la [dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Exo-24032020.pdf).
+- Préparer la feuille d'exercices sur la [dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Exo-24032020.pdf).  
+  **_Faire un maximum d'exercices à l'avance en vous répartissant, si possible, les exercices préparés._**
 
 # Divers
 
