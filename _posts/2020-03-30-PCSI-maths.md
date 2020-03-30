@@ -26,7 +26,7 @@ L'emploi du temps a été réorganisé. Je vous donne à l'avance le travail à 
   **_Préparer la question 1 de l'exercice 6.2 à l'avance_**.  
   **_Préparer l'exercice 14.22_** de la [feuille d'exercices sur la continuité](https://fcoulombeau.github.io/cours/PCSI-Exo-25032020.pdf).
   
-# Mercredi 1\textsuperscript{er} avril 10h-12h : 
+# Mercredi 1<sup>er</sup> avril 10h-12h : 
 ## TD d'info
 
 - À venir.
