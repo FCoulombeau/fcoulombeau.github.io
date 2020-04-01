@@ -29,7 +29,9 @@ L'emploi du temps a été réorganisé. Je vous donne à l'avance le travail à 
 # Mercredi 1<sup>er</sup> avril 10h-12h : 
 ### TD d'info
 
-- [TD d'info : bras mécanique d'ouverture d'un vantail](https://fcoulombeau.github.io/cours/PCSI-Info-01042020.pdf).
+- [TD d'info : bras mécanique d'ouverture d'un vantail](https://fcoulombeau.github.io/cours/PCSI-Info-01042020.pdf).  
+  [TD d'info : corrigé PDF](https://fcoulombeau.github.io/cours/PCSI-InfoCor-01042020.pdf).  
+  [TD d'info : corrigé Python](https://fcoulombeau.github.io/cours/PCSI-InfoCor-01042020.py).
 
 # Jeudi 2 avril 10h-12h : 
 ### Cours de maths

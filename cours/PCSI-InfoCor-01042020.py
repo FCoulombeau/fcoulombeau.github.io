@@ -14,7 +14,7 @@ C = 1790
 D = 560
 E = 1400
 F = 1960
-G = 1120
+G = 112
 
 def f(theta_m,theta_v):
     return A+B*np.cos(theta_v)+C*np.sin(theta_v)-D*np.cos(theta_m)-E*np.sin(theta_m)\
