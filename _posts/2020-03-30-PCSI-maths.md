@@ -22,7 +22,7 @@ L'emploi du temps a été réorganisé. Je vous donne à l'avance le travail à 
 # Mardi 31 mars 10h-12h : 
 ### TD de maths
 
-- Fin du [TD commencé le 25 mars](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf).  
+- Suite du [TD commencé le 25 mars](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf).  
   **_Préparer la question 1 de l'exercice 6.2 à l'avance_**.  
   **_Préparer l'exercice 14.22_** de la [feuille d'exercices sur la continuité](https://fcoulombeau.github.io/cours/PCSI-Exo-25032020.pdf).
   
@@ -36,13 +36,17 @@ L'emploi du temps a été réorganisé. Je vous donne à l'avance le travail à 
 # Jeudi 2 avril 10h-12h : 
 ### Cours de maths
 
-- Fin du [chapitre sur la dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Cours-02042020.pdf).  
-  **_Lire et comprendre le cours. Préparer les deux exercices du cours._**   
+- Suite du [TD commencé le 25 mars](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf).  
   [Correction de la feuille de TD sur les suites récurrentes](https://fcoulombeau.github.io/cours/PCSI-TDCor-25032020.pdf)
 # Vendredi 3 avril 10h-12h : 
 ### Exercices
 
+- **_Terminer l'exercice 6.5_** du [TD commencé le 25 mars](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf).
+- Fin du [chapitre sur la dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Cours-02042020.pdf).  
+  **_Lire et comprendre le cours. Préparer les deux exercices du cours._**   
 - **_Faire l'exercice 14.22_** de la [feuille d'exercices sur la continuité](https://fcoulombeau.github.io/cours/PCSI-Exo-25032020.pdf) et me l'envoyer par mail.
+
+# Mardi 7 avril 10h-12h :
 - Préparer la feuille d'exercices sur la [dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Exo-24032020.pdf).  
   **_Faire un maximum d'exercices à l'avance en vous répartissant, si possible, les exercices préparés._**
 
