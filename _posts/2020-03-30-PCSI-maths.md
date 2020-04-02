@@ -34,13 +34,13 @@ L'emploi du temps a été réorganisé. Je vous donne à l'avance le travail à 
   [TD d'info : corrigé Python](https://fcoulombeau.github.io/cours/PCSI-InfoCor-01042020.py).
 
 # Jeudi 2 avril 10h-12h : 
-### Cours de maths
+### TD de maths
 
 - Suite du [TD commencé le 25 mars](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf).  
   [Correction de la feuille de TD sur les suites récurrentes](https://fcoulombeau.github.io/cours/PCSI-TDCor-25032020.pdf)
  
 # Vendredi 3 avril 10h-12h : 
-### Exercices
+### Cours de maths
 
 - **_Terminer l'exercice 6.5_** du [TD commencé le 25 mars](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf).
 - Fin du [chapitre sur la dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Cours-02042020.pdf).  
@@ -48,6 +48,7 @@ L'emploi du temps a été réorganisé. Je vous donne à l'avance le travail à 
 - **_Faire l'exercice 14.22_** de la [feuille d'exercices sur la continuité](https://fcoulombeau.github.io/cours/PCSI-Exo-25032020.pdf) et me l'envoyer par mail.
 
 # Mardi 7 avril 10h-12h :
+### Exercices
 - Préparer la feuille d'exercices sur la [dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Exo-24032020.pdf).  
   **_Faire un maximum d'exercices à l'avance en vous répartissant, si possible, les exercices préparés._**
 
