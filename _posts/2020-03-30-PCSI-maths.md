@@ -37,8 +37,8 @@ L'emploi du temps a été réorganisé. Je vous donne à l'avance le travail à 
 ### Cours de maths
 
 - Fin du [chapitre sur la dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Cours-02042020.pdf).  
-  **_Lire et comprendre le cours. Préparer les deux exercices du cours._**
-  
+  **_Lire et comprendre le cours. Préparer les deux exercices du cours._**   
+  [Correction de la feuille de TD sur les suites récurrentes](https://fcoulombeau.github.io/cours/PCSI-TDCor-25032020.pdf)
 # Vendredi 3 avril 10h-12h : 
 ### Exercices
 
