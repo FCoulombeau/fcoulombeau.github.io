@@ -38,6 +38,7 @@ L'emploi du temps a été réorganisé. Je vous donne à l'avance le travail à 
 
 - Suite du [TD commencé le 25 mars](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf).  
   [Correction de la feuille de TD sur les suites récurrentes](https://fcoulombeau.github.io/cours/PCSI-TDCor-25032020.pdf)
+ 
 # Vendredi 3 avril 10h-12h : 
 ### Exercices
 
