@@ -52,6 +52,7 @@ L'emploi du temps a été réorganisé. Je vous donne à l'avance le travail à 
 
 - [Correction du TD commencé le 25 mars](https://fcoulombeau.github.io/cours/PCSI-TDCor-25032020.pdf).
 - Fin du [chapitre sur la dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Cours-02042020.pdf).  
+  [Cours avec exercices corrigés](https://fcoulombeau.github.io/cours/PCSI-CoursCor-02042020.pdf).
 - [Correction de l'exercice 14.22](https://fcoulombeau.github.io/cours/Ex.14.22.pdf).
 - [Un petit code Python pour faire les représentations graphiques de suites récurrentes](https://fcoulombeau.github.io/cours/SuitesRec.py).
 
