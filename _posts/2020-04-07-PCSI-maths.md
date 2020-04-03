@@ -14,12 +14,12 @@ niveau: PCSI
 
 Sur le principe, on continue comme la semaine dernière. Pour préparer la semaine, voici le travail à effectuer :
 - **_Pour le mardi 8 avril_** : Faire un maximum d'exercices à l'avance en vous répartissant, si possible, les exercices préparés.
-- **_Pour le mercredi 9 avril_** : en vue du TD d'informatique, il faut effectuer la préparation suivante
+- **_Pour le mercredi 9 avril_** : en vue du TD d'informatique, il faut effectuer la préparation suivante (sous Windows - pour les utilisateurs Mac, se référer à [cette page Web](https://zulko.github.io/moviepy/install.html))
    1. Télécharger l'archive [PodRace.zip](/cours/PodRace.zip) et la décompresser dans votre dossier de travail.
    2. Aller dans le dossier d'installation de Python, puis dans le sous-dossier `Scripts`.
    3. Ouvrir une fenêtre `PowerShell` (Maj-Ctrl puis clique droit dans le dossier `Scripts` et *Ouvrir la fenêtre PowerShell ici*).
    4. Il faut être connecté à internet pour effectuer cette étape : cela va télécharger `moviepy` et tous les modules nécessaires puis les installer. Fermer aussi Spyder s'il est ouvert.    
-      Taper les lignes suivantes (sous Windows - pour les utilisateurs Mac, se référer à [cette page Web](https://zulko.github.io/moviepy/install.html)) :  
+      Taper les lignes suivantes :  
       ```
 ./conda.exe update imageio
 ./pip.exe install moviepy
