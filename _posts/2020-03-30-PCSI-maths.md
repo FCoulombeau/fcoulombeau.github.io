@@ -50,10 +50,10 @@ L'emploi du temps a été réorganisé. Je vous donne à l'avance le travail à 
 # Vendredi 3 avril 10h-12h : 
 ### Cours de maths
 
-- **_Terminer l'exercice 6.5_** du [TD commencé le 25 mars](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf).
+- [Correction du TD commencé le 25 mars](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf).
 - Fin du [chapitre sur la dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Cours-02042020.pdf).  
-  **_Lire et comprendre le cours. Préparer les deux exercices du cours._**   
-- **_Faire l'exercice 14.22_** de la [feuille d'exercices sur la continuité](https://fcoulombeau.github.io/cours/PCSI-Exo-25032020.pdf) et me l'envoyer par mail.
+- [Correction de l'exercice 14.22](https://fcoulombeau.github.io/cours/Ex.14.22.pdf).
+- [Un petit code Python pour faire les représentations graphiques de suites récurrentes](https://fcoulombeau.github.io/cours/SuitesRec.py).
 
 ---
 
