@@ -37,7 +37,6 @@ Sur le principe, on continue comme la semaine dernière. Pour préparer la semai
 
 # Mercredi 8 avril 10h-12h : 
 ### TD d'info
-wawa2-wawa.webm
 - [TD d'info : Projet Podrace](https://fcoulombeau.github.io/cours/PCSI-Info-08042020.pdf).  
   Le but de ce TD est de programmer des algorithmes de pilotage automatique de Pods s'affrontant dans une course style **_Star Wars Episode 1_**.  
   Je vous fournis un [programme](/cours/PodRace.zip) qui gère toute la partie ludique et graphique. Il n'y a plus qu'à programmer les algorithmes de pilotage.  
