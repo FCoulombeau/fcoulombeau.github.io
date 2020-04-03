@@ -54,6 +54,6 @@ L'emploi du temps a été réorganisé. Je vous donne à l'avance le travail à 
 
 # Divers
 
-- Cahier de texte de la semaine : à venir.
-- Programme de colles pour la semaine suivante : à venir.
+- [Cahier de texte de la semaine](https://fcoulombeau.github.io/cours/CT-30032020.pdf).
+- [Programme de colles pour la semaine suivante](https://fcoulombeau.github.io/cours/PC-07042020.pdf).
 - Copies terminées.
