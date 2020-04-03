@@ -35,7 +35,9 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
 - [Feuille d'exercices du chapitre sur la dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Exo-24032020.pdf)
 - [Cours de maths du 25 mars 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-25032020.pdf)  
   [Cours de maths du 25 mars 2020 avec exos corrigés](https://fcoulombeau.github.io/cours/PCSI-CoursCor-25032020.pdf)
-- [TD sur les suites récurrentes](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf)
+- [TD sur les suites récurrentes](https://fcoulombeau.github.io/cours/PCSI-TD-25032020.pdf)  
+  [Correction du TD sur les suites récurrentes](https://fcoulombeau.github.io/cours/PCSI-TDCor-25032020.pdf)  
+  [Code Python : représentation graphique d'une suite récurrente](https://fcoulombeau.github.io/cours/SuiteRec.py)
 - [Correction de quelques exos de maths (27 mars)](https://fcoulombeau.github.io/cours/PCSI-ExoCor-27032020.pdf)  
   [Résumé de ce qui a été fait en TD le 27 mars](https://nbviewer.jupyter.org/urls/fcoulombeau.github.io/cours/Cours-Maths-27032020.ipynb?flush_cache=true)  
   [Télécharger le fichier Notebook correspondant](https://fcoulombeau.github.io/cours/Cours-Maths-27032020.ipynb)
@@ -46,7 +48,10 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
 - [TD d'info du 1<SUP>er</SUP> avril 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Info-01042020.pdf)  
   [TD d'info du 1<SUP>er</SUP> avril : corrigé PDF](https://fcoulombeau.github.io/cours/PCSI-InfoCor-01042020.pdf)  
   [TD d'info du 1<SUP>er</SUP> avril : corrigé Python](https://fcoulombeau.github.io/cours/PCSI-InfoCor-01042020.py)
-- [Cours de maths du 2 avril 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-02042020.pdf)
+- [Cours de maths du 2 avril 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Cours-02042020.pdf)  
+  [Cours de maths du 2 avril 2020 avec exos corrigés](https://fcoulombeau.github.io/cours/PCSI-CoursCor-02042020.pdf)
+- [TD d'info du 8 avril 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Info-08042020.pdf)  
+  [Archive à télécharger et décompresser pour le TD du 8 avril](https://fcoulombeau.github.io/cours/PodRace.zip)
 
 # MP
 
