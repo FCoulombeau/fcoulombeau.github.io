@@ -31,7 +31,8 @@ Sur le principe, on continue comme la semaine dernière. Pour préparer la semai
 # Mardi 7 avril 10h-12h :
 ### Exercices
 - Préparer la feuille d'exercices sur la [dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Exo-24032020.pdf).  
-  **_Faire un maximum d'exercices à l'avance en vous répartissant, si possible, les exercices préparés._**
+  **_Faire un maximum d'exercices à l'avance en vous répartissant, si possible, les exercices préparés._**  
+  Je donnerai un corrigé de l'exercice 17.11.
 
 ---
 
