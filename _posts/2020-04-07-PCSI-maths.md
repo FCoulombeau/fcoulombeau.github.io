@@ -50,7 +50,7 @@ Sur le principe, on continue comme la semaine dernière. Pour préparer la semai
 # Jeudi 9 avril 10h-12h : 
 ### Cours
 
-- Matrices : à venir.
+- Matrices : [début du chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Cours-09042020.pdf)
 
 ---
 
