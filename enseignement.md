@@ -52,6 +52,8 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
   [Cours de maths du 2 avril 2020 avec exos corrigés](https://fcoulombeau.github.io/cours/PCSI-CoursCor-02042020.pdf)
 - [TD d'info du 8 avril 2020 à distance](https://fcoulombeau.github.io/cours/PCSI-Info-08042020.pdf)  
   [Archive à télécharger et décompresser pour le TD du 8 avril](https://fcoulombeau.github.io/cours/PodRace.zip)
+- [Chapitre sur le dénombrement](https://fcoulombeau.github.io/cours/PCSI-Denombrement.pdf)  
+  [Chapitre sur la dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Derivabilite.pdf)
 
 # MP
 
