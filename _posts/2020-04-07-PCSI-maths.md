@@ -21,8 +21,8 @@ Sur le principe, on continue comme la semaine dernière. Pour préparer la semai
    4. Il faut être connecté à internet pour effectuer cette étape : cela va télécharger `moviepy` et tous les modules nécessaires puis les installer. Fermer aussi Spyder s'il est ouvert.    
       Taper les lignes suivantes :  
       ```
-./conda.exe update imageio
 cmd.exe "/K" .\activate.bat ..\
+./conda.exe update imageio
 ./pip.exe install moviepy
       ```
 - **_Pour le jeudi 10 et le vendredi 11 avril_** : réviser tous les chapitres sur les espaces vectoriels, lire, comprendre et apprendre le nouveau chapitre.
