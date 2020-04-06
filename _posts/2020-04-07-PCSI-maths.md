@@ -22,8 +22,8 @@ Sur le principe, on continue comme la semaine dernière. Pour préparer la semai
       Taper les lignes suivantes :  
       ```
 cmd.exe "/K" .\activate.bat ..\
-./conda.exe update imageio
-./pip.exe install moviepy
+.\conda.exe update imageio
+.\pip.exe install moviepy
       ```
 - **_Pour le jeudi 10 et le vendredi 11 avril_** : réviser tous les chapitres sur les espaces vectoriels, lire, comprendre et apprendre le nouveau chapitre.
 
