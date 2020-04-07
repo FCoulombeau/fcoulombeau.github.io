@@ -33,7 +33,7 @@ cmd.exe "/K" .\activate.bat ..\
 ### Exercices
 - Préparer la feuille d'exercices sur la [dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Exo-24032020.pdf).  
   **_Faire un maximum d'exercices à l'avance en vous répartissant, si possible, les exercices préparés._**  
-  Je donnerai un corrigé de l'exercice 17.11.
+  [Corrigé de l'exercice 17.11 et de quelques autres](https://fcoulombeau.github.io/cours/PCSI-ExoCor-07042020.pdf).
 
 ---
 
