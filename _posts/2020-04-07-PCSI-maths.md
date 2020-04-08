@@ -24,7 +24,13 @@ Sur le principe, on continue comme la semaine dernière. Pour préparer la semai
 cmd.exe "/K" .\activate.bat ..\
 .\conda.exe update imageio
 .\pip.exe install moviepy
+      ```  
+      Pour tester si l'installation s'est bien passée, télécharger et exécuter ce [fichier Python](https://fcoulombeau.github.io/cours/video.py). Il devrait créer une vidéo dans le dossier où il est enregistré. Si ce n'est pas le cas : (la première ligne est inutile si vous n'avez pas fermé la fenêtre PowerShell)  
       ```
+cmd.exe "/K" .\activate.bat ..\
+.\pip.exe uninstall moviepy
+conda install -c conda-forge moviepy
+      ```  
 - **_Pour le jeudi 10 et le vendredi 11 avril_** : réviser tous les chapitres sur les espaces vectoriels, lire, comprendre et apprendre le nouveau chapitre.
 
 ---
