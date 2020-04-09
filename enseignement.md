@@ -55,8 +55,8 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
   [Correction du TD](https://fcoulombeau.github.io/img/PodRace.zip)
 - [Chapitre sur le dénombrement](https://fcoulombeau.github.io/cours/PCSI-Denombrement.pdf)  
   [Chapitre sur la dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Derivabilite.pdf)
-- [Chapitre sur les matrices : 1<SUP>ère<\SUP> partie](https://fcoulombeau.github.io/cours/PCSI-Cours-09042020.pdf)  
-  [Chapitre sur les matrices: 2<SUP>ème<\SUP> partie](https://fcoulombeau.github.io/cours/PCSI-Cours-10042020.pdf)  
+- [Chapitre sur les matrices : 1<SUP>ère</SUP> partie](https://fcoulombeau.github.io/cours/PCSI-Cours-09042020.pdf)  
+  [Chapitre sur les matrices: 2<SUP>ème</SUP> partie](https://fcoulombeau.github.io/cours/PCSI-Cours-10042020.pdf)  
   [Feuille d'exercices sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Exo-09042020.pdf)  
 
 # MP
