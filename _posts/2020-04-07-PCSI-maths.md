@@ -57,14 +57,15 @@ conda install -c conda-forge moviepy
 # Jeudi 9 avril 10h-12h : 
 ### Cours
 
-- Matrices : [début du chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Cours-09042020.pdf)
+- Matrices : [début du chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Cours-09042020.pdf).
 
 ---
 
 # Vendredi 10 avril 10h-12h : 
 ### Cours
 
-- Matrices : à venir. 
+- Matrices : [fin du chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Cours-10042020.pdf).  
+  Feuille d'[exercices sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Exo-09042020.pdf) **_à préparer pour le mardi 14 avril et le jeudi 16 avril_**.
 
 ---
 
