@@ -12,7 +12,7 @@ slug: pcsi-m10
 niveau: PCSI
 ---
 
-Sur le principe, on continue comme la semain dernière. Pour préparer la semaine, voici le travail à effectuer :
+Sur le principe, on continue comme la semaine dernière. Pour préparer la semaine, voici le travail à effectuer :
 - **_Pour le mardi 8 avril_** : Faire un maximum d'exercices à l'avance en vous répartissant, si possible, les exercices préparés.
 - **_Pour le mercredi 9 avril_** : en vue du TD d'informatique, il faut effectuer la préparation suivante (sous Windows - pour les utilisateurs Mac, se référer à [cette page Web](https://zulko.github.io/moviepy/install.html))
    1. Télécharger l'archive [PodRace.zip](/cours/PodRace.zip) et la décompresser dans votre dossier de travail.
