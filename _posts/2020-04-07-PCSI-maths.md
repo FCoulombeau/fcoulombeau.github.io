@@ -48,6 +48,7 @@ conda install -c conda-forge moviepy
 - [TD d'info : Projet Podrace](https://fcoulombeau.github.io/cours/PCSI-Info-08042020.pdf).  
   Le but de ce TD est de programmer des algorithmes de pilotage automatique de Pods s'affrontant dans une course style **_Star Wars Episode 1_**.  
   Je vous fournis un [programme](/cours/PodRace.zip) qui gère toute la partie ludique et graphique. Il n'y a plus qu'à programmer les algorithmes de pilotage.  
+  [Correction du TD](https://fcoulombeau.github.io/img/PodRace.zip).  
   Voici un [exemple de course](/img/wawa2-wawa.webm).  
   Et voici ce que vous [devez vous imaginer :-)](https://www.youtube.com/watch?v=Dqus0aXiAVE).  
   Enfin, ce TD sera la base du prochain devoir à la maison d'informatique.
