@@ -72,5 +72,5 @@ conda install -c conda-forge moviepy
 
 # Divers
 
-- Cahier de texte de la semaine : à venir.
-- Programme de colles pour la semaine suivante : à venir.
+- [Cahier de texte de la semaine](https://fcoulombeau.github.io/cours/CT-10042020.pdf).
+- [Programme de colles pour la semaine suivante](https://fcoulombeau.github.io/cours/PC-14042020.pdf).
