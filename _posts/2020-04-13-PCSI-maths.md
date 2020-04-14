@@ -19,7 +19,8 @@ niveau: PCSI
 # Lundi 13 avril 14h-16h :
 ### Cours d'informatique
 
-- Fin du chapitre sur l'[algorithmique et la complexité](https://fcoulombeau.github.io/cours/PCSI-Info-30032020.pdf).
+- ~Fin du chapitre sur l'[algorithmique et la complexité](https://fcoulombeau.github.io/cours/PCSI-Info-30032020.pdf).~  
+  Lundi de Pâques, j'avais oublié...
   
 ---
 
