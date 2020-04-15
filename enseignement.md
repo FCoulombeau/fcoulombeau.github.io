@@ -56,6 +56,7 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
 - [Chapitre sur le dénombrement](https://fcoulombeau.github.io/cours/PCSI-Denombrement.pdf)  
   [Chapitre sur la dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Derivabilite.pdf)  
   [Chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Matrices.pdf)
+- [TD d'introduction aux probabilités](https://fcoulombeau.github.io/cours/PCSI-TD-15042020.pdf)
   
 # MP
 

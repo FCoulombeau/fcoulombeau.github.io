@@ -38,7 +38,9 @@ niveau: PCSI
 ### Cours
 
 - [Fin du chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Cours-10042020.pdf).  
-  Matrices : [correction des exercices de fin de chapitre](https://fcoulombeau.github.io/cours/PCSI-CoursCor-10042020.pdf).  
+  [Correction des exercices de fin de chapitre](https://fcoulombeau.github.io/cours/PCSI-CoursCor-10042020.pdf).  
+  [TD d'introduction aux probabilités](https://fcoulombeau.github.io/cours/PCSI-TD-15042020.pdf).
+  
 
 ---
 
