@@ -54,12 +54,9 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
   [Archive à télécharger et décompresser pour le TD du 8 avril](https://fcoulombeau.github.io/cours/PodRace.zip)  
   [Correction du TD](https://fcoulombeau.github.io/img/PodRace.zip)
 - [Chapitre sur le dénombrement](https://fcoulombeau.github.io/cours/PCSI-Denombrement.pdf)  
-  [Chapitre sur la dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Derivabilite.pdf)
-- [Chapitre sur les matrices : 1<SUP>ère</SUP> partie](https://fcoulombeau.github.io/cours/PCSI-Cours-09042020.pdf)  
-  [Chapitre sur les matrices: 2<SUP>ème</SUP> partie](https://fcoulombeau.github.io/cours/PCSI-Cours-10042020.pdf)  
-  [Feuille d'exercices sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Exo-09042020.pdf)  
-  [Corrigé des exercices de la première partie du cours](https://fcoulombeau.github.io/cours/PCSI-CoursCor-09042020.pdf)
-
+  [Chapitre sur la dérivabilité](https://fcoulombeau.github.io/cours/PCSI-Derivabilite.pdf)  
+  [Chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Matrices.pdf)
+  
 # MP
 
 - [X 2015 PSI-PT](https://fcoulombeau.github.io/cours/X2015-PT-PSI.pdf)

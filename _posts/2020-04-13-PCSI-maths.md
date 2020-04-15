@@ -28,6 +28,7 @@ niveau: PCSI
 ### Cours de maths
 - Terminer l'exercice 11, faire l'exercice 13, avancer le plus possible dans la fin du chapitre sur les matrices.  
   Matrices : [début du chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Cours-09042020.pdf).  
+  Matrices : [correction des exercices de début de chapitre](https://fcoulombeau.github.io/cours/PCSI-CoursCor-09042020.pdf).  
   Matrices : [fin du chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Cours-10042020.pdf).
 
 ---
@@ -36,7 +37,8 @@ niveau: PCSI
 
 ### Cours
 
-- [Fin du chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Cours-10042020.pdf) ou nouveau chapitre sinon.
+- [Fin du chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Cours-10042020.pdf).  
+  Matrices : [correction des exercices de fin de chapitre](https://fcoulombeau.github.io/cours/PCSI-CoursCor-10042020.pdf).  
 
 ---
 
