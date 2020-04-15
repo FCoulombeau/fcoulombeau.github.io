@@ -33,15 +33,17 @@ niveau: PCSI
 ---
 
 # Mercredi 15 avril 10h-12h : 
-### TD de maths
-- Feuille d'[exercices sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Exo-09042020.pdf) : **_préparer un maximum d'exercices_** (notamment sur ce que nous avons vu la semaine dernière).
+
+### Cours
+
+- [Fin du chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Cours-10042020.pdf) ou nouveau chapitre sinon.
 
 ---
 
 # Jeudi 16 avril 10h-12h : 
-### Cours
+### TD de maths
 
-- [Fin du chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Cours-10042020.pdf) ou nouveau chapitre sinon.
+- Feuille d'[exercices sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Exo-09042020.pdf) : **_préparer un maximum d'exercices_** (notamment sur ce que nous avons vu la semaine dernière).
 
 ---
 
