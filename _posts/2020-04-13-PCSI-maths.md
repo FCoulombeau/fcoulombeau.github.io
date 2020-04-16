@@ -48,6 +48,8 @@ niveau: PCSI
 ### TD de maths
 
 - Feuille d'[exercices sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Exo-09042020.pdf) : **_préparer un maximum d'exercices_** (notamment sur ce que nous avons vu la semaine dernière).
+- Colles : [sujets groupe 1](https://fcoulombeau.github.io/cours/PCSI-Colle-16042020G1.pdf).  
+  Colles : [sujets groupe 2](https://fcoulombeau.github.io/cours/PCSI-Colle-16042020G2.pdf)
 
 ---
 
