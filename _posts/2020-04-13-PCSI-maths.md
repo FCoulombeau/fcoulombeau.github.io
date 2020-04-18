@@ -39,7 +39,8 @@ niveau: PCSI
 
 - [Fin du chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Cours-10042020.pdf).  
   [Correction des exercices de fin de chapitre](https://fcoulombeau.github.io/cours/PCSI-CoursCor-10042020.pdf).  
-  [TD d'introduction aux probabilités](https://fcoulombeau.github.io/cours/PCSI-TD-15042020.pdf).
+  [TD d'introduction aux probabilités](https://fcoulombeau.github.io/cours/PCSI-TD-15042020.pdf).  
+  [Correction du TD d'introduction aux probabilités](https://fcoulombeau.github.io/cours/PCSI-TDCor-15042020.pdf).  
   
 
 ---
@@ -56,11 +57,11 @@ niveau: PCSI
 # Vendredi 17 avril 10h-12h : 
 ### Cours
 
-- À venir.
+- Feuille d'[exercices sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Exo-09042020.pdf) et quelques réponses aux questions des élèves.
 
 ---
 
 # Divers
 
-- Cahier de texte de la semaine : à venir.
-- Programme de colles pour la semaine suivante : à venir.
+- [Cahier de texte de la semaine](https://fcoulombeau.github.io/cours/CT-17042020.pdf).
+- [Programme de colles pour la rentrée](https://fcoulombeau.github.io/cours/PC-04052020.pdf).
