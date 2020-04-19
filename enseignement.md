@@ -58,6 +58,7 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
   [Chapitre sur les matrices](https://fcoulombeau.github.io/cours/PCSI-Matrices.pdf)
 - [TD d'introduction aux probabilités](https://fcoulombeau.github.io/cours/PCSI-TD-15042020.pdf)  
   [Correction du TD d'introduction aux probabilités](https://fcoulombeau.github.io/cours/PCSI-TDCor-15042020.pdf)
+- [Correction de l'exercice 13 de la feuille d'exercices sur les matrices](https://fcoulombeau.github.io/cours/Exo18.13.pdf)
   
 # MP
 
