@@ -34,7 +34,7 @@ niveau: PCSI
 
 ### TD d'info
 
-- TD noté sur la méthode d'Euler pour la résolution des équations différentielles. 
+- TD d'informatique : révisions sur les suites récurrentes et la méthode d'Euler.
   
 
 ---
