@@ -61,6 +61,7 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
 - [Correction de l'exercice 13 de la feuille d'exercices sur les matrices](https://fcoulombeau.github.io/cours/Exo18.13.pdf)
 - [Devoir à la maison pour le lundi 4 mai](https://fcoulombeau.github.io/cours/PCSI-DM4.pdf)
 - [Feuille d'exercices sur les probabilités](https://fcoulombeau.github.io/cours/PCSI-Exo-05052020.pdf)
+- [TD d'informatique du 6 mai à distance](https://fcoulombeau.github.io/cours/PCSI-Info-06052020.pdf)
   
 # MP
 

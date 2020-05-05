@@ -34,7 +34,7 @@ niveau: PCSI
 
 ### TD d'info
 
-- TD d'informatique : révisions sur les suites récurrentes et la méthode d'Euler.
+- [TD d'informatique](https://fcoulombeau.github.io/cours/PCSI-Info-06052020.pdf).
   
 
 ---
