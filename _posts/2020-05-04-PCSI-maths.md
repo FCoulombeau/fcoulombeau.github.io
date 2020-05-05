@@ -50,7 +50,8 @@ niveau: PCSI
 # Vendredi 8 mai 10h-12h : 
 ### TD de maths
 
-- Feuille d'exercices sur les probabilités. Éventuellement quelques exercices sur les matrices.
+- [Feuille d'exercices sur les probabilités](https://fcoulombeau.github.io/cours/PCSI-Exo-05052020.pdf).  
+  Éventuellement quelques exercices sur les matrices.
 
 ---
 
