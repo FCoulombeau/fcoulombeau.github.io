@@ -43,7 +43,9 @@ niveau: PCSI
 ### Cours de maths
 
 - [Fin du chapitre sur les probabilités](https://fcoulombeau.github.io/cours/PCSI-Cours-07052020.pdf).
-- Colles : 2 groupes de volontaires de 13h à 14h et de 14h à 15h.
+- Colles : 2 groupes de volontaires de 12h à 13h et de 14h à 15h.  
+  Sujets du [groupe 1](https://fcoulombeau.github.io/cours/PCSI-Colle-07052020G1.pdf).
+- Devoir à la maison pour le lundi 4 mai : [correction](https://fcoulombeau.github.io/cours/PCSI-DM4Cor.pdf).
 
 ---
 
@@ -51,7 +53,7 @@ niveau: PCSI
 ### TD de maths
 
 - [Feuille d'exercices sur les probabilités](https://fcoulombeau.github.io/cours/PCSI-Exo-05052020.pdf).  
-  Éventuellement quelques exercices sur les matrices.
+  Éventuellement quelques exercices sur les [matrices](https://fcoulombeau.github.io/cours/PCSI-Exo-09042020.pdf).
 
 ---
 
