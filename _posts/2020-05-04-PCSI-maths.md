@@ -34,8 +34,9 @@ niveau: PCSI
 
 ### TD d'info
 
-- [TD d'informatique](https://fcoulombeau.github.io/cours/PCSI-Info-06052020.pdf).
-  
+- [TD d'informatique](https://fcoulombeau.github.io/cours/PCSI-Info-06052020.pdf).  
+  TD d'informatique : [correction](https://fcoulombeau.github.io/cours/PCSI-InfoCor-06052020.pdf).  
+  TD d'informatique : [corrigé Python](https://fcoulombeau.github.io/cours/TD.14.RevisionEtFractals.py).
 
 ---
 
