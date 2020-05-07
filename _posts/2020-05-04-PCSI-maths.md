@@ -45,7 +45,8 @@ niveau: PCSI
 
 - [Fin du chapitre sur les probabilités](https://fcoulombeau.github.io/cours/PCSI-Cours-07052020.pdf).
 - Colles : 2 groupes de volontaires de 12h à 13h et de 14h à 15h.  
-  Sujets du [groupe 1](https://fcoulombeau.github.io/cours/PCSI-Colle-07052020G1.pdf).
+  Sujets du [groupe 1](https://fcoulombeau.github.io/cours/PCSI-Colle-07052020G1.pdf).  
+  Sujets du [groupe 2](https://fcoulombeau.github.io/cours/PCSI-Colle-07052020G2.pdf).
 - Devoir à la maison pour le lundi 4 mai : [correction](https://fcoulombeau.github.io/cours/PCSI-DM4Cor.pdf).
 
 ---
