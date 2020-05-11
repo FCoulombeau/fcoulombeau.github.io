@@ -19,7 +19,7 @@ niveau: PCSI
 
 ### PCSI : devoir de maths
 
-- \`A venir.
+- [Devoir](https://fcoulombeau.github.io/cours/PCSI-Devoir-11052020.pdf).
   
 ---
 
