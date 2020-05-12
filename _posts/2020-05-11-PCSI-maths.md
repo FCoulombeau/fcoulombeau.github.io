@@ -19,13 +19,14 @@ niveau: PCSI
 
 ### PCSI : devoir de maths
 
-- [Devoir](https://fcoulombeau.github.io/cours/PCSI-Devoir-11052020.pdf).
+- [Devoir](https://fcoulombeau.github.io/cours/PCSI-Devoir-11052020.pdf).  
+  [Corrigé](https://fcoulombeau.github.io/cours/PCSI-DevoirCor-11052020.pdf).  
   
 ---
 
 # Mardi 5 mai 10h-12h :
 ### Cours de maths
-- Début du chapitre sur les séries.
+- [Début du chapitre sur les séries](https://fcoulombeau.github.io/cours/PCSI-Cours-12052020.pdf).
 
 ---
 
