@@ -24,30 +24,31 @@ niveau: PCSI
   
 ---
 
-# Mardi 5 mai 10h-12h :
+# Mardi 12 mai 10h-12h :
 ### Cours de maths
 - [Début du chapitre sur les séries](https://fcoulombeau.github.io/cours/PCSI-Cours-12052020.pdf).
 
 ---
 
-# Mercredi 6 mai 10h-12h : 
+# Mercredi 13 mai 10h-12h : 
 ### Cours de maths
 
-- Suite du chapitre sur les séries.
+- [Suite du chapitre sur les séries](https://fcoulombeau.github.io/cours/PCSI-Cours-12052020.pdf).
 
 ---
 
-# Jeudi 7 mai 10h-12h : 
+# Jeudi 14 mai 10h-12h : 
 ### Cours de maths
 
-- Suite du chapitre sur les séries.
+- [Fin du chapitre sur les séries](https://fcoulombeau.github.io/cours/PCSI-Cours-14052020.pdf).
 
 ---
 
-# Vendredi 8 mai 10h-12h : 
+# Vendredi 15 mai 10h-12h : 
 ### TD de maths
 
-- Feuilles d'exercices sur les séries et les proba.
+- [Feuille d'exercices sur les séries](https://fcoulombeau.github.io/cours/PCSI-Exo-15052020.pdf).  
+  [Feuille d'exercices sur les probabilités](https://fcoulombeau.github.io/cours/PCSI-Exo-05052020.pdf).
 
 ---
 
