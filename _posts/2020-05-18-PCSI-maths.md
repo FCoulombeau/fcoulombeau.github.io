@@ -21,14 +21,14 @@ niveau: PCSI
 
 # Mardi 19 mai 10h-12h :
 ### Cours de maths
-- [Fin du chapitre sur les séries](https://fcoulombeau.github.io/cours/PCSI-Cours-18052020.pdf).
+- [Suite du chapitre sur les séries](https://fcoulombeau.github.io/cours/PCSI-Cours-18052020.pdf).
 
 ---
 
 # Mercredi 20 mai 10h-12h : 
 ### Cours de maths
 
-- Fin du chapitre sur les séries ou début du chapitre sur les déterminants.
+- [Fin du chapitre sur les séries](https://fcoulombeau.github.io/cours/PCSI-Cours-19052020.pdf).
 
 ---
 
