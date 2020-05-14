@@ -15,7 +15,7 @@ niveau: PCSI
 # Lundi 18 mai 10h-12h :
 ### MP : méthode d'Euler appliquée à l'astrophysique.
 
-- \`A venir.
+- À venir.
   
 ---
 
