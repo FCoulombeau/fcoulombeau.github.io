@@ -40,7 +40,7 @@ niveau: PCSI
 # Jeudi 14 mai 10h-12h : 
 ### Cours de maths
 
-- [Fin du chapitre sur les séries](https://fcoulombeau.github.io/cours/PCSI-Cours-14052020.pdf).
+- [Suite du chapitre sur les séries](https://fcoulombeau.github.io/cours/PCSI-Cours-14052020.pdf).
 
 ---
 
