@@ -35,15 +35,15 @@ niveau: PCSI
 # Jeudi 21 mai 10h-12h : 
 ### Cours de maths
 
-- Chapitre sur les déterminants.
+- ~~Chapitre sur les déterminants~~ : annulé, week-end de l'Ascension.
 
 ---
 
 # Vendredi 22 mai 10h-12h : 
 ### TD de maths
 
-- [Feuille d'exercices sur les séries](https://fcoulombeau.github.io/cours/PCSI-Exo-15052020.pdf).  
-  Feuille d'exercices sur les déterminants : à venir.
+- ~~[Feuille d'exercices sur les séries](https://fcoulombeau.github.io/cours/PCSI-Exo-15052020.pdf)~~.  
+  ~~Feuille d'exercices sur les déterminants~~ : annulé, week-end de l'Ascension.
 
 ---
 
