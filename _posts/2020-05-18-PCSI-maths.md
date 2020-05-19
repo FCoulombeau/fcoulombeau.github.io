@@ -12,13 +12,6 @@ slug: pcsi-m14
 niveau: PCSI
 ---
 
-# Lundi 18 mai 10h-12h :
-### MP : méthode d'Euler appliquée à l'astrophysique.
-
-- À venir.
-  
----
-
 # Mardi 19 mai 10h-12h :
 ### Cours de maths
 - [Suite du chapitre sur les séries](https://fcoulombeau.github.io/cours/PCSI-Cours-18052020.pdf).
