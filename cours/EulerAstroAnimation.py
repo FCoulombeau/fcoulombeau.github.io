@@ -114,7 +114,7 @@ while T<fin:
         # Pv = Pv-dt*G*SunM/norm(P)**3*P
         for i in range(len(objets)):
             if i!=k:
-                Pv = Pv-dt*G*masses[i]/norm(P-objets[i])**3*(P-objets[i])
+                Pv = Pv-dt*G*masses[i]/norm(P-pos[i])**3*(P-pos[i])
         P = P+dt*Pv
         obj2[k] = P
         vit2[k] = Pv

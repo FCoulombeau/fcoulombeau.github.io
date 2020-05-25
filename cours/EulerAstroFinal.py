@@ -157,7 +157,7 @@ pos = np.copy(objets)
 vit = np.copy(vitesses)
 
 trajectoires = [([],[]) for j in range(len(objets))]
-dt = 36
+dt = 3600
 today = date.datetime(2020,5,23)
 debut = today.toordinal()
 fin = date.datetime(2020,9,11).toordinal()
@@ -173,17 +173,17 @@ while T<fin:
         # Pv = Pv-dt*G*SunM/norm(P)**3*P
         for i in range(len(objets)):
             if i!=k:
-                Pv = Pv-dt*G*masses[i]/norm(P-objets[i])**3*(P-objets[i])
+                Pv = Pv-dt*G*masses[i]/norm(P-pos[i])**3*(P-pos[i])
         P = P+dt*Pv
         obj2[k] = P
         vit2[k] = Pv
-        Posx.append(P[0]-obj2[0][0])
-        Posy.append(P[1]-obj2[0][1])
+        Posx.append(P[0])
+        Posy.append(P[1])
     pos = np.copy(obj2)
     vit = np.copy(vit2)
     
 debuP = 0
-finP = 9
+finP = 1
 plt.figure()
 for (Posx,Posy) in trajectoires[debuP:finP]:
     plt.plot(Posx,Posy)
