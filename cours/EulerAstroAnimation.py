@@ -22,7 +22,7 @@ DeltaTParFrame = 1
 # 1s d'animation ~ 1 mois astronomique
 
 SolM = 1.9891e30
-Solv = np.array([-8.75538795, -3.79305189])
+Solv = np.array([11.69559797,   -9.17424867])
 Sol = np.array([0,0])
 
 Mev = np.array([51715.567061538,-8735.47167717])

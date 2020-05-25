@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 G = 6.6743e-11
 
 SolM = 1.9891e30
-Solv = np.array([-8.75538795, -3.79305189])
+Solv = np.array([11.69559797,   -9.17424867])
 Sol = np.array([0,0])
 
 Mev = np.array([51715.567061538,-8735.47167717])
@@ -160,7 +160,7 @@ trajectoires = [([],[]) for j in range(len(objets))]
 dt = 3600
 today = date.datetime(2020,5,23)
 debut = today.toordinal()
-fin = date.datetime(2020,9,11).toordinal()
+fin = date.datetime(2060,1,1).toordinal()
 T = debut
 
 while T<fin:
