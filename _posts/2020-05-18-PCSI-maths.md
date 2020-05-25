@@ -26,22 +26,7 @@ niveau: PCSI
 
 ---
 
-# Jeudi 21 mai 10h-12h : 
-### Cours de maths
-
-- ~~Chapitre sur les déterminants~~ : annulé, week-end de l'Ascension.
-
----
-
-# Vendredi 22 mai 10h-12h : 
-### TD de maths
-
-- ~~[Feuille d'exercices sur les séries](https://fcoulombeau.github.io/cours/PCSI-Exo-15052020.pdf)~~.  
-  ~~Feuille d'exercices sur les déterminants~~ : annulé, week-end de l'Ascension.
-
----
-
 # Divers
 
-- Cahier de texte de la semaine : à venir.
-- Programme de colles pour la semaine du 18 mai : à venir.
+- Cahier de texte de la semaine : (https://fcoulombeau.github.io/cours/CT-20052020.pdf).
+- Programme de colles pour la semaine du 25 mai : (https://fcoulombeau.github.io/cours/PC-25052020.pdf).
