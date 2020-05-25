@@ -14,7 +14,9 @@ niveau: PCSI
 
 # Lundi 25 mai 10h-12h :
 ### TD d'info MP
-- [Utilisation de la méthode d'Euler en astrophysique](https://fcoulombeau.github.io/cours/MP-Euler.pdf).
+- [Utilisation de la méthode d'Euler en astrophysique](https://fcoulombeau.github.io/cours/MP-Euler.pdf).  
+  [Correction des trois premières questions](https://fcoulombeau.github.io/cours/EulerAstroFinal.py).  
+  [Correction de l'animation](https://fcoulombeau.github.io/cours/EulerAstroAnimation.py).
 
 # Lundi 25 mai 14h-17h :
 ### TD de maths
