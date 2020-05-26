@@ -37,7 +37,7 @@ niveau: PCSI
 # Mercredi 27 mai 10h-12h : 
 ### Cours de maths
 
-- Chapitre sur les déterminants : à venir.
+- [Suite du chapitre sur les déterminants](https://fcoulombeau.github.io/cours/PCSI-Cours-27052020.pdf).
 
 ---
 
