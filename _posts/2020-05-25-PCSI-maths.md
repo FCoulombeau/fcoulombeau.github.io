@@ -18,7 +18,7 @@ niveau: PCSI
   [Correction des trois premières questions](https://fcoulombeau.github.io/cours/EulerAstroFinal.py).  
   [Correction de l'animation](https://fcoulombeau.github.io/cours/EulerAstroAnimation.py).
 
-# Lundi 25 mai 14h-17h :
+# Lundi 25 mai 14h-16h :
 ### TD de maths
 - [Feuille d'exercices sur les séries](https://fcoulombeau.github.io/cours/PCSI-Exo-15052020.pdf).
 
