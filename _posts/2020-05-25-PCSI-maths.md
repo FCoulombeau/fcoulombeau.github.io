@@ -28,6 +28,10 @@ niveau: PCSI
 ### Cours de maths
 - [Début du chapitre sur les déterminants](https://fcoulombeau.github.io/cours/PCSI-Cours-26052020.pdf).
 
+# Mardi 26 mai 14h-15h :
+### TD de maths
+- [Feuille d'exercices sur les séries](https://fcoulombeau.github.io/cours/PCSI-Exo-15052020.pdf).
+
 ---
 
 # Mercredi 27 mai 10h-12h : 
