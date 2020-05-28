@@ -65,6 +65,7 @@ Je regroupe ici mes documents de cours, tutoriels, Jupyter notebooks et autres.
 - [TD d'informatique du 6 mai à distance](https://fcoulombeau.github.io/cours/PCSI-Info-06052020.pdf)  
   TD d'informatique : [correction](https://fcoulombeau.github.io/cours/PCSI-InfoCor-06052020.pdf)  
   TD d'informatique : [corrigé Python](https://fcoulombeau.github.io/cours/TD.14.RevisionEtFractals.py)
+- [Chapitre sur les déterminants](https://fcoulombeau.github.io/cours/PCSI-Determinant.pdf).
   
 # MP
 
