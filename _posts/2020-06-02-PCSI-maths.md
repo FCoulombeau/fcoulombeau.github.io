@@ -23,7 +23,7 @@ niveau: PCSI
 # Mercredi 3 juin 10h-12h : 
 ### TD d'informatique
 
-- \'Equilibre des populations proies/prédateurs, équation de Lokta-Volterra et méthode d'Euler : à venir.  
+- Équilibre des populations proies/prédateurs, équation de Lokta-Volterra et méthode d'Euler : à venir.  
   Vous pouvez d'ores et déjà consulter la [page Wikipedia sur ce sujet](https://fr.wikipedia.org/wiki/%C3%89quations_de_pr%C3%A9dation_de_Lotka-Volterra).
 
 ---
