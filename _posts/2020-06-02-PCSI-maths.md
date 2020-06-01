@@ -59,5 +59,5 @@ niveau: PCSI
 
 # Divers
 
-- [Cahier de texte de la semaine](https://fcoulombeau.github.io/cours/CT-29052020.pdf).
-- [Programme de colles pour la semaine du 2 juin](https://fcoulombeau.github.io/cours/PC-02062020.pdf).
+- Cahier de texte de la semaine : à venir.
+- Programme de colles pour la semaine du 1er juin : à venir.
