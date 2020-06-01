@@ -14,8 +14,8 @@ niveau: PCSI
 
 # Mardi 2 juin 10h-12h :
 ### Cours de maths
-- Correction de l'exercice 20.20 du cours : fin.
-- Exercice 3 de la feuille d'exercices 21 sur le déterminant : correction de Mlle Plaidy + autre méthode.
+- Correction de l'exercice [20.20 du cours](https://fcoulombeau.github.io/cours/PCSI-Cours-19052020.pdf) : fin.
+- Exercice 3 de la [feuille d'exercices 21 sur le déterminant](https://fcoulombeau.github.io/cours/PCSI-Exo-28052020.pdf) : correction de Mlle Plaidy + autre méthode.
 - [Début du chapitre sur le produit scalaire](https://fcoulombeau.github.io/cours/PCSI-Cours-02062020.pdf).
 
 ---
