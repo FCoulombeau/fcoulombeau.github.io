@@ -28,14 +28,14 @@ niveau: PCSI
 
 ---
 
-# Jeudi 28 mai 10h-12h : 
+# Jeudi 4 juin 10h-12h : 
 ### Cours de maths
 
 - Suite du chapitre sur le produit scalaire : à venir.
 
 ---
 
-# Vendredi 29 mai 10h-12h : 
+# Vendredi 5 juin 10h-12h : 
 ### TD de maths
 
 - [Feuille d'exercices sur les déterminants](https://fcoulombeau.github.io/cours/PCSI-Exo-28052020.pdf).  
