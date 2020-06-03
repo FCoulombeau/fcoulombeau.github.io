@@ -27,7 +27,7 @@ niveau: PCSI
   Voir aussi la [page Wikipedia sur ce sujet](https://fr.wikipedia.org/wiki/%C3%89quations_de_pr%C3%A9dation_de_Lotka-Volterra).  
   Pour aller plus loin : [Divers modèles de Lotka-Volterra et estimation des paramètres réels](https://pbil.univ-lyon1.fr/R/pdf/tdr4a.pdf).  
   À propos de la méthode d'Euler : le [premier TD que nous avons fait sur ce sujet (avant confinement)](https://fcoulombeau.github.io/cours/TD-PenduleOscillant.pdf).
-- [Correction sous forme d'un fichier Python](TD15LotkaVolterra.py).
+- [Correction sous forme d'un fichier Python](https://fcoulombeau.github.io/cours/TD15LotkaVolterra.py).
 
 ---
 
