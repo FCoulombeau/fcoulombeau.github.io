@@ -16,7 +16,7 @@ niveau: PCSI
 ### Devoir informatique
 - [Épreuve Mines-Ponts 2016 (expurgée de quelques questions)](https://fcoulombeau.github.io/cours/PCSI-DevInfo-08062020.pdf).  
   [Correction](https://fcoulombeau.github.io/cours/PCSI-DevInfo-08062020co.pdf).  
-  [Correction Python]https://fcoulombeau.github.io/cours/PCSI-DevInfo-08062020co.py).
+  [Correction Python](https://fcoulombeau.github.io/cours/PCSI-DevInfo-08062020co.py).
 
 ---
 
