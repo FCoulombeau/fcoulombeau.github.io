@@ -42,7 +42,7 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
  {% capture coms %}
  {% for comment in comments %}
   {% assign C = comment[1] | sort %}
-  {% for com in C %}{{ com[1].date }}|{{ comment[0] }}|{{ com[1].name }}|{{ forloop.index }}|0{% if forloop.last == false %}::{% endif %}{% endfor %}{% if forloop.last == false %}::{% endif %}
+  {% for com in C %}{{ com[1].date | date_to_xmlschema }}|{{ comment[0] }}|{{ com[1].name }}|{{ forloop.index }}|0{% if forloop.last == false %}::{% endif %}{% endfor %}{% if forloop.last == false %}::{% endif %}
  {% endfor %}
  {% endcapture %}
  {% assign comments = coms | split:'::' %}
