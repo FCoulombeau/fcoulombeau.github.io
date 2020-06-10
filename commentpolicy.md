@@ -35,3 +35,22 @@ Remarque : le `\displaystyle` n'est pas absolument nécessaire, mais c'est telle
 - etc...
 
 Juste pour cette page, et pour que les novices puissent s'exercer... les commentaires hors-sujet sont autorisés !
+
+Derniers commentaires :
+
+<div class="page__comments">
+    <!-- Start static comments -->
+    <div class="js-comments">
+        <h3 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h3>
+        {% assign comments = site.data.comments | sort %}
+        {% for comment in comments %}
+          {% assign email = comment[1].email %}
+          {% assign name = comment[1].name %}
+          {% assign url = comment[1].url %}
+          {% assign date = comment[1].date %}
+          {% assign message = comment[1].message %}
+          {% include staticman-comment.html index=forloop.index email=email name=name url=url date=date message=message %}
+        {% endfor %}
+    </div>
+    <!-- End static comments -->
+</div>
