@@ -41,15 +41,16 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
  {% assign comments = site.data.comments %}
  {% capture coms %}
  {% for comment in comments %}
-  {% for com in comment[1] %}{{ comment[0] }}|{{ com[1].name }}|{{ com[1].date }}|{{ forloop.index }}{% if forloop.last == false %}::{% endif %}{% endfor %}{% if forloop.last == false %}::{% endif %}
+  {% assign C = comment[1] | sort %}
+  {% for com in C %}{{ com[1].date }}|{{ comment[0] }}|{{ com[1].name }}|{{ forloop.index }}{% if forloop.last == false %}::{% endif %}{% endfor %}{% if forloop.last == false %}::{% endif %}
  {% endfor %}
  {% endcapture %}
  {% assign comments = coms | split:'::' | sort | reverse %}
  {% for com in comments limit: 5 %}
  	{% assign cm = com | split:'|' %}
-    {% assign name = cm[1] %}
-    {% assign date = cm[2] %}
-    {% assign slug = cm[0] %}
+    {% assign name = cm[2] %}
+    {% assign date = cm[0] %}
+    {% assign slug = cm[1] %}
     {% assign idx = cm[3] %}
     {% for post in site.posts %}{% if post.slug == slug %}{% assign title = post.title %}{% endif %}{% endfor %}
     {% for post in site.pages %}{% if post.slug == slug %}{% assign title = post.title %}{% endif %}{% endfor %}
