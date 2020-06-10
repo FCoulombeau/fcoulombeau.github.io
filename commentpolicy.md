@@ -59,10 +59,10 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
  <br/><br/>{{comments}}
  {% for com in comments limit: 5 %}
     {% assign cm = com | split:'|' %}
-    {% assign name = cm[3] %}
-    {% assign date = cm[1] %}
-    {% assign slug = cm[2] %}
-    {% assign idx = cm[4] %}
+    {% assign name = cm[2] %}
+    {% assign date = cm[0] %}
+    {% assign slug = cm[1] %}
+    {% assign idx = cm[3] %}
     {% for post in site.posts %}{% if post.slug == slug %}{% assign title = post.title %}{% endif %}{% endfor %}
     {% for post in site.pages %}{% if post.slug == slug %}{% assign title = post.title %}{% endif %}{% endfor %}
     <br/>- Publié le <time datetime="{{ date | date_to_xmlschema }}" itemprop="datePublished">{{ date | date: "%d/%m/%Y à %H:%M" }}</time> par {{ name }} :
