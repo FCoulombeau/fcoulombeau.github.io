@@ -16,6 +16,7 @@ baseurl: ""
 #  src: "/assets/imgs/emojis" # defaults to "https://cdn.jsdelivr.net/emojione/assets/#{ext}"
 # Name of website
 title: Le Git du Geek
+locale: "fr"
 
 # Short description of your site
 description: Site Web professionnel
