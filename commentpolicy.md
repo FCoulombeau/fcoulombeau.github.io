@@ -38,16 +38,17 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
 
 Derniers commentaires :
 <div class="page__comments">
-        {% assign comments = site.data.comments | sort %}
-        {% for comment in comments %}
-        {% assign coms = comment[1] | sort %}
-        {% for com in coms %}
-          {% assign email = com[1].email %}
-          {% assign name = com[1].name %}
-          {% assign url = com[1].url %}
-          {% assign date = com[1].date %}
-          {% assign message = com[1].message | slice:0, 20%}
-          <br/>- Publié le <time datetime="{{ date | date_to_xmlschema }}" itemprop="datePublished">{{ date | date: "%d/%m/%Y à %H:%M" }}</time> par {{ name }} : <a href="https://fcoulombeau.github.io/{{ comment[0] }}/#comment{{ forloop.index }}">{{site.pages[comment[0]].title}}...</a>
-        {% endfor %}
-        {% endfor %}
+ {% assign comments = site.data.comments | sort %}
+ {% for comment in comments %}
+  {% assign coms = comment[1] | sort %}
+  {% for com in coms %}
+    {% assign email = com[1].email %}
+    {% assign name = com[1].name %}
+    {% assign url = com[1].url %}
+    {% assign date = com[1].date %}
+    {% assign message = com[1].message | slice:0, 20%}
+    <br/>- Publié le <time datetime="{{ date | date_to_xmlschema }}" itemprop="datePublished">{{ date | date: "%d/%m/%Y à %H:%M" }}</time> par {{ name }} :
+    <br/>  <a href="https://fcoulombeau.github.io/{{ comment[0] }}/#comment{{ forloop.index }}">{{site.posts[comment[0]].title}}...</a>
+  {% endfor %}
+ {% endfor %}
 </div>
