@@ -37,6 +37,7 @@ Remarque : le `\displaystyle` n'est pas absolument nécessaire, mais c'est telle
 Juste pour cette page, et pour que les novices puissent s'exercer... les commentaires hors-sujet sont autorisés !
 
 Derniers commentaires :
+<div class="page__comments">
         {% assign comments = site.data.comments | sort %}
         {% for comment in comments %}
         {% assign coms = comment[1] | sort %}
@@ -46,6 +47,7 @@ Derniers commentaires :
           {% assign url = com[1].url %}
           {% assign date = com[1].date %}
           {% assign message = com[1].message limit:30%}
-          <br/>- Publié le {{ date }} par {{ name }} : <a href="https://fcoulombeau.github.io/{{ comment[0] }}/#comment{{ forloop.index }}">{{ comment[0] }}</a>
+          <br/>- Publié le {{ date }} par {{ name }} : <a href="https://fcoulombeau.github.io/{{ comment[0] }}/#comment{{ forloop.index }}">{{ message | markdownify }}</a>
         {% endfor %}
         {% endfor %}
+</div>
