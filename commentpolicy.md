@@ -49,12 +49,12 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
  {% assign arr='' | split:'' %}
  {% for com in comments %}
   {% assign temp = com | split:'|' %}
-  {{ temp }}
   {% assign arr = arr | push: temp %}
  {% endfor %}
- {{ arr }}
  {% assign comments = arr | sort | reverse %}
+ {{ comments }}
  {% for cm in comments limit: 5 %}
+    {{ cm }} ;
     {% assign name = cm[2] %}
     {% assign date = cm[0] %}
     {% assign slug = cm[1] %}
