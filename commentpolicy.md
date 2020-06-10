@@ -38,23 +38,23 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
 
 <div class="page__comments">
 <h4><b>Derniers commentaires :</b></h4>
-  {% assign comments = site.data.comments %}
+ {% assign comments = site.data.comments %}
  {% assign coms = '' | split:'' %}
  {% for comment in comments %}
   {% assign C = comment[1] | sort %}
-  {% for com in comment[1] %}
-    {% assign newcom = com %}
-    {% assign newcom[1].url = comment[0] %}
-    {% assign newcom[1].email = forloop.index %}
+  {% for com in C %}
+    {% assign newcom = com | unshift: comment[0] %}
+    {% assign newcom = newcom | unshift: forloop.index %}
+    {% assign newcom = newcom | unshift: com[0] %}
     {% assign coms = coms | concat: newcom %}
   {% endfor %}
  {% endfor %}
  {% assign comments = coms | sort | reverse %}
  {% for com in comments limit: 5 %}
-    {% assign name = com[1].name %}
-    {% assign date = com[1].date %}
-    {% assign slug = com[1].url %}
-    {% assign idx = com[1].email %}
+    {% assign name = com[4].name %}
+    {% assign date = com[4].date %}
+    {% assign slug = com[2] %}
+    {% assign idx = com[1] %}
     {% for post in site.posts %}{% if post.slug == slug%}{% assign title = post.title %}{% endif %}{% endfor %}
     {% for post in site.pages %}{% if post.slug == slug%}{% assign title = post.title %}{% endif %}{% endfor %}
     <br/>- Publié le <time datetime="{{ date | date_to_xmlschema }}" itemprop="datePublished">{{ date | date: "%d/%m/%Y à %H:%M" }}</time> par {{ name }} :
