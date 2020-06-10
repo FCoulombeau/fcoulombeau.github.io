@@ -45,7 +45,7 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
   {% for com in C %}{{ com[1].date }}|{{ comment[0] }}|{{ com[1].name }}|{{ forloop.index }}{% if forloop.last == false %}::{% endif %}{% endfor %}{% if forloop.last == false %}::{% endif %}
  {% endfor %}
  {% endcapture %}
- {{ C }}
+ {{ coms }}
  {% assign comments = coms | split:'::' | sort | reverse %}
  {% for com in comments limit: 5 %}
  	{% assign cm = com | split:'|' %}
