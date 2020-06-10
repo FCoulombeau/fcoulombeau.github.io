@@ -46,8 +46,8 @@ Derniers commentaires :
           {% assign name = com[1].name %}
           {% assign url = com[1].url %}
           {% assign date = com[1].date %}
-          {% assign message = com[1].message limit:30%}
-          <br/>- Publié le {{ date }} par {{ name }} : <a href="https://fcoulombeau.github.io/{{ comment[0] }}/#comment{{ forloop.index }}">{{ message | markdownify }}</a>
+          {% assign message = com[1].message | slice:0, 20%}
+          <br/>- Publié le <time datetime="{{ date | date_to_xmlschema }}" itemprop="datePublished">{{ date | date: "%d %B  %Y à %I:%M %p" }}</time> par {{ name }} : <a href="https://fcoulombeau.github.io/{{ comment[0] }}/#comment{{ forloop.index }}">{{ message | markdownify }}</a>
         {% endfor %}
         {% endfor %}
 </div>
