@@ -42,11 +42,19 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
  {% capture coms %}
  {% for comment in comments %}
   {% assign C = comment[1] | sort %}
-  {% for com in C %}{{ com[1].date | strip }}|{{ comment[0] }}|{{ com[1].name }}|{{ forloop.index }}|0{% if forloop.last == false %}::{% endif %}{% endfor %}{% if forloop.last == false %}::{% endif %}
+  {% for com in C %}{{ com[0] }}|{{ com[1].date | strip }}|{{ comment[0] }}|{{ com[1].name }}|{{ forloop.index }}|0{% if forloop.last == false %}::{% endif %}{% endfor %}{% if forloop.last == false %}::{% endif %}
  {% endfor %}
  {% endcapture %}
  {% assign comments = coms | split:'::' %}
- {% assign comments = comments | sort | reverse %}
+ {% assign C = '' | split:'' %}
+ {% for com in comments %}
+   {% assign cm = com | split:'|' %}
+   {% assign cm = cm | shift %}
+   {% assign s = cm | join:'|' %}
+   {% assign C = C | push:s %}
+ {% endfor %}
+ {% assign comments = C | sort %}
+ {% assign comments = comments | reverse %}
  {% for com in comments limit: 5 %}
     {% assign cm = com | split:'|' %}
     {% assign name = cm[2] %}
