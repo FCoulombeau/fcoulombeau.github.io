@@ -46,7 +46,7 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
     {% assign newcom = com | unshift: comment[0] %}
     {% assign newcom = newcom | unshift: forloop.index %}
     {% assign newcom = newcom | unshift: com[0] %}
-    {% assign coms = coms | concat: newcom %}
+    {% assign coms = coms | push: newcom %}
   {% endfor %}
  {% endfor %}
  {% assign comments = coms | sort | reverse %}
