@@ -46,15 +46,9 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
  {% endfor %}
  {% endcapture %}
  {% assign comments = coms | split:'::' %}
- {% assign arr='' | split:'' %}
- {% for com in comments %}
-  {% assign temp = com | split:'|' %}
-  {% assign arr = arr | push: temp %}
- {% endfor %}
- {% assign comments = arr | sort | reverse %}
- {{ comments }}
- {% for cm in comments limit: 5 %}
-    {{ cm }} ;
+ {% assign comments = comments | sort | reverse %}
+ {% for com in comments limit: 5 %}
+    {% assign cm = com | split:'|' %}
     {% assign name = cm[2] %}
     {% assign date = cm[0] %}
     {% assign slug = cm[1] %}
