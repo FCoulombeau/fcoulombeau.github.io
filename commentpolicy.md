@@ -37,11 +37,6 @@ Remarque : le `\displaystyle` n'est pas absolument nécessaire, mais c'est telle
 Juste pour cette page, et pour que les novices puissent s'exercer... les commentaires hors-sujet sont autorisés !
 
 Derniers commentaires :
-
-<div class="page__comments">
-    <!-- Start static comments -->
-    <div class="js-comments">
-        <h3 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h3>
         {% assign comments = site.data.comments | sort %}
         {% for comment in comments %}
         {% assign coms = comment[1] | sort %}
@@ -50,11 +45,7 @@ Derniers commentaires :
           {% assign name = com[1].name %}
           {% assign url = com[1].url %}
           {% assign date = com[1].date %}
-          {% assign message = com[1].message %}
-          {% include staticman-comment.html index=forloop.index email=email name=name url=url date=date message=message %}
-          <br/>https://fcoulombeau.github.io/{{ comment[0] }}
+          {% assign message = com[1].message limit:30%}
+          <br/>- Publié le {{ date }} par {{ name }} : <a href="https://fcoulombeau.github.io/{{ comment[0] }}/#comment{{ forloop.index }}">{{ comment[0] }}</a>
         {% endfor %}
         {% endfor %}
-    </div>
-    <!-- End static comments -->
-</div>
