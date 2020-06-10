@@ -49,8 +49,10 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
  {% assign arr='' | split:'' %}
  {% for com in comments %}
   {% assign temp = com | split:'|' %}
+  {{ temp }}
   {% assign arr = arr | push: temp %}
  {% endfor %}
+ {{ arr }}
  {% assign comments = arr | sort | reverse %}
  {% for cm in comments limit: 5 %}
     {% assign name = cm[2] %}
