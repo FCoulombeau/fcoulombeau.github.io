@@ -15,7 +15,7 @@ Tous les commentaires sont les bienvenus... ou presque ! Seront automatiquement 
 - tous les commentaires hors-sujet ou autres messages publicitaires, spam, etc...
 - les trolls :laughing:
 
-Le Markdown peut-être utilisé pour la mise en forme du texte dans les commentaires - ainsi que sur beaucoup de sites Web contemporains. [Prenez 5 minutes pour apprendre le Markdown](http://markdowntutorial.com/) (tutoriel en anglais) ou consultez ce [post](/2019-03-08-markdown/) avec les principales syntaxes expliquées.
+Le Markdown peut-être utilisé pour la mise en forme du texte dans les commentaires - ainsi que sur beaucoup de sites Web contemporains. [Prenez 5 minutes pour apprendre le Markdown](http://markdowntutorial.com/) (tutoriel en anglais) ou consultez ce [post](/markdown/) avec les principales syntaxes expliquées.
 
 Des smileys sont aussi disponibles. L'ensemble des smileys supportés se trouve [là](https://www.webpagefx.com/tools/emoji-cheat-sheet/). On peut aussi (avec certains navigateurs) les obtenir avec un simple clic droit. Parmi les plus courants :
 
@@ -36,8 +36,8 @@ Remarque : le `\displaystyle` n'est pas absolument nécessaire, mais c'est telle
 
 Juste pour cette page, et pour que les novices puissent s'exercer... les commentaires hors-sujet sont autorisés !
 
-Derniers commentaires :
 <div class="page__comments">
+<h4><b>Derniers commentaires :</b></h4>
  {% assign comments = site.data.comments | sort %}
  {% for comment in comments %}
   {% assign coms = comment[1] | sort %}
@@ -47,8 +47,10 @@ Derniers commentaires :
     {% assign url = com[1].url %}
     {% assign date = com[1].date %}
     {% assign message = com[1].message | slice:0, 20%}
+    {% for post in site.posts %}{% if post.slug == comment[0]%}{% assign title = post.title %}{% endif %}{% endfor %}
+    {% for post in site.pages %}{% if post.slug == comment[0]%}{% assign title = post.title %}{% endif %}{% endfor %}
     <br/>- Publié le <time datetime="{{ date | date_to_xmlschema }}" itemprop="datePublished">{{ date | date: "%d/%m/%Y à %H:%M" }}</time> par {{ name }} :
-    <br/>  <a href="https://fcoulombeau.github.io/{{ comment[0] }}/#comment{{ forloop.index }}">{{site.posts[comment[0]].title}}...</a>
+    <br/>  <a href="https://fcoulombeau.github.io/{{ comment[0] }}/#comment{{ forloop.index }}">{{title}}...</a>
   {% endfor %}
  {% endfor %}
 </div>
