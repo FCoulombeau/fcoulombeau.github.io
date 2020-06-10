@@ -44,15 +44,15 @@ Derniers commentaires :
         <h3 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h3>
         {% assign comments = site.data.comments | sort %}
         {% for comment in comments %}
-        {% assign coms = comment | sort %}
-        {% for com in coms[1] %}
+        {% assign coms = comment[1] | sort %}
+        {% for com in coms %}
           {% assign email = com[1].email %}
           {% assign name = com[1].name %}
           {% assign url = com[1].url %}
           {% assign date = com[1].date %}
           {% assign message = com[1].message %}
           {% include staticman-comment.html index=forloop.index email=email name=name url=url date=date message=message %}
-          {{ comment[0] }}
+          <br/>https://fcoulombeau.github.io/{{ comment[0] }}
         {% endfor %}
         {% endfor %}
     </div>
