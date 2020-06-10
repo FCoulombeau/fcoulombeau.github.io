@@ -39,25 +39,26 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
 <div class="page__comments">
 <h4><b>Derniers commentaires :</b></h4>
  {% assign comments = site.data.comments %}
- {% assign coms = '' | split:'' %}
+ {% capture coms %}
  {% for comment in comments %}
   {% assign C = comment[1] | sort %}
-  {% for com in C %}
-    {% assign newcom = com | unshift: comment[0] %}
-    {% assign newcom = newcom | unshift: forloop.index %}
-    {% assign newcom = newcom | unshift: com[0] %}
-    {% assign coms = coms | push: newcom %}
-  {% endfor %}
+  {% for com in C %}{{ com[0] }}|{{ com[1].date }}|{{ comment[0] }}|{{ com[1].name }}|{{ forloop.index }}|0{% if forloop.last == false %}::{% endif %}{% endfor %}{% if forloop.last == false %}::{% endif %}
  {% endfor %}
- {% assign comments = coms | sort | reverse %}
+ {% endcapture %}
+ {% assign comments = coms | split:'::' %}
+ {{comments}}<br/>
+ {% assign comments = comments | sort %}
+ {{comments}}<br/>
+ {% assign comments = comments | reverse %}
+ {{comments}}<br/>
  {% for com in comments limit: 5 %}
- {{com}}
-    {% assign name = com[4].name %}
-    {% assign date = com[4].date %}
-    {% assign slug = com[2] %}
-    {% assign idx = com[1] %}
-    {% for post in site.posts %}{% if post.slug == slug%}{% assign title = post.title %}{% endif %}{% endfor %}
-    {% for post in site.pages %}{% if post.slug == slug%}{% assign title = post.title %}{% endif %}{% endfor %}
+    {% assign cm = com | split:'|' %}
+    {% assign name = cm[3] %}
+    {% assign date = cm[1] %}
+    {% assign slug = cm[2] %}
+    {% assign idx = cm[4] %}
+    {% for post in site.posts %}{% if post.slug == slug %}{% assign title = post.title %}{% endif %}{% endfor %}
+    {% for post in site.pages %}{% if post.slug == slug %}{% assign title = post.title %}{% endif %}{% endfor %}
     <br/>- Publié le <time datetime="{{ date | date_to_xmlschema }}" itemprop="datePublished">{{ date | date: "%d/%m/%Y à %H:%M" }}</time> par {{ name }} :
     <br/>  <a href="https://fcoulombeau.github.io/{{ slug }}/#comment{{ idx }}">{{ title }}...</a>
  {% endfor %}
