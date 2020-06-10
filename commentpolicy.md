@@ -50,6 +50,7 @@ Derniers commentaires :
           {% assign date = comment[1].date %}
           {% assign message = comment[1].message %}
           {% include staticman-comment.html index=forloop.index email=email name=name url=url date=date message=message %}
+          {{ comment }}
         {% endfor %}
     </div>
     <!-- End static comments -->
