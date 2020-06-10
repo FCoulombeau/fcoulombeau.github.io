@@ -29,7 +29,7 @@ niveau: PCSI
 # Mercredi 10 juin 10h-12h : 
 ### Cours de maths
 
-- Suite et fin(?) du chapitre sur le produit scalaire : à venir.
+- [Suite et fin du chapitre sur le produit scalaire](https://fcoulombeau.github.io/cours/PCSI-Cours-10062020.pdf).
 
 ---
 
