@@ -39,10 +39,10 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
 <div class="page__comments">
 <h4><b>Derniers commentaires :</b></h4>
  {% assign comments = site.data.comments %}
- {% assign coms = "" | split:"," %}
+ {% assign coms = '' | split:'' %}
  {% for comment in comments %}
   {% assign C = comment[1] | sort %}
-  {% for com in C %}
+  {% for com in comment[1] %}
     {% assign newcom = com %}
     {% assign newcom[1].slug = comment[0] %}
     {% assign newcom[1].idx = forloop.index %}
@@ -55,8 +55,8 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
     {% assign date = com[1].date %}
     {% assign slug = com[1].slug %}
     {% assign idx = com[1].idx %}
-    {% for post in site.posts %}{% if post.slug == slug %}{% assign title = post.title %}{% endif %}{% endfor %}
-    {% for post in site.pages %}{% if post.slug == slug %}{% assign title = post.title %}{% endif %}{% endfor %}
+    {% for post in site.posts %}{% if post.slug == slug%}{% assign title = post.title %}{% endif %}{% endfor %}
+    {% for post in site.pages %}{% if post.slug == slug%}{% assign title = post.title %}{% endif %}{% endfor %}
     <br/>- Publié le <time datetime="{{ date | date_to_xmlschema }}" itemprop="datePublished">{{ date | date: "%d/%m/%Y à %H:%M" }}</time> par {{ name }} :
     <br/>  <a href="https://fcoulombeau.github.io/{{ slug }}/#comment{{ idx }}">{{ title }}...</a>
  {% endfor %}
