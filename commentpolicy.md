@@ -47,6 +47,7 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
  {% endcapture %}
  {{ coms }}
  {% assign comments = coms | split:'::' | sort | reverse %}
+ {{ comments }}
  {% for com in comments limit: 5 %}
  	{% assign cm = com | split:'|' %}
     {% assign name = cm[2] %}
