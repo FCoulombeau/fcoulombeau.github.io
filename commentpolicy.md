@@ -51,6 +51,7 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
  {% endfor %}
  {% assign comments = coms | sort | reverse %}
  {% for com in comments limit: 5 %}
+ {{com}}
     {% assign name = com[4].name %}
     {% assign date = com[4].date %}
     {% assign slug = com[2] %}
