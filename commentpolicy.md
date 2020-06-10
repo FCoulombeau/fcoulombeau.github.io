@@ -52,8 +52,7 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
   {% assign arr = arr | push: temp %}
  {% endfor %}
  {% assign comments = arr | sort | reverse %}
- {% for com in comments limit: 5 %}
- 	{% assign cm = com | split:'|' %}
+ {% for cm in comments limit: 5 %}
     {% assign name = cm[2] %}
     {% assign date = cm[0] %}
     {% assign slug = cm[1] %}
