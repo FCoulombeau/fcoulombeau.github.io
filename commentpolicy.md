@@ -41,8 +41,11 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
  {% assign comments = site.data.comments %}
  {% assign coms = "" | split:"," %}
  {% for comment in comments %}
-    {% assign comment[1].slug = comment[0] %}
-    {% assign coms = coms | concat: comment[1]%}
+  {% for com in comment[1] %}
+    {% assign newcom = com %}
+    {% assign newcom[1].slug = comment[0] %}
+    {% assign coms = coms | concat: newcom %}
+  {% endfor %}
  {% endfor %}
  {% assign comments = coms | sort | reverse %}
  {% for com in comments limit: 5 %}
