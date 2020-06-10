@@ -46,8 +46,16 @@ Juste pour cette page, et pour que les novices puissent s'exercer... les comment
  {% endfor %}
  {% endcapture %}
  {% assign comments = coms | split:'::' %}
- {{comments}}<br/>
- {% assign comments = comments | sort %}
+ {% assign str = '' %}
+ {% assign C = '' | split:'' %}
+ {% for com in comments %}
+   {% assign cm = com | split:'|' %}
+   {% assign cm = com | shift %}
+   {% assign s = cm | join:'|' %}
+   {% assign str = str | append:s %}
+   {% assign C = C | push:str %}
+ {% endfor %}
+ {% assign comments = C | sort %}
  {{comments}}<br/>
  {% assign comments = comments | reverse %}
  {{comments}}<br/>
