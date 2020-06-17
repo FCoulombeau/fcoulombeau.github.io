@@ -37,6 +37,7 @@ niveau: PCSI
 ### Cours de maths
 
 - [Fin du chapitre sur le produit scalaire](https://fcoulombeau.github.io/cours/PCSI-Cours-11062020.pdf).
+  [Correction des exercices du cours](https://fcoulombeau.github.io/cours/PCSI-CoursCor-11062020.pdf).
 
 ---
 
