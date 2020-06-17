@@ -14,6 +14,7 @@ niveau: PCSI
 
 # Lundi 8 juin 14h-17h :
 ### Devoir informatique
+
 - [Épreuve Mines-Ponts 2016 (expurgée de quelques questions)](https://fcoulombeau.github.io/cours/PCSI-DevInfo-08062020.pdf).  
   [Correction](https://fcoulombeau.github.io/cours/PCSI-DevInfo-08062020co.pdf).  
   [Correction Python](https://fcoulombeau.github.io/cours/PCSI-DevInfo-08062020co.py).
@@ -22,6 +23,7 @@ niveau: PCSI
 
 # Mardi 9 juin 10h-12h :
 ### Cours de maths
+
 - [Suite du chapitre sur le produit scalaire](https://fcoulombeau.github.io/cours/PCSI-Cours-09062020.pdf).
 
 ---

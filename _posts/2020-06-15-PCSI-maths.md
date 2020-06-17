@@ -12,4 +12,14 @@ slug: pcsi-m18
 niveau: PCSI
 ---
 
+# Lundi/mardi 15/16 juin :
+### Cours de maths
+
 - [Variables aléatoires](https://fcoulombeau.github.io/cours/PCSI-Cours-15062020.pdf).
+
+---
+
+# Mercredi 17 juin 10h-12h : 
+### Cours de maths
+
+- [Variables aléatoires](https://fcoulombeau.github.io/cours/PCSI-Cours-17062020.pdf).
