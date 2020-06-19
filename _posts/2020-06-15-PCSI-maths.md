@@ -19,7 +19,13 @@ niveau: PCSI
 
 ---
 
-# Mercredi 17 juin 10h-12h : 
+# Mercredi/Jeudi/Vendredi 17/18/19 juin 10h-12h : 
 ### Cours de maths
 
-- [Variables aléatoires](https://fcoulombeau.github.io/cours/PCSI-Cours-17062020.pdf).
+- [Variables aléatoires (suite et fin)](https://fcoulombeau.github.io/cours/PCSI-Cours-17062020.pdf).
+
+---
+
+# Cahier de texte :
+
+- [Semaine du 15 juin](https://fcoulombeau.github.io/cours/CT-15062020.pdf). 
