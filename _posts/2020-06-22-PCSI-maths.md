@@ -12,7 +12,7 @@ slug: pcsi-m19
 niveau: PCSI
 ---
 
-# Pour la semain
+# Pour la semaine
 ### Intégration par l'exemple
 
 - [Exercices sur l'intégration](https://fcoulombeau.github.io/cours/PCSI-Cours-22062020.pdf). 
