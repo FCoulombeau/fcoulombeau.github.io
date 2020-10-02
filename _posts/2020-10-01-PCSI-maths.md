@@ -21,3 +21,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 # Programme de colles
 
 - [Semaine du 5 octobre](https://fcoulombeau.github.io/cours/Colles.pdf). 
+
+# Devoir surveillé du 2 octobre
+
+- [Énoncé](https://fcoulombeau.github.io/cours/DS1.pdf).
