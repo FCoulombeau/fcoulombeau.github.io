@@ -29,3 +29,4 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 # TD d'info du 2 octobre
 
 - [Boucles et types de référence](https://fcoulombeau.github.io/cours/TDInfo3.pdf).
+- [Corrigé](https://fcoulombeau.github.io/cours/TDInfo3c.pdf).
