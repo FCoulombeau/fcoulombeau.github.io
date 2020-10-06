@@ -16,7 +16,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # Cahier de texte
 
-- [Jusqu'au 5 octobre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 6 octobre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # Programme de colles
 
@@ -27,7 +27,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 - [Énoncé](https://fcoulombeau.github.io/cours/DS1.pdf).
 - [Corrigé](https://fcoulombeau.github.io/cours/DS1c.pdf).
 
-# TD d'info du 2 octobre
+# Informatique : TD du 2 octobre
 
 - [Boucles et types de référence](https://fcoulombeau.github.io/cours/TDInfo3.pdf).
 - [Corrigé](https://fcoulombeau.github.io/cours/TDInfo3c.pdf).
@@ -36,3 +36,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 - [Cours : L'ensemble des nombres complexes](https://fcoulombeau.github.io/cours/Complexes1.pdf).
 - [Feuille d'exercices sur les nombres complexes](https://fcoulombeau.github.io/cours/ComplexesExos1.pdf).
+
+# Informatique : nouveau chapitre sur les types de référence
+
+- [Types de référence](https://fcoulombeau.github.io/cours/TypesRef.pdf).
