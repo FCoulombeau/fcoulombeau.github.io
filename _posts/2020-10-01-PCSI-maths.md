@@ -40,3 +40,4 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 # Informatique : nouveau chapitre sur les types de référence
 
 - [Types de référence](https://fcoulombeau.github.io/cours/TypesRef.pdf).
+- [Exercice du cours, fichier Python](https://fcoulombeau.github.io/cours/Cours-Info-06102020.py).
