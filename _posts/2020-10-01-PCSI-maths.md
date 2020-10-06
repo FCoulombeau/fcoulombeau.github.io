@@ -31,3 +31,8 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 - [Boucles et types de référence](https://fcoulombeau.github.io/cours/TDInfo3.pdf).
 - [Corrigé](https://fcoulombeau.github.io/cours/TDInfo3c.pdf).
+
+# Nouveau chapitre sur les nombres complexes
+
+- [Cours : L'ensemble des nombres complexes](https://fcoulombeau.github.io/cours/Complexes1.pdf).
+- [Feuille d'exercices sur les nombres complexes](https://fcoulombeau.github.io/cours/ComplexesExos1.pdf).
