@@ -16,7 +16,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # Cahier de texte
 
-- [Jusqu'au 2 octobre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 5 octobre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # Programme de colles
 
@@ -25,6 +25,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 # Devoir surveillé du 2 octobre
 
 - [Énoncé](https://fcoulombeau.github.io/cours/DS1.pdf).
+- [Corrigé](https://fcoulombeau.github.io/cours/DS1c.pdf).
 
 # TD d'info du 2 octobre
 
