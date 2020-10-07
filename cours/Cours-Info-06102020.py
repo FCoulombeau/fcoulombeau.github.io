@@ -12,7 +12,7 @@ i=0
 print('0:00',sep='',end='')
 NbMinutes = 2
 
-while t.time()-depart<=2*60:
+while t.time()-depart<=NbMinutes*60:
     if t.time()-partiel>1:
         partiel = t.time()
         i= i+1
