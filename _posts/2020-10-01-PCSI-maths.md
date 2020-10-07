@@ -41,3 +41,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 - [Types de référence](https://fcoulombeau.github.io/cours/TypesRef.pdf).
 - [Exercice du cours, fichier Python](https://fcoulombeau.github.io/cours/Cours-Info-06102020.py).
+
+# Devoir à la maison de maths
+
+- [Pour le mercredi 14 octobre](https://fcoulombeau.github.io/cours/DM1.pdf).
