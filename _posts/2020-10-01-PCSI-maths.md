@@ -16,11 +16,11 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # Cahier de texte
 
-- [Jusqu'au 7 octobre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 9 octobre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # Programme de colles
 
-- [Semaine du 5 octobre](https://fcoulombeau.github.io/cours/Colles.pdf). 
+- [Semaine du 12 octobre](https://fcoulombeau.github.io/cours/Colles.pdf). 
 
 # Devoir surveillé du 2 octobre
 
