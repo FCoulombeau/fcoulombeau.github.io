@@ -50,3 +50,4 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 # Devoir à la maison de maths
 
 - [Pour le mercredi 14 octobre](https://fcoulombeau.github.io/cours/DM1.pdf).
+- [Corrigé](https://fcoulombeau.github.io/cours/DM1c.pdf).
