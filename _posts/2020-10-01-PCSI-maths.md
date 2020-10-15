@@ -52,3 +52,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 - [Pour le mercredi 14 octobre](https://fcoulombeau.github.io/cours/DM1.pdf).
 - [Corrigé](https://fcoulombeau.github.io/cours/DM1c.pdf).
+
+# Devoir à la maison d'informatique
+
+- [Pour le dimanche 1<UP>er</UP> novembre, par mail](https://fcoulombeau.github.io/cours/DMInfo1.pdf).
