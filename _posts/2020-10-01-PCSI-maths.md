@@ -20,7 +20,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # Programme de colles
 
-- [Semaine du 12 octobre](https://fcoulombeau.github.io/cours/Colles.pdf). 
+- [Semaine du 2 novembre](https://fcoulombeau.github.io/cours/Colles.pdf). 
 
 # Devoir surveillé du 2 octobre
 
