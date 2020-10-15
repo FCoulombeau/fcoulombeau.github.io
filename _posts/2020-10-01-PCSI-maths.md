@@ -20,7 +20,8 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # Programme de colles
 
-- [Semaine du 2 novembre](https://fcoulombeau.github.io/cours/Colles.pdf). 
+- [Semaine du 2 novembre](https://fcoulombeau.github.io/cours/Colles.pdf).  
+  [Formulaire de trigonométrie de C.Baillaud](https://fcoulombeau.github.io/cours/trigo.pdf). 
 
 # Devoir surveillé du 2 octobre
 
