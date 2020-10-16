@@ -16,7 +16,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # Cahier de texte
 
-- [Jusqu'au 14 octobre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 16 octobre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # Programme de colles
 
@@ -52,6 +52,10 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 - [Pour le mercredi 14 octobre](https://fcoulombeau.github.io/cours/DM1.pdf).
 - [Corrigé](https://fcoulombeau.github.io/cours/DM1c.pdf).
+
+# Informatique : TD du 16 octobre
+
+- [Boucles et types de référence](https://fcoulombeau.github.io/cours/TDInfo4.pdf).
 
 # Devoir à la maison d'informatique
 
