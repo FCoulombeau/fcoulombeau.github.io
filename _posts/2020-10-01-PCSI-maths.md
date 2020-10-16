@@ -56,6 +56,8 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 # Informatique : TD du 16 octobre
 
 - [Boucles et types de référence](https://fcoulombeau.github.io/cours/TDInfo4.pdf).
+- [Corrigé](https://fcoulombeau.github.io/cours/TDInfo4c.pdf).  
+  [Fichier Python](https://fcoulombeau.github.io/cours/TDInfo4.py).
 
 # Devoir à la maison d'informatique
 
