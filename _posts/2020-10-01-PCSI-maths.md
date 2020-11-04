@@ -16,11 +16,11 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # Cahier de texte
 
-- [Jusqu'au 16 octobre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 4 novembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # Programme de colles
 
-- [Semaine du 2 novembre](https://fcoulombeau.github.io/cours/Colles.pdf).  
+- [Semaine du 9 novembre](https://fcoulombeau.github.io/cours/Colles.pdf).  
   [Formulaire de trigonométrie de C.Baillaud](https://fcoulombeau.github.io/cours/trigo.pdf). 
 
 # Devoir surveillé du 2 octobre
@@ -38,15 +38,24 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 - [Cours : L'ensemble des nombres complexes](https://fcoulombeau.github.io/cours/Complexes1.pdf).
 - [Feuille d'exercices sur les nombres complexes](https://fcoulombeau.github.io/cours/ComplexesExos1.pdf).
 
-# Nouveau chapitre de maths sur les fonctions de référence
+# Fonctions de référence
 
 - [Cours : Fonctions de référence](https://fcoulombeau.github.io/cours/Calculus2.pdf).
 - [Feuille d'exercices sur les fonctions de référence](https://fcoulombeau.github.io/cours/CalculusExos2.pdf).
 
-# Informatique : nouveau chapitre sur les types de référence
+# Nouveau chapitre de maths sur l'utilisation des nombres complexes en géométrie et en algèbre
+
+- [Cours : Utilisation des nombres complexes en géométrie et en algèbre](https://fcoulombeau.github.io/cours/Complexes2.pdf).
+- [Feuille d'exercices sur l'utilisation des nombres complexes en géométrie et en algèbre](https://fcoulombeau.github.io/cours/ComplexesExos2.pdf).
+
+# Types de référence
 
 - [Types de référence](https://fcoulombeau.github.io/cours/TypesRef.pdf).
 - [Exercice du cours, fichier Python](https://fcoulombeau.github.io/cours/Cours-Info-06102020.py).
+
+# Informatique : nouveau chapitre sur la représentation en mémoire des données
+
+- [Représentation des données en mémoire](https://fcoulombeau.github.io/cours/Binaire.pdf).
 
 # Devoir à la maison de maths
 
@@ -62,3 +71,4 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 # Devoir à la maison d'informatique
 
 - [Pour le dimanche 1<UP>er</UP> novembre, par mail](https://fcoulombeau.github.io/cours/DMInfo1.pdf).
+- [Corrigé](https://fcoulombeau.github.io/cours/DMInfo1c.pdf).
