@@ -16,7 +16,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # Cahier de texte
 
-- [Jusqu'au 4 novembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 6 novembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # Programme de colles
 
