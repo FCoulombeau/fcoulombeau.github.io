@@ -43,10 +43,15 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 - [Cours : Fonctions de référence](https://fcoulombeau.github.io/cours/Calculus2.pdf).
 - [Feuille d'exercices sur les fonctions de référence](https://fcoulombeau.github.io/cours/CalculusExos2.pdf).
 
-# Nouveau chapitre de maths sur l'utilisation des nombres complexes en géométrie et en algèbre
+# Utilisation des nombres complexes en géométrie et en algèbre
 
 - [Cours : Utilisation des nombres complexes en géométrie et en algèbre](https://fcoulombeau.github.io/cours/Complexes2.pdf).
 - [Feuille d'exercices sur l'utilisation des nombres complexes en géométrie et en algèbre](https://fcoulombeau.github.io/cours/ComplexesExos2.pdf).
+
+# Nouveau chapitre de maths sur le calcul intégral et les équations différentielles
+
+- [Cours : Calcul intégral et les équations différentielles](https://fcoulombeau.github.io/cours/IntEquaDif.pdf).
+- [Feuille d'exercices sur le calcul intégral et les équations différentielles](https://fcoulombeau.github.io/cours/IntEquaDifExos.pdf).
 
 # Types de référence
 
