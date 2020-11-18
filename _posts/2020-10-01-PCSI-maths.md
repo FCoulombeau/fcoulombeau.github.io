@@ -34,7 +34,8 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 ### Nouveau chapitre de maths sur le calcul intégral et les équations différentielles
 
-- [Cours : Calcul intégral et les équations différentielles](https://fcoulombeau.github.io/cours/IntEquaDif.pdf).
+- [Cours : Calcul intégral et les équations différentielles](https://fcoulombeau.github.io/cours/IntEquaDif.pdf).  
+- [Cours **avec démonstrations**](https://fcoulombeau.github.io/cours/IntEquaDifDemos.pdf).  
 - [Feuille d'exercices sur le calcul intégral et les équations différentielles](https://fcoulombeau.github.io/cours/IntEquaDifExos.pdf).
 
 ### Utilisation des nombres complexes en géométrie et en algèbre
