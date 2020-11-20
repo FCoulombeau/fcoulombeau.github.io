@@ -16,21 +16,19 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # Cahier de texte
 
-- [Jusqu'au 10 novembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 18 novembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # Programme de colles
 
-- [Semaine du 16 novembre](https://fcoulombeau.github.io/cours/Colles.pdf).  
-  **_Il n'y aura pas de colle la semaine du 16 au 20 novembre à cause du confinement de la classe._**  
-  **_Je ne mets un programme de colles que pour vous aider dans votre travail d'apprentissage du cours._**  
-  Cependant, si certains élèves souhaitent faire une colle à distance, je peux prendre 2 groupes (donc à priori 6 élèves, 8 au maximum) de volontaires.  
-  Cette colle ne sera pas notée. Je ne la propose que pour vous aider dans votre travail.
+- [Semaine du 23 novembre](https://fcoulombeau.github.io/cours/Colles.pdf).  
+  **_Il y aura colle cette semaine._**
 
 # Maths
   
 ### Devoir à la maison pour le 18 novembre
 
 - [Énoncé](https://fcoulombeau.github.io/cours/DM2.pdf).
+- [Corrigé](https://fcoulombeau.github.io/cours/DM2c.pdf).
 
 ### Nouveau chapitre de maths sur le calcul intégral et les équations différentielles
 
