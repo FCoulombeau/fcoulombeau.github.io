@@ -30,7 +30,11 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 - [Énoncé](https://fcoulombeau.github.io/cours/DM2.pdf).
 - [Corrigé](https://fcoulombeau.github.io/cours/DM2c.pdf).
 
-### Nouveau chapitre de maths sur le calcul intégral et les équations différentielles
+### Nouveau chapitre sur les réels et les suites
+- [Cours **avec démonstrations**](https://fcoulombeau.github.io/cours/ReelsSuites.pdf).  
+- [Feuille d'exercices sur les réels et les suites](https://fcoulombeau.github.io/cours/ReelsSuitesExos.pdf).
+
+### Calcul intégral et les équations différentielles
 
 - [Cours : Calcul intégral et les équations différentielles](https://fcoulombeau.github.io/cours/IntEquaDif.pdf).  
 - [Cours **avec démonstrations**](https://fcoulombeau.github.io/cours/IntEquaDifDemos.pdf).  
