@@ -72,7 +72,11 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # Informatique
 
-### Nouveau chapitre sur la représentation en mémoire des données
+### TD du 1er décembre
+
+- [Base 2 et dichotomie](https://fcoulombeau.github.io/cours/TDInfo7.pdf).
+
+### Représentation en mémoire des données
 
 - [Représentation des données en mémoire](https://fcoulombeau.github.io/cours/Binaire.pdf).
 
