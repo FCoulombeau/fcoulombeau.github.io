@@ -16,12 +16,16 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # Cahier de texte
 
-- [Jusqu'au 18 novembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 30 novembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # Programme de colles
 
-- [Semaine du 23 novembre](https://fcoulombeau.github.io/cours/Colles.pdf).  
-  **_Il y aura colle cette semaine._**
+- [Semaine du 30 novembre](https://fcoulombeau.github.io/cours/Colles.pdf).  
+  **_Il n'y aura pas de colle cette semaine._**
+  
+# Résumés vidéo des cours en ligne
+
+- [![30 novembre](http://img.youtube.com/vi/jVUz9cJF3rI/0.jpg)](http://www.youtube.com/watch?v=jVUz9cJF3rI).
 
 # Maths
   
