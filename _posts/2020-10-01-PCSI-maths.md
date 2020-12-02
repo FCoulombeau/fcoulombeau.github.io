@@ -14,20 +14,20 @@ niveau: PCSI
 
 Une page où je regrouperai les divers documents donnés en cours pour que les élèves confinés puissent suivre l'évolution du cours de loin.
 
-# Cahier de texte
+# <ins>Cahier de texte</ins>
 
 - [Jusqu'au 1er décembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
-# Programme de colles
+# <ins>Programme de colles</ins>
 
 - [Semaine du 30 novembre](https://fcoulombeau.github.io/cours/Colles.pdf).  
   **_Il n'y aura pas de colle cette semaine._**
   
-# Résumés vidéo des cours en ligne
+# <ins>Résumés vidéo des cours en ligne</ins>
 
 - [![30 novembre](http://img.youtube.com/vi/jVUz9cJF3rI/0.jpg)](http://www.youtube.com/watch?v=jVUz9cJF3rI).
 
-# Maths
+# <ins>Maths</ins>
   
 ### Devoir à la maison pour le 18 novembre
 
@@ -70,7 +70,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 - [Pour le mercredi 14 octobre](https://fcoulombeau.github.io/cours/DM1.pdf).
 - [Corrigé](https://fcoulombeau.github.io/cours/DM1c.pdf).
 
-# Informatique
+# <ins>Informatique</ins>
 
 ### TD du 1er décembre
 
