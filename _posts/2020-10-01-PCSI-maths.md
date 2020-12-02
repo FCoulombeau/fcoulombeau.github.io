@@ -75,6 +75,8 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 ### TD du 1er décembre
 
 - [Base 2 et dichotomie](https://fcoulombeau.github.io/cours/TDInfo7.pdf).
+- [Corrigé](https://fcoulombeau.github.io/cours/TDInfo7c.pdf).  
+  [Fichier Python](https://fcoulombeau.github.io/cours/TDInfo7.py).
 
 ### Représentation en mémoire des données
 
