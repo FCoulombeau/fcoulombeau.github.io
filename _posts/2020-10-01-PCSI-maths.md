@@ -20,8 +20,8 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # <ins>Programme de colles</ins>
 
-- [Semaine du 30 novembre](https://fcoulombeau.github.io/cours/Colles.pdf).  
-  **_Il n'y aura pas de colle cette semaine._**
+- [Semaine du 7 décembre](https://fcoulombeau.github.io/cours/Colles.pdf).  
+  **_Il y aura une colle cette semaine_** (+ un DS mercredi...)
   
 # <ins>Résumés vidéo des cours en ligne</ins>
 
