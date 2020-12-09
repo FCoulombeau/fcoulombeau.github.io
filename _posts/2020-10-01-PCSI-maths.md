@@ -28,6 +28,11 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 - [![30 novembre](http://img.youtube.com/vi/jVUz9cJF3rI/0.jpg)](http://www.youtube.com/watch?v=jVUz9cJF3rI).
 
 # <ins>Maths</ins>
+
+### Devoir surveillé du 9 décembre
+
+- [Énoncé](https://fcoulombeau.github.io/cours/DS2.pdf).
+- [Corrigé](https://fcoulombeau.github.io/cours/DS2c.pdf) (j'ai corrigé l'erreur de calcul qui entachait les questions 3 et 4 de l'exercice 4).
   
 ### Devoir à la maison pour le 18 novembre
 

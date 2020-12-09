@@ -59,7 +59,7 @@ r2=dicho(lambda x:x**2-2,1,2,1e-7)
 print(r2,abs(r2-2**0.5))
 
 # d)
-r2=dicho(lambda x:x**2-2,1,2,1e-15)
+r2=dicho(lambda x:x**2-2,1,2,1e-16)
 print(r2,abs(r2-2**0.5))
 r3=dicho(lambda x:x**2-3,1,2,1e-15)
 print(r3,abs(r3-3**0.5))
