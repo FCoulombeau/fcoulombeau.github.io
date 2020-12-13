@@ -16,11 +16,11 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # <ins>Cahier de texte</ins>
 
-- [Jusqu'au 9 décembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 11 décembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # <ins>Programme de colles</ins>
 
-- [Semaine du 14 décembre](https://fcoulombeau.github.io/cours/Colles.pdf).  
+- [Semaine du 14 décembre](https://fcoulombeau.github.io/cours/Colles.pdf) (à jour : les démonstrations des DL de référence ne sont pas encore à connaître. Elles seront à apprendre pour la rentrée de janvier).  
   **_Il y aura colle !_**
   
 # <ins>Résumés vidéo des cours en ligne</ins>
@@ -76,6 +76,11 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 - [Corrigé](https://fcoulombeau.github.io/cours/DM1c.pdf).
 
 # <ins>Informatique</ins>
+
+### TD du 11 décembre
+
+- [Révisions](https://fcoulombeau.github.io/cours/TDInfo8.pdf).
+- [Corrigé](https://fcoulombeau.github.io/cours/TDInfo8c.pdf).
 
 ### TD du 1er décembre
 
