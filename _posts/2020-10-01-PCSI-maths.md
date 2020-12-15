@@ -16,7 +16,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # <ins>Cahier de texte</ins>
 
-- [Jusqu'au 11 décembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 14 décembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # <ins>Programme de colles</ins>
 
@@ -76,6 +76,9 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 - [Corrigé](https://fcoulombeau.github.io/cours/DM1c.pdf).
 
 # <ins>Informatique</ins>
+
+### Nouveau chapitre : Fonctions, objets, modules
+- [Fonctions, objets, modules](https://fcoulombeau.github.io/cours/InfoCh4-FonctionsModules.pdf).
 
 ### TD du 11 décembre
 
