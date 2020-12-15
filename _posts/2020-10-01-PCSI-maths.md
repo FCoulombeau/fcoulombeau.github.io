@@ -16,7 +16,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # <ins>Cahier de texte</ins>
 
-- [Jusqu'au 14 décembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 15 décembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # <ins>Programme de colles</ins>
 
@@ -28,6 +28,10 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 - [![30 novembre](http://img.youtube.com/vi/jVUz9cJF3rI/0.jpg)](http://www.youtube.com/watch?v=jVUz9cJF3rI).
 
 # <ins>Maths</ins>
+
+### Devoirs surveillés 2019
+- [DS2 avec correction](https://fcoulombeau.github.io/cours/DS2-2019.pdf).
+- [DS3 avec correction](https://fcoulombeau.github.io/cours/DS3-2019.pdf).
 
 ### Devoir surveillé du 9 décembre
 
@@ -78,7 +82,8 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 # <ins>Informatique</ins>
 
 ### Nouveau chapitre : Fonctions, objets, modules
-- [Fonctions, objets, modules](https://fcoulombeau.github.io/cours/InfoCh4-FonctionsModules.pdf).
+- [Fonctions, objets, modules](https://fcoulombeau.github.io/cours/InfoCh4-FonctionsModules.pdf).  
+  [Fichier Python du cours du 15 décembre](https://fcoulombeau.github.io/cours/Cours1512.py).
 
 ### TD du 11 décembre
 
