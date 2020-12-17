@@ -82,7 +82,8 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 ### Devoir à la maison d'informatique
 
-- [Pour le dimanche 3 janvier, par mail](https://fcoulombeau.github.io/cours/DMInfo2.pdf).
+- [Pour le dimanche 3 janvier, par mail](https://fcoulombeau.github.io/cours/DMInfo2.pdf).  
+  Pour ceux qui seraient intéressés et voudraient en comprendre davantage sur la méthode SIR, voici par exemple [un article sur le sujet](http://www.math.ens.fr/enseignement/telecharger_fichier.php?fichier=1693).
 
 ### Nouveau chapitre : Fonctions, objets, modules
 - [Fonctions, objets, modules](https://fcoulombeau.github.io/cours/InfoCh4-FonctionsModules.pdf).  
