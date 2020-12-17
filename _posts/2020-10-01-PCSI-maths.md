@@ -20,8 +20,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # <ins>Programme de colles</ins>
 
-- [Semaine du 14 décembre](https://fcoulombeau.github.io/cours/Colles.pdf) (à jour : les démonstrations des DL de référence ne sont pas encore à connaître. Elles seront à apprendre pour la rentrée de janvier).  
-  **_Il y aura colle !_**
+- [Semaine du 4 janvier 2021](https://fcoulombeau.github.io/cours/Colles.pdf) (les démonstrations des DL de référence sont à connaître).
   
 # <ins>Résumés vidéo des cours en ligne</ins>
 
