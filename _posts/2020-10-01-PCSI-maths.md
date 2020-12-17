@@ -80,6 +80,10 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # <ins>Informatique</ins>
 
+### Devoir à la maison d'informatique
+
+- [Pour le dimanche 3 janvier, par mail](https://fcoulombeau.github.io/cours/DMInfo2.pdf).
+
 ### Nouveau chapitre : Fonctions, objets, modules
 - [Fonctions, objets, modules](https://fcoulombeau.github.io/cours/InfoCh4-FonctionsModules.pdf).  
   [Fichier Python du cours du 15 décembre](https://fcoulombeau.github.io/cours/Cours1512.py).
