@@ -16,17 +16,21 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # <ins>Cahier de texte</ins>
 
-- [Jusqu'au 15 décembre](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 5 janvier](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # <ins>Programme de colles</ins>
 
-- [Semaine du 4 janvier 2021](https://fcoulombeau.github.io/cours/Colles.pdf) (les démonstrations des DL de référence sont à connaître).
+- [Semaine du 11 janvier 2021](https://fcoulombeau.github.io/cours/Colles.pdf) (les démonstrations des DL de référence sont à connaître).
   
 # <ins>Résumés vidéo des cours en ligne</ins>
 
 - [![30 novembre](http://img.youtube.com/vi/jVUz9cJF3rI/0.jpg)](http://www.youtube.com/watch?v=jVUz9cJF3rI).
 
 # <ins>Maths</ins>
+
+### Nouveau chapitre sur les espaces vectoriels
+- [Cours : Espaces vectoriels](https://fcoulombeau.github.io/cours/EspacesVectoriels.pdf).  
+- [Feuille d'exercices sur les espaces vectoriels](https://fcoulombeau.github.io/cours/EspacesVectorielsExos.pdf).
 
 ### Nouveau chapitre sur les systèmes
 - [Cours **et exercices**](https://fcoulombeau.github.io/cours/Systemes.pdf).
