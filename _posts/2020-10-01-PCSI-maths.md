@@ -90,6 +90,8 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 ### TD noté du 8 janvier 2021
 
 - [TDs notés + corrigés](https://fcoulombeau.github.io/cours/TDInfoNotesCorriges.pdf).
+- [Fichier Python du premier TD](https://fcoulombeau.github.io/cours/TD.7.Note.a.py)
+- [Fichier Python du second TD](https://fcoulombeau.github.io/cours/TD.7.Note.b.py)
 
 ### Devoir à la maison d'informatique
 
