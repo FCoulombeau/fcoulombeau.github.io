@@ -16,7 +16,7 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # <ins>Cahier de texte</ins>
 
-- [Jusqu'au 5 janvier](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 8 janvier](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # <ins>Programme de colles</ins>
 
@@ -86,6 +86,10 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 - [Corrigé](https://fcoulombeau.github.io/cours/DM1c.pdf).
 
 # <ins>Informatique</ins>
+
+### TD noté du 8 janvier 2021
+
+- [TDs notés + corrigés](https://fcoulombeau.github.io/cours/TDInfoNotesCorriges.pdf).
 
 ### Devoir à la maison d'informatique
 
