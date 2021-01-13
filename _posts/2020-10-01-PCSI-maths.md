@@ -16,11 +16,11 @@ Une page où je regrouperai les divers documents donnés en cours pour que les �
 
 # <ins>Cahier de texte</ins>
 
-- [Jusqu'au 8 janvier](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
+- [Jusqu'au 13 janvier](https://fcoulombeau.github.io/cours/CahierTexte.pdf).
 
 # <ins>Programme de colles</ins>
 
-- [Semaine du 11 janvier 2021](https://fcoulombeau.github.io/cours/Colles.pdf) (les démonstrations des DL de référence sont à connaître).
+- [Semaine du 18 janvier 2021](https://fcoulombeau.github.io/cours/Colles.pdf).
   
 # <ins>Résumés vidéo des cours en ligne</ins>
 
