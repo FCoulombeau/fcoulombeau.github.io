@@ -12,4 +12,6 @@ slug: pcsi-m21
 niveau: PCSI
 ---
 
-![Fichier ipynb](./conf/ReseauRoutier.slides.html).
+Vous pouvez trouver [en suivant ce lien](https://fcoulombeau.github.io/conf/ReseauRoutier.slides.html#/) le document que j'ai utilisé pour vous parler de labyrinthes.
+
+**_F11_** pour passer en **_plein écran_**.
