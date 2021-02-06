@@ -12,4 +12,4 @@ slug: pcsi-m21
 niveau: PCSI
 ---
 
-![Fichier ipynb](./conf/ReseauRoutier.ipynb).
+![Fichier ipynb](./conf/ReseauRoutier.slides.html).
